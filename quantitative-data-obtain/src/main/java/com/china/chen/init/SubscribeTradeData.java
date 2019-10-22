@@ -1,7 +1,6 @@
 package com.china.chen.init;
 
 import com.huobi.client.SubscriptionClient;
-import com.huobi.client.model.Trade;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

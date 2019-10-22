@@ -1,0 +1,124 @@
+2019-10-21 21:50:17 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 23795 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:50:17 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:50:17 [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-21 21:50:18 [INFO] - LiveReload server is running on port 35729
+2019-10-21 21:50:18 [INFO] - Started QuantitativeDataObtainApplication in 0.755 seconds (JVM running for 5.08)
+2019-10-21 21:51:42 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 23824 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:51:42 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:51:42 [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-21 21:51:43 [INFO] - LiveReload server is running on port 35729
+2019-10-21 21:51:43 [INFO] - Started QuantitativeDataObtainApplication in 0.897 seconds (JVM running for 2.186)
+2019-10-21 21:52:09 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 23838 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:52:09 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:52:09 [INFO] - Started QuantitativeDataObtainApplication in 0.765 seconds (JVM running for 1.512)
+2019-10-21 21:53:59 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 23961 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:53:59 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:54:00 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-21 21:54:00 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:00 [INFO] - Starting service [Tomcat]
+2019-10-21 21:54:00 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-21 21:54:00 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-21 21:54:00 [INFO] - Root WebApplicationContext: initialization completed in 850 ms
+2019-10-21 21:54:00 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:54:00 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:00 [INFO] - Pausing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:00 [INFO] - Stopping service [Tomcat]
+2019-10-21 21:54:00 [INFO] - Stopping ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:00 [INFO] - Destroying ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:00 [INFO] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-21 21:54:00 [ERROR] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10000 or configure this application to listen on another port.
+
+2019-10-21 21:54:00 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:54:35 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 23981 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:54:35 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:54:36 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-21 21:54:36 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:36 [INFO] - Starting service [Tomcat]
+2019-10-21 21:54:36 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-21 21:54:36 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-21 21:54:36 [INFO] - Root WebApplicationContext: initialization completed in 909 ms
+2019-10-21 21:54:36 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:54:37 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:37 [INFO] - Pausing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:37 [INFO] - Stopping service [Tomcat]
+2019-10-21 21:54:37 [INFO] - Stopping ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:37 [INFO] - Destroying ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:54:37 [INFO] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-21 21:54:37 [ERROR] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10000 or configure this application to listen on another port.
+
+2019-10-21 21:54:37 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:56:02 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 24010 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:56:02 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:56:03 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-21 21:56:03 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:56:03 [INFO] - Starting service [Tomcat]
+2019-10-21 21:56:03 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-21 21:56:03 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-21 21:56:03 [INFO] - Root WebApplicationContext: initialization completed in 816 ms
+2019-10-21 21:56:03 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:56:03 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:56:03 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-21 21:56:03 [INFO] - Started QuantitativeDataObtainApplication in 1.593 seconds (JVM running for 2.546)
+2019-10-21 21:56:41 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:56:53 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 24022 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 21:56:53 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 21:56:54 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-21 21:56:54 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:56:54 [INFO] - Starting service [Tomcat]
+2019-10-21 21:56:54 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-21 21:56:54 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-21 21:56:54 [INFO] - Root WebApplicationContext: initialization completed in 902 ms
+2019-10-21 21:56:54 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-21 21:56:54 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-21 21:56:54 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-21 21:56:54 [INFO] - Started QuantitativeDataObtainApplication in 1.688 seconds (JVM running for 2.662)
+2019-10-21 21:56:57 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-21 21:56:57 [INFO] - [Sub][0] Connecting...
+2019-10-21 21:57:12 [ERROR] - [Sub][0] Unexpected error: connect timed out
+2019-10-21 21:57:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-21 21:57:30 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-21 23:07:38 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 25159 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-21 23:07:38 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-21 23:07:39 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-21 23:07:39 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-21 23:07:39 [INFO] - Starting service [Tomcat]
+2019-10-21 23:07:39 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-21 23:07:39 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-21 23:07:39 [INFO] - Root WebApplicationContext: initialization completed in 909 ms
+2019-10-21 23:07:39 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-21 23:07:39 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-21 23:07:39 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-21 23:07:40 [INFO] - Started QuantitativeDataObtainApplication in 1.648 seconds (JVM running for 2.712)
+2019-10-21 23:07:40 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-21 23:07:40 [INFO] - [Sub][0] Connecting...
+2019-10-21 23:07:50 [ERROR] - [Sub][0] Unexpected error: connect timed out
+2019-10-21 23:07:50 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-21 23:07:53 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'

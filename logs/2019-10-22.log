@@ -1,0 +1,1326 @@
+2019-10-22 08:51:54 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 25903 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 08:51:54 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 08:51:56 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-22 08:51:56 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-22 08:51:56 [INFO] - Starting service [Tomcat]
+2019-10-22 08:51:56 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 08:51:56 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 08:51:56 [INFO] - Root WebApplicationContext: initialization completed in 1524 ms
+2019-10-22 08:51:56 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 08:51:56 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-22 08:51:56 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-22 08:51:56 [INFO] - Started QuantitativeDataObtainApplication in 2.442 seconds (JVM running for 3.705)
+2019-10-22 08:51:56 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 08:51:56 [INFO] - [Sub][0] Connecting...
+2019-10-22 08:51:58 [INFO] - [Sub][0] Connected to server
+2019-10-22 08:53:20 [WARN] - [Sub][0] No response from server
+2019-10-22 08:53:20 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2019-10-22 08:53:36 [INFO] - [Sub][0] Connecting...
+2019-10-22 08:53:37 [INFO] - [Sub][0] Connected to server
+2019-10-22 08:54:40 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 09:23:53 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 26896 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 09:23:53 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 09:23:54 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-22 09:23:54 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-22 09:23:54 [INFO] - Starting service [Tomcat]
+2019-10-22 09:23:54 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 09:23:54 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 09:23:54 [INFO] - Root WebApplicationContext: initialization completed in 904 ms
+2019-10-22 09:23:54 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 09:23:54 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-22 09:23:54 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-22 09:23:54 [INFO] - Started QuantitativeDataObtainApplication in 1.654 seconds (JVM running for 2.348)
+2019-10-22 09:23:54 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 09:23:54 [INFO] - [Sub][0] Connecting...
+2019-10-22 09:23:55 [INFO] - [Sub][0] Connected to server
+2019-10-22 09:24:22 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 13:59:51 [INFO] - Starting QuantitativeDataObtainApplication on chenjianjun with PID 30513 (/Users/chenjianjun/study/quantitative/quantitative-data-obtain/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 13:59:51 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 13:59:52 [INFO] - Tomcat initialized with port(s): 10000 (http)
+2019-10-22 13:59:52 [INFO] - Initializing ProtocolHandler ["http-nio-10000"]
+2019-10-22 13:59:52 [INFO] - Starting service [Tomcat]
+2019-10-22 13:59:52 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 13:59:52 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 13:59:52 [INFO] - Root WebApplicationContext: initialization completed in 976 ms
+2019-10-22 13:59:52 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 13:59:52 [INFO] - Starting ProtocolHandler ["http-nio-10000"]
+2019-10-22 13:59:52 [INFO] - Tomcat started on port(s): 10000 (http) with context path ''
+2019-10-22 13:59:52 [INFO] - Started QuantitativeDataObtainApplication in 1.861 seconds (JVM running for 2.789)
+2019-10-22 13:59:52 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 13:59:52 [INFO] - [Sub][0] Connecting...
+2019-10-22 13:59:53 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:00:35 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:01:20 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 30573 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:01:20 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:01:21 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:01:21 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:01:21 [INFO] - Starting service [Tomcat]
+2019-10-22 14:01:21 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:01:21 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:01:21 [INFO] - Root WebApplicationContext: initialization completed in 913 ms
+2019-10-22 14:01:21 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:01:21 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:01:21 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:01:21 [INFO] - Started QuantitativeCoreTradeApplication in 1.77 seconds (JVM running for 2.597)
+2019-10-22 14:01:21 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:01:21 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:01:21 [INFO] - [Sub] Connection [id: 1] created for Trade for [htusdt]
+2019-10-22 14:01:21 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:01:21 [INFO] - [Sub] Connection [id: 2] created for Trade for [htusdt]
+2019-10-22 14:01:21 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:01:21 [INFO] - [Sub] Connection [id: 3] created for Trade for [htusdt]
+2019-10-22 14:01:21 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:01:21 [INFO] - [Sub] Connection [id: 4] created for Trade for [htusdt]
+2019-10-22 14:01:21 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:01:22 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:01:22 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:01:22 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:01:22 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:01:22 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695271563,"tradeList":[{"amount":0.58,"direction":"BUY","price":3.41,"timestamp":1571695271482,"tradeId":"10041639717152794666037"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695271563,"tradeList":[{"amount":0.58,"direction":"BUY","price":3.41,"timestamp":1571695271482,"tradeId":"10041639717152794666037"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695271563,"tradeList":[{"amount":0.58,"direction":"BUY","price":3.41,"timestamp":1571695271482,"tradeId":"10041639717152794666037"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695271563,"tradeList":[{"amount":0.58,"direction":"BUY","price":3.41,"timestamp":1571695271482,"tradeId":"10041639717152794666037"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695271558,"tradeList":[{"amount":0.58,"direction":"BUY","price":3.41,"timestamp":1571695271482,"tradeId":"10041639717152794666037"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695292217,"tradeList":[{"amount":447.24,"direction":"BUY","price":3.4108,"timestamp":1571695292164,"tradeId":"10041639766552794695080"}]}
+2019-10-22 14:01:37 [INFO] - {"symbol":"htusdt","timestamp":1571695292217,"tradeList":[{"amount":447.24,"direction":"BUY","price":3.4108,"timestamp":1571695292164,"tradeId":"10041639766552794695080"}]}
+2019-10-22 14:01:39 [INFO] - {"symbol":"htusdt","timestamp":1571695292217,"tradeList":[{"amount":447.24,"direction":"BUY","price":3.4108,"timestamp":1571695292164,"tradeId":"10041639766552794695080"}]}
+2019-10-22 14:01:39 [INFO] - {"symbol":"htusdt","timestamp":1571695292217,"tradeList":[{"amount":447.24,"direction":"BUY","price":3.4108,"timestamp":1571695292164,"tradeId":"10041639766552794695080"}]}
+2019-10-22 14:01:46 [INFO] - {"symbol":"htusdt","timestamp":1571695292217,"tradeList":[{"amount":447.24,"direction":"BUY","price":3.4108,"timestamp":1571695292164,"tradeId":"10041639766552794695080"}]}
+2019-10-22 14:01:46 [INFO] - {"symbol":"htusdt","timestamp":1571695306343,"tradeList":[{"amount":0.15,"direction":"SELL","price":3.4106,"timestamp":1571695306284,"tradeId":"10041639790152794708633"}]}
+2019-10-22 14:01:48 [INFO] - {"symbol":"htusdt","timestamp":1571695306343,"tradeList":[{"amount":0.15,"direction":"SELL","price":3.4106,"timestamp":1571695306284,"tradeId":"10041639790152794708633"}]}
+2019-10-22 14:01:48 [INFO] - {"symbol":"htusdt","timestamp":1571695306343,"tradeList":[{"amount":0.15,"direction":"SELL","price":3.4106,"timestamp":1571695306284,"tradeId":"10041639790152794708633"}]}
+2019-10-22 14:01:48 [INFO] - {"symbol":"htusdt","timestamp":1571695306343,"tradeList":[{"amount":0.15,"direction":"SELL","price":3.4106,"timestamp":1571695306284,"tradeId":"10041639790152794708633"}]}
+2019-10-22 14:01:48 [INFO] - {"symbol":"htusdt","timestamp":1571695306343,"tradeList":[{"amount":0.15,"direction":"SELL","price":3.4106,"timestamp":1571695306284,"tradeId":"10041639790152794708633"}]}
+2019-10-22 14:01:49 [INFO] - {"symbol":"htusdt","timestamp":1571695309423,"tradeList":[{"amount":229.95,"direction":"BUY","price":3.4103,"timestamp":1571695309387,"tradeId":"10041639794052794714430"}]}
+2019-10-22 14:01:49 [INFO] - {"symbol":"htusdt","timestamp":1571695309423,"tradeList":[{"amount":229.95,"direction":"BUY","price":3.4103,"timestamp":1571695309387,"tradeId":"10041639794052794714430"}]}
+2019-10-22 14:01:49 [INFO] - {"symbol":"htusdt","timestamp":1571695309423,"tradeList":[{"amount":229.95,"direction":"BUY","price":3.4103,"timestamp":1571695309387,"tradeId":"10041639794052794714430"}]}
+2019-10-22 14:01:49 [INFO] - {"symbol":"htusdt","timestamp":1571695309423,"tradeList":[{"amount":229.95,"direction":"BUY","price":3.4103,"timestamp":1571695309387,"tradeId":"10041639794052794714430"}]}
+2019-10-22 14:01:49 [INFO] - {"symbol":"htusdt","timestamp":1571695309423,"tradeList":[{"amount":229.95,"direction":"BUY","price":3.4103,"timestamp":1571695309387,"tradeId":"10041639794052794714430"}]}
+2019-10-22 14:02:07 [INFO] - {"symbol":"htusdt","timestamp":1571695327579,"tradeList":[{"amount":190.56,"direction":"SELL","price":3.4103,"timestamp":1571695327515,"tradeId":"10041639816152794735849"}]}
+2019-10-22 14:02:07 [INFO] - {"symbol":"htusdt","timestamp":1571695327579,"tradeList":[{"amount":190.56,"direction":"SELL","price":3.4103,"timestamp":1571695327515,"tradeId":"10041639816152794735849"}]}
+2019-10-22 14:02:07 [INFO] - {"symbol":"htusdt","timestamp":1571695327580,"tradeList":[{"amount":190.56,"direction":"SELL","price":3.4103,"timestamp":1571695327515,"tradeId":"10041639816152794735849"}]}
+2019-10-22 14:02:07 [INFO] - {"symbol":"htusdt","timestamp":1571695327579,"tradeList":[{"amount":190.56,"direction":"SELL","price":3.4103,"timestamp":1571695327515,"tradeId":"10041639816152794735849"}]}
+2019-10-22 14:02:07 [INFO] - {"symbol":"htusdt","timestamp":1571695327579,"tradeList":[{"amount":190.56,"direction":"SELL","price":3.4103,"timestamp":1571695327515,"tradeId":"10041639816152794735849"}]}
+2019-10-22 14:02:21 [INFO] - {"symbol":"htusdt","timestamp":1571695337680,"tradeList":[{"amount":0.13,"direction":"SELL","price":3.41,"timestamp":1571695337627,"tradeId":"10041639828152794748469"}]}
+2019-10-22 14:02:21 [INFO] - {"symbol":"htusdt","timestamp":1571695337680,"tradeList":[{"amount":0.13,"direction":"SELL","price":3.41,"timestamp":1571695337627,"tradeId":"10041639828152794748469"}]}
+2019-10-22 14:02:21 [INFO] - {"symbol":"htusdt","timestamp":1571695337680,"tradeList":[{"amount":0.13,"direction":"SELL","price":3.41,"timestamp":1571695337627,"tradeId":"10041639828152794748469"}]}
+2019-10-22 14:02:21 [INFO] - {"symbol":"htusdt","timestamp":1571695337680,"tradeList":[{"amount":0.13,"direction":"SELL","price":3.41,"timestamp":1571695337627,"tradeId":"10041639828152794748469"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695337649,"tradeList":[{"amount":0.13,"direction":"SELL","price":3.41,"timestamp":1571695337627,"tradeId":"10041639828152794748469"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695341758,"tradeList":[{"amount":0.12,"direction":"SELL","price":3.4099,"timestamp":1571695341739,"tradeId":"10041639833252794753543"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695341758,"tradeList":[{"amount":0.12,"direction":"SELL","price":3.4099,"timestamp":1571695341739,"tradeId":"10041639833252794753543"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695341758,"tradeList":[{"amount":0.12,"direction":"SELL","price":3.4099,"timestamp":1571695341739,"tradeId":"10041639833252794753543"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695342873,"tradeList":[{"amount":595.17,"direction":"BUY","price":3.411,"timestamp":1571695342851,"tradeId":"10041639834452794754737"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695342873,"tradeList":[{"amount":595.17,"direction":"BUY","price":3.411,"timestamp":1571695342851,"tradeId":"10041639834452794754737"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695341758,"tradeList":[{"amount":0.12,"direction":"SELL","price":3.4099,"timestamp":1571695341739,"tradeId":"10041639833252794753543"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695342873,"tradeList":[{"amount":595.17,"direction":"BUY","price":3.411,"timestamp":1571695342851,"tradeId":"10041639834452794754737"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695341758,"tradeList":[{"amount":0.12,"direction":"SELL","price":3.4099,"timestamp":1571695341739,"tradeId":"10041639833252794753543"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695342873,"tradeList":[{"amount":595.17,"direction":"BUY","price":3.411,"timestamp":1571695342851,"tradeId":"10041639834452794754737"}]}
+2019-10-22 14:02:25 [INFO] - {"symbol":"htusdt","timestamp":1571695342873,"tradeList":[{"amount":595.17,"direction":"BUY","price":3.411,"timestamp":1571695342851,"tradeId":"10041639834452794754737"}]}
+2019-10-22 14:02:26 [INFO] - {"symbol":"htusdt","timestamp":1571695346622,"tradeList":[{"amount":0.33,"direction":"BUY","price":3.4099,"timestamp":1571695346566,"tradeId":"10041639838552794758386"}]}
+2019-10-22 14:02:26 [INFO] - {"symbol":"htusdt","timestamp":1571695346622,"tradeList":[{"amount":0.33,"direction":"BUY","price":3.4099,"timestamp":1571695346566,"tradeId":"10041639838552794758386"}]}
+2019-10-22 14:02:26 [INFO] - {"symbol":"htusdt","timestamp":1571695346610,"tradeList":[{"amount":0.33,"direction":"BUY","price":3.4099,"timestamp":1571695346566,"tradeId":"10041639838552794758386"}]}
+2019-10-22 14:02:26 [INFO] - {"symbol":"htusdt","timestamp":1571695346622,"tradeList":[{"amount":0.33,"direction":"BUY","price":3.4099,"timestamp":1571695346566,"tradeId":"10041639838552794758386"}]}
+2019-10-22 14:02:26 [INFO] - {"symbol":"htusdt","timestamp":1571695346622,"tradeList":[{"amount":0.33,"direction":"BUY","price":3.4099,"timestamp":1571695346566,"tradeId":"10041639838552794758386"}]}
+2019-10-22 14:02:27 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:02:44 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 30591 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:02:44 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:02:45 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:02:45 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:02:45 [INFO] - Starting service [Tomcat]
+2019-10-22 14:02:45 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:02:45 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:02:45 [INFO] - Root WebApplicationContext: initialization completed in 923 ms
+2019-10-22 14:02:46 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:02:46 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:02:46 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:02:46 [INFO] - Started QuantitativeCoreTradeApplication in 1.745 seconds (JVM running for 2.63)
+2019-10-22 14:03:02 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:03:02 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:03:06 [INFO] - [Sub] Connection [id: 1] created for Trade for [htusdt]
+2019-10-22 14:03:06 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:03:30 [INFO] - [Sub] Connection [id: 2] created for Trade for [htusdt]
+2019-10-22 14:03:30 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:03:32 [INFO] - [Sub] Connection [id: 3] created for Trade for [htusdt]
+2019-10-22 14:03:32 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:03:34 [INFO] - [Sub] Connection [id: 4] created for Trade for [htusdt]
+2019-10-22 14:03:34 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:03:34 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:03:54 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 30607 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:03:54 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:03:55 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:03:55 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:03:55 [INFO] - Starting service [Tomcat]
+2019-10-22 14:03:55 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:03:55 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:03:55 [INFO] - Root WebApplicationContext: initialization completed in 918 ms
+2019-10-22 14:03:56 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:03:56 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:03:56 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:03:56 [INFO] - Started QuantitativeCoreTradeApplication in 1.721 seconds (JVM running for 2.555)
+2019-10-22 14:03:56 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:03:56 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:03:56 [INFO] - [Sub] Connection [id: 1] created for Trade for [htusdt]
+2019-10-22 14:03:56 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:03:56 [INFO] - [Sub] Connection [id: 2] created for Trade for [htusdt]
+2019-10-22 14:03:56 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:03:56 [INFO] - [Sub] Connection [id: 3] created for Trade for [htusdt]
+2019-10-22 14:03:56 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:03:56 [INFO] - [Sub] Connection [id: 4] created for Trade for [htusdt]
+2019-10-22 14:03:56 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:03:57 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:03:57 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:03:57 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:03:57 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:03:57 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:03:57 [INFO] - {"symbol":"htusdt","timestamp":1571695429320,"tradeList":[{"amount":0.15,"direction":"BUY","price":3.4101,"timestamp":1571695429300,"tradeId":"10041639937452794865133"}]}
+2019-10-22 14:03:57 [INFO] - {"symbol":"htusdt","timestamp":1571695429320,"tradeList":[{"amount":0.15,"direction":"BUY","price":3.4101,"timestamp":1571695429300,"tradeId":"10041639937452794865133"}]}
+2019-10-22 14:03:57 [INFO] - {"symbol":"htusdt","timestamp":1571695429320,"tradeList":[{"amount":0.15,"direction":"BUY","price":3.4101,"timestamp":1571695429300,"tradeId":"10041639937452794865133"}]}
+2019-10-22 14:03:57 [INFO] - {"symbol":"htusdt","timestamp":1571695429321,"tradeList":[{"amount":0.15,"direction":"BUY","price":3.4101,"timestamp":1571695429300,"tradeId":"10041639937452794865133"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695429320,"tradeList":[{"amount":0.15,"direction":"BUY","price":3.4101,"timestamp":1571695429300,"tradeId":"10041639937452794865133"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695438144,"tradeList":[{"amount":17.06,"direction":"BUY","price":3.4102,"timestamp":1571695438128,"tradeId":"10041639942952794824040"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695438144,"tradeList":[{"amount":17.06,"direction":"BUY","price":3.4102,"timestamp":1571695438128,"tradeId":"10041639942952794824040"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695438144,"tradeList":[{"amount":17.06,"direction":"BUY","price":3.4102,"timestamp":1571695438128,"tradeId":"10041639942952794824040"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695438148,"tradeList":[{"amount":17.06,"direction":"BUY","price":3.4102,"timestamp":1571695438128,"tradeId":"10041639942952794824040"}]}
+2019-10-22 14:04:06 [INFO] - {"symbol":"htusdt","timestamp":1571695438148,"tradeList":[{"amount":17.06,"direction":"BUY","price":3.4102,"timestamp":1571695438128,"tradeId":"10041639942952794824040"}]}
+2019-10-22 14:04:08 [INFO] - {"symbol":"htusdt","timestamp":1571695448454,"tradeList":[{"amount":0.1,"direction":"SELL","price":3.41,"timestamp":1571695448428,"tradeId":"10041639950052794838007"}]}
+2019-10-22 14:04:08 [INFO] - {"symbol":"htusdt","timestamp":1571695448455,"tradeList":[{"amount":0.1,"direction":"SELL","price":3.41,"timestamp":1571695448428,"tradeId":"10041639950052794838007"}]}
+2019-10-22 14:04:08 [INFO] - {"symbol":"htusdt","timestamp":1571695448454,"tradeList":[{"amount":0.1,"direction":"SELL","price":3.41,"timestamp":1571695448428,"tradeId":"10041639950052794838007"}]}
+2019-10-22 14:04:08 [INFO] - {"symbol":"htusdt","timestamp":1571695448455,"tradeList":[{"amount":0.1,"direction":"SELL","price":3.41,"timestamp":1571695448428,"tradeId":"10041639950052794838007"}]}
+2019-10-22 14:04:08 [INFO] - {"symbol":"htusdt","timestamp":1571695448505,"tradeList":[{"amount":0.1,"direction":"SELL","price":3.41,"timestamp":1571695448428,"tradeId":"10041639950052794838007"}]}
+2019-10-22 14:04:09 [INFO] - {"symbol":"htusdt","timestamp":1571695449608,"tradeList":[{"amount":0.18,"direction":"SELL","price":3.4101,"timestamp":1571695449556,"tradeId":"10041639950552794891033"}]}
+2019-10-22 14:04:09 [INFO] - {"symbol":"htusdt","timestamp":1571695449608,"tradeList":[{"amount":0.18,"direction":"SELL","price":3.4101,"timestamp":1571695449556,"tradeId":"10041639950552794891033"}]}
+2019-10-22 14:04:09 [INFO] - {"symbol":"htusdt","timestamp":1571695449613,"tradeList":[{"amount":0.18,"direction":"SELL","price":3.4101,"timestamp":1571695449556,"tradeId":"10041639950552794891033"}]}
+2019-10-22 14:04:09 [INFO] - {"symbol":"htusdt","timestamp":1571695449613,"tradeList":[{"amount":0.18,"direction":"SELL","price":3.4101,"timestamp":1571695449556,"tradeId":"10041639950552794891033"}]}
+2019-10-22 14:04:09 [INFO] - {"symbol":"htusdt","timestamp":1571695449609,"tradeList":[{"amount":0.18,"direction":"SELL","price":3.4101,"timestamp":1571695449556,"tradeId":"10041639950552794891033"}]}
+2019-10-22 14:04:26 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:05:13 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 30627 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:05:13 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:05:14 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:05:14 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:05:14 [INFO] - Starting service [Tomcat]
+2019-10-22 14:05:14 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:05:14 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:05:14 [INFO] - Root WebApplicationContext: initialization completed in 924 ms
+2019-10-22 14:05:14 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:05:14 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:05:14 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:05:14 [INFO] - Started QuantitativeCoreTradeApplication in 1.777 seconds (JVM running for 2.584)
+2019-10-22 14:05:14 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:05:14 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:05:15 [INFO] - [Sub] Connection [id: 1] created for Trade for [htusdt]
+2019-10-22 14:05:15 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:05:15 [INFO] - [Sub] Connection [id: 2] created for Trade for [htusdt]
+2019-10-22 14:05:15 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:05:15 [INFO] - [Sub] Connection [id: 3] created for Trade for [htusdt]
+2019-10-22 14:05:15 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:05:15 [INFO] - [Sub] Connection [id: 4] created for Trade for [htusdt]
+2019-10-22 14:05:15 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:05:15 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:05:15 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:05:15 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:05:15 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:05:15 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:05:16 [INFO] - {"symbol":"htusdt","timestamp":1571695513603,"tradeList":[{"amount":0.34,"direction":"BUY","price":3.4103,"timestamp":1571695513586,"tradeId":"10041640028952794966811"}]}
+2019-10-22 14:05:16 [INFO] - {"symbol":"htusdt","timestamp":1571695513604,"tradeList":[{"amount":0.34,"direction":"BUY","price":3.4103,"timestamp":1571695513586,"tradeId":"10041640028952794966811"}]}
+2019-10-22 14:05:16 [INFO] - {"symbol":"htusdt","timestamp":1571695513603,"tradeList":[{"amount":0.34,"direction":"BUY","price":3.4103,"timestamp":1571695513586,"tradeId":"10041640028952794966811"}]}
+2019-10-22 14:05:16 [INFO] - {"symbol":"htusdt","timestamp":1571695513604,"tradeList":[{"amount":0.34,"direction":"BUY","price":3.4103,"timestamp":1571695513586,"tradeId":"10041640028952794966811"}]}
+2019-10-22 14:05:16 [INFO] - {"symbol":"htusdt","timestamp":1571695513603,"tradeList":[{"amount":0.34,"direction":"BUY","price":3.4103,"timestamp":1571695513586,"tradeId":"10041640028952794966811"}]}
+2019-10-22 14:05:20 [INFO] - {"symbol":"htusdt","timestamp":1571695520179,"tradeList":[{"amount":236.54,"direction":"BUY","price":3.4102,"timestamp":1571695520132,"tradeId":"10041640038452794981242"}]}
+2019-10-22 14:05:20 [INFO] - {"symbol":"htusdt","timestamp":1571695520180,"tradeList":[{"amount":236.54,"direction":"BUY","price":3.4102,"timestamp":1571695520132,"tradeId":"10041640038452794981242"}]}
+2019-10-22 14:05:20 [INFO] - {"symbol":"htusdt","timestamp":1571695520180,"tradeList":[{"amount":236.54,"direction":"BUY","price":3.4102,"timestamp":1571695520132,"tradeId":"10041640038452794981242"}]}
+2019-10-22 14:05:20 [INFO] - {"symbol":"htusdt","timestamp":1571695520180,"tradeList":[{"amount":236.54,"direction":"BUY","price":3.4102,"timestamp":1571695520132,"tradeId":"10041640038452794981242"}]}
+2019-10-22 14:05:20 [INFO] - {"symbol":"htusdt","timestamp":1571695520180,"tradeList":[{"amount":236.54,"direction":"BUY","price":3.4102,"timestamp":1571695520132,"tradeId":"10041640038452794981242"}]}
+2019-10-22 14:05:23 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:54:40 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 31513 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:54:40 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:54:41 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:54:41 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:54:41 [INFO] - Starting service [Tomcat]
+2019-10-22 14:54:41 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:54:41 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:54:41 [INFO] - Root WebApplicationContext: initialization completed in 1026 ms
+2019-10-22 14:54:41 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:54:41 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:54:41 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:54:41 [INFO] - Started QuantitativeCoreTradeApplication in 1.846 seconds (JVM running for 2.728)
+2019-10-22 14:54:41 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:54:41 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:54:41 [INFO] - [Sub] Connection [id: 1] created for Trade for [htusdt]
+2019-10-22 14:54:41 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:54:41 [INFO] - [Sub] Connection [id: 2] created for Trade for [htusdt]
+2019-10-22 14:54:41 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:54:41 [INFO] - [Sub] Connection [id: 3] created for Trade for [htusdt]
+2019-10-22 14:54:41 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:54:41 [INFO] - [Sub] Connection [id: 4] created for Trade for [htusdt]
+2019-10-22 14:54:41 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:54:42 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:54:42 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:54:42 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:54:42 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:54:42 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:54:42 [INFO] - {"symbol":"htusdt","timestamp":1571698473629,"tradeList":[{"amount":299.69,"direction":"BUY","price":3.3898,"timestamp":1571698473572,"tradeId":"10041646241052799196054"}]}
+2019-10-22 14:54:42 [INFO] - {"symbol":"htusdt","timestamp":1571698473629,"tradeList":[{"amount":299.69,"direction":"BUY","price":3.3898,"timestamp":1571698473572,"tradeId":"10041646241052799196054"}]}
+2019-10-22 14:54:42 [INFO] - {"symbol":"htusdt","timestamp":1571698473629,"tradeList":[{"amount":299.69,"direction":"BUY","price":3.3898,"timestamp":1571698473572,"tradeId":"10041646241052799196054"}]}
+2019-10-22 14:54:42 [INFO] - {"symbol":"htusdt","timestamp":1571698473629,"tradeList":[{"amount":299.69,"direction":"BUY","price":3.3898,"timestamp":1571698473572,"tradeId":"10041646241052799196054"}]}
+2019-10-22 14:54:42 [INFO] - {"symbol":"htusdt","timestamp":1571698473629,"tradeList":[{"amount":299.69,"direction":"BUY","price":3.3898,"timestamp":1571698473572,"tradeId":"10041646241052799196054"}]}
+2019-10-22 14:54:50 [INFO] - {"symbol":"htusdt","timestamp":1571698490712,"tradeList":[{"amount":215.91,"direction":"BUY","price":3.3896,"timestamp":1571698490689,"tradeId":"10041646264252799218592"}]}
+2019-10-22 14:54:50 [INFO] - {"symbol":"htusdt","timestamp":1571698490712,"tradeList":[{"amount":215.91,"direction":"BUY","price":3.3896,"timestamp":1571698490689,"tradeId":"10041646264252799218592"}]}
+2019-10-22 14:54:50 [INFO] - {"symbol":"htusdt","timestamp":1571698490712,"tradeList":[{"amount":215.91,"direction":"BUY","price":3.3896,"timestamp":1571698490689,"tradeId":"10041646264252799218592"}]}
+2019-10-22 14:54:50 [INFO] - {"symbol":"htusdt","timestamp":1571698490712,"tradeList":[{"amount":215.91,"direction":"BUY","price":3.3896,"timestamp":1571698490689,"tradeId":"10041646264252799218592"}]}
+2019-10-22 14:54:50 [INFO] - {"symbol":"htusdt","timestamp":1571698490712,"tradeList":[{"amount":215.91,"direction":"BUY","price":3.3896,"timestamp":1571698490689,"tradeId":"10041646264252799218592"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491550,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491551,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491550,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491552,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491550,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491550,"tradeList":[{"amount":43.67,"direction":"SELL","price":3.389,"timestamp":1571698491502,"tradeId":"10041646266952799215164"},{"amount":0.17,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799217953"},{"amount":3.41,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216764"},{"amount":3.01,"direction":"SELL","price":3.3891,"timestamp":1571698491502,"tradeId":"10041646266952799216753"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491873,"tradeList":[{"amount":271.41,"direction":"SELL","price":3.3897,"timestamp":1571698491814,"tradeId":"10041646267652799220178"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491873,"tradeList":[{"amount":271.41,"direction":"SELL","price":3.3897,"timestamp":1571698491814,"tradeId":"10041646267652799220178"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491873,"tradeList":[{"amount":271.41,"direction":"SELL","price":3.3897,"timestamp":1571698491814,"tradeId":"10041646267652799220178"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491882,"tradeList":[{"amount":271.41,"direction":"SELL","price":3.3897,"timestamp":1571698491814,"tradeId":"10041646267652799220178"}]}
+2019-10-22 14:54:51 [INFO] - {"symbol":"htusdt","timestamp":1571698491882,"tradeList":[{"amount":271.41,"direction":"SELL","price":3.3897,"timestamp":1571698491814,"tradeId":"10041646267652799220178"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501220,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501220,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501220,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501221,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:01 [INFO] - {"symbol":"htusdt","timestamp":1571698501236,"tradeList":[{"amount":8.2,"direction":"SELL","price":3.389,"timestamp":1571698501195,"tradeId":"10041646287252799215164"},{"amount":3.14,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221194"},{"amount":3.55,"direction":"SELL","price":3.3891,"timestamp":1571698501195,"tradeId":"10041646287252799221198"}]}
+2019-10-22 14:55:12 [INFO] - {"symbol":"htusdt","timestamp":1571698512223,"tradeList":[{"amount":10,"direction":"BUY","price":3.3895,"timestamp":1571698512156,"tradeId":"10041646312552799248110"}]}
+2019-10-22 14:55:12 [INFO] - {"symbol":"htusdt","timestamp":1571698512223,"tradeList":[{"amount":10,"direction":"BUY","price":3.3895,"timestamp":1571698512156,"tradeId":"10041646312552799248110"}]}
+2019-10-22 14:55:12 [INFO] - {"symbol":"htusdt","timestamp":1571698512224,"tradeList":[{"amount":10,"direction":"BUY","price":3.3895,"timestamp":1571698512156,"tradeId":"10041646312552799248110"}]}
+2019-10-22 14:55:12 [INFO] - {"symbol":"htusdt","timestamp":1571698512224,"tradeList":[{"amount":10,"direction":"BUY","price":3.3895,"timestamp":1571698512156,"tradeId":"10041646312552799248110"}]}
+2019-10-22 14:55:12 [INFO] - {"symbol":"htusdt","timestamp":1571698512253,"tradeList":[{"amount":10,"direction":"BUY","price":3.3895,"timestamp":1571698512156,"tradeId":"10041646312552799248110"}]}
+2019-10-22 14:55:17 [INFO] - {"symbol":"htusdt","timestamp":1571698516983,"tradeList":[{"amount":212.67,"direction":"SELL","price":3.3897,"timestamp":1571698516940,"tradeId":"10041646321452799254961"}]}
+2019-10-22 14:55:17 [INFO] - {"symbol":"htusdt","timestamp":1571698516982,"tradeList":[{"amount":212.67,"direction":"SELL","price":3.3897,"timestamp":1571698516940,"tradeId":"10041646321452799254961"}]}
+2019-10-22 14:55:17 [INFO] - {"symbol":"htusdt","timestamp":1571698516982,"tradeList":[{"amount":212.67,"direction":"SELL","price":3.3897,"timestamp":1571698516940,"tradeId":"10041646321452799254961"}]}
+2019-10-22 14:55:17 [INFO] - {"symbol":"htusdt","timestamp":1571698516983,"tradeList":[{"amount":212.67,"direction":"SELL","price":3.3897,"timestamp":1571698516940,"tradeId":"10041646321452799254961"}]}
+2019-10-22 14:55:17 [INFO] - {"symbol":"htusdt","timestamp":1571698516983,"tradeList":[{"amount":212.67,"direction":"SELL","price":3.3897,"timestamp":1571698516940,"tradeId":"10041646321452799254961"}]}
+2019-10-22 14:55:21 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:55:57 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 31532 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:55:57 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:55:58 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:55:58 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:55:58 [INFO] - Starting service [Tomcat]
+2019-10-22 14:55:58 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:55:58 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:55:58 [INFO] - Root WebApplicationContext: initialization completed in 831 ms
+2019-10-22 14:55:58 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:55:58 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:55:58 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:55:58 [INFO] - Started QuantitativeCoreTradeApplication in 1.484 seconds (JVM running for 2.098)
+2019-10-22 14:55:58 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:55:58 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:55:59 [INFO] - [Sub] Connection [id: 1] created for Trade for [btcusdt]
+2019-10-22 14:55:59 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:55:59 [INFO] - [Sub] Connection [id: 2] created for Trade for [ethsdt]
+2019-10-22 14:55:59 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:55:59 [INFO] - [Sub] Connection [id: 3] created for Trade for [xrpusdt]
+2019-10-22 14:55:59 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:55:59 [INFO] - [Sub] Connection [id: 4] created for Trade for [eosusdt]
+2019-10-22 14:55:59 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:55:59 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:55:59 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:55:59 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:55:59 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:55:59 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:55:59 [ERROR] - [Sub][2] bad-request: invalid symbol ethsdt
+2019-10-22 14:55:59 [ERROR] - [Sub][2] Got error from server: bad-request; invalid symbol ethsdt
+2019-10-22 14:55:59 [ERROR] - [Sub][2] Closing normally
+2019-10-22 14:55:59 [ERROR] - [Sub][2] Unexpected error: Socket closed
+2019-10-22 14:55:59 [INFO] - {"symbol":"xrpusdt","timestamp":1571698559076,"tradeList":[{"amount":251,"direction":"BUY","price":0.29523,"timestamp":1571698558989,"tradeId":"10142550398752799313124"}]}
+2019-10-22 14:55:59 [INFO] - {"symbol":"htusdt","timestamp":1571698546663,"tradeList":[{"amount":0.98,"direction":"SELL","price":3.3892,"timestamp":1571698546636,"tradeId":"10041646368352799294583"}]}
+2019-10-22 14:55:59 [INFO] - {"symbol":"btcusdt","timestamp":1571698555206,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.68,"timestamp":1571698555157,"tradeId":"10278099970952799307205"}]}
+2019-10-22 14:55:59 [INFO] - {"symbol":"eosusdt","timestamp":1571698558666,"tradeList":[{"amount":0.1845,"direction":"BUY","price":2.9292,"timestamp":1571698558609,"tradeId":"10222152724652799312521"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"btcusdt","timestamp":1571698560121,"tradeList":[{"amount":0.07,"direction":"SELL","price":8194.32,"timestamp":1571698560005,"tradeId":"10278100006652799302836"},{"amount":0.1979,"direction":"SELL","price":8194.35,"timestamp":1571698560005,"tradeId":"10278100006652799300994"},{"amount":0.02,"direction":"SELL","price":8194.36,"timestamp":1571698560005,"tradeId":"10278100006652799312787"},{"amount":0.005,"direction":"SELL","price":8194.37,"timestamp":1571698560005,"tradeId":"10278100006652799313763"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"btcusdt","timestamp":1571698560121,"tradeList":[{"amount":0.07,"direction":"SELL","price":8194.32,"timestamp":1571698560005,"tradeId":"10278100006652799302836"},{"amount":0.1979,"direction":"SELL","price":8194.35,"timestamp":1571698560005,"tradeId":"10278100006652799300994"},{"amount":0.02,"direction":"SELL","price":8194.36,"timestamp":1571698560005,"tradeId":"10278100006652799312787"},{"amount":0.005,"direction":"SELL","price":8194.37,"timestamp":1571698560005,"tradeId":"10278100006652799313763"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"btcusdt","timestamp":1571698560121,"tradeList":[{"amount":0.07,"direction":"SELL","price":8194.32,"timestamp":1571698560005,"tradeId":"10278100006652799302836"},{"amount":0.1979,"direction":"SELL","price":8194.35,"timestamp":1571698560005,"tradeId":"10278100006652799300994"},{"amount":0.02,"direction":"SELL","price":8194.36,"timestamp":1571698560005,"tradeId":"10278100006652799312787"},{"amount":0.005,"direction":"SELL","price":8194.37,"timestamp":1571698560005,"tradeId":"10278100006652799313763"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"btcusdt","timestamp":1571698560121,"tradeList":[{"amount":0.07,"direction":"SELL","price":8194.32,"timestamp":1571698560005,"tradeId":"10278100006652799302836"},{"amount":0.1979,"direction":"SELL","price":8194.35,"timestamp":1571698560005,"tradeId":"10278100006652799300994"},{"amount":0.02,"direction":"SELL","price":8194.36,"timestamp":1571698560005,"tradeId":"10278100006652799312787"},{"amount":0.005,"direction":"SELL","price":8194.37,"timestamp":1571698560005,"tradeId":"10278100006652799313763"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"btcusdt","timestamp":1571698560153,"tradeList":[{"amount":0.2066,"direction":"BUY","price":8193.61,"timestamp":1571698559995,"tradeId":"10278100006752799314450"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"xrpusdt","timestamp":1571698560418,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698560390,"tradeId":"10142550404152799311339"}]}
+2019-10-22 14:56:00 [INFO] - {"symbol":"eosusdt","timestamp":1571698560841,"tradeList":[{"amount":77.4219,"direction":"BUY","price":2.9292,"timestamp":1571698560777,"tradeId":"10222152732152799315568"}]}
+2019-10-22 14:56:01 [INFO] - {"symbol":"xrpusdt","timestamp":1571698561155,"tradeList":[{"amount":264.77,"direction":"SELL","price":0.29521,"timestamp":1571698561117,"tradeId":"10142550406952799316039"}]}
+2019-10-22 14:56:02 [INFO] - {"symbol":"eosusdt","timestamp":1571698561993,"tradeList":[{"amount":94.3174,"direction":"SELL","price":2.9292,"timestamp":1571698561975,"tradeId":"10222152736952799317263"}]}
+2019-10-22 14:56:02 [INFO] - {"symbol":"xrpusdt","timestamp":1571698562371,"tradeList":[{"amount":348.4,"direction":"BUY","price":0.29523,"timestamp":1571698562350,"tradeId":"10142550411952799317630"}]}
+2019-10-22 14:56:02 [INFO] - {"symbol":"xrpusdt","timestamp":1571698562705,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698562645,"tradeId":"10142550412852799311339"}]}
+2019-10-22 14:56:03 [INFO] - {"symbol":"eosusdt","timestamp":1571698563132,"tradeList":[{"amount":117.3625,"direction":"SELL","price":2.9292,"timestamp":1571698563092,"tradeId":"10222152739752799318633"}]}
+2019-10-22 14:56:03 [INFO] - {"symbol":"btcusdt","timestamp":1571698563286,"tradeList":[{"amount":0.012176,"direction":"BUY","price":8194.39,"timestamp":1571698563237,"tradeId":"10278100027952799317635"}]}
+2019-10-22 14:56:03 [INFO] - {"symbol":"btcusdt","timestamp":1571698563381,"tradeList":[{"amount":0.000191,"direction":"SELL","price":8194.38,"timestamp":1571698563317,"tradeId":"10278100028852799318660"}]}
+2019-10-22 14:56:03 [INFO] - {"symbol":"btcusdt","timestamp":1571698563393,"tradeList":[{"amount":0.000839,"direction":"BUY","price":8194.39,"timestamp":1571698563373,"tradeId":"10278100029252799318750"}]}
+2019-10-22 14:56:03 [INFO] - {"symbol":"xrpusdt","timestamp":1571698563588,"tradeList":[{"amount":210.74,"direction":"BUY","price":0.29524,"timestamp":1571698563525,"tradeId":"10142550416152799319284"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"htusdt","timestamp":1571698564221,"tradeList":[{"amount":526.37,"direction":"SELL","price":3.3899,"timestamp":1571698564178,"tradeId":"10041646399152799319995"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"eosusdt","timestamp":1571698564269,"tradeList":[{"amount":150.5971,"direction":"BUY","price":2.9294,"timestamp":1571698564252,"tradeId":"10222152744252799320139"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"btcusdt","timestamp":1571698564599,"tradeList":[{"amount":0.00154,"direction":"SELL","price":8194.38,"timestamp":1571698564530,"tradeId":"10278100037652799318660"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"btcusdt","timestamp":1571698564650,"tradeList":[{"amount":0.03661,"direction":"BUY","price":8194.39,"timestamp":1571698564580,"tradeId":"10278100038052799319212"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"xrpusdt","timestamp":1571698564666,"tradeList":[{"amount":271.72,"direction":"BUY","price":0.29523,"timestamp":1571698564623,"tradeId":"10142550421652799320760"}]}
+2019-10-22 14:56:04 [INFO] - {"symbol":"btcusdt","timestamp":1571698564750,"tradeList":[{"amount":0.020002,"direction":"SELL","price":8194.38,"timestamp":1571698564727,"tradeId":"10278100039152799318660"}]}
+2019-10-22 14:56:05 [INFO] - {"symbol":"btcusdt","timestamp":1571698565179,"tradeList":[{"amount":0.006218,"direction":"BUY","price":8194.39,"timestamp":1571698565102,"tradeId":"10278100041852799319212"}]}
+2019-10-22 14:56:05 [INFO] - {"symbol":"htusdt","timestamp":1571698565373,"tradeList":[{"amount":153.39,"direction":"BUY","price":3.3897,"timestamp":1571698565298,"tradeId":"10041646402052799321673"}]}
+2019-10-22 14:56:05 [INFO] - {"symbol":"btcusdt","timestamp":1571698565416,"tradeList":[{"amount":0.033315,"direction":"BUY","price":8194.39,"timestamp":1571698565390,"tradeId":"10278100043952799319212"}]}
+2019-10-22 14:56:05 [INFO] - {"symbol":"btcusdt","timestamp":1571698565691,"tradeList":[{"amount":0.02275,"direction":"BUY","price":8194.39,"timestamp":1571698565635,"tradeId":"10278100045652799320654"}]}
+2019-10-22 14:56:05 [INFO] - {"symbol":"eosusdt","timestamp":1571698565912,"tradeList":[{"amount":151.3501,"direction":"BUY","price":2.9292,"timestamp":1571698565853,"tradeId":"10222152750452799322583"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"btcusdt","timestamp":1571698566016,"tradeList":[{"amount":0.007626,"direction":"BUY","price":8194.39,"timestamp":1571698565947,"tradeId":"10278100048152799320654"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"xrpusdt","timestamp":1571698566019,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29528,"timestamp":1571698565958,"tradeId":"10142550427452799310675"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"btcusdt","timestamp":1571698566142,"tradeList":[{"amount":0.00048,"direction":"SELL","price":8194.38,"timestamp":1571698566084,"tradeId":"10278100049252799320558"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"btcusdt","timestamp":1571698566362,"tradeList":[{"amount":0.018643,"direction":"SELL","price":8194.17,"timestamp":1571698566316,"tradeId":"10278100049852799314457"},{"amount":0.000476,"direction":"SELL","price":8194.18,"timestamp":1571698566316,"tradeId":"10278100049852799323077"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"btcusdt","timestamp":1571698566362,"tradeList":[{"amount":0.018643,"direction":"SELL","price":8194.17,"timestamp":1571698566316,"tradeId":"10278100049852799314457"},{"amount":0.000476,"direction":"SELL","price":8194.18,"timestamp":1571698566316,"tradeId":"10278100049852799323077"}]}
+2019-10-22 14:56:06 [INFO] - {"symbol":"xrpusdt","timestamp":1571698566396,"tradeList":[{"amount":352.61,"direction":"BUY","price":0.2952,"timestamp":1571698566344,"tradeId":"10142550428852799323176"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"eosusdt","timestamp":1571698567175,"tradeList":[{"amount":213.2342,"direction":"SELL","price":2.9291,"timestamp":1571698567133,"tradeId":"10222152752752799324186"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"htusdt","timestamp":1571698567216,"tradeList":[{"amount":1.95,"direction":"SELL","price":3.389,"timestamp":1571698567187,"tradeId":"10041646405652799215164"},{"amount":0.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799313646"},{"amount":5.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799296195"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"htusdt","timestamp":1571698567216,"tradeList":[{"amount":1.95,"direction":"SELL","price":3.389,"timestamp":1571698567187,"tradeId":"10041646405652799215164"},{"amount":0.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799313646"},{"amount":5.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799296195"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"htusdt","timestamp":1571698567216,"tradeList":[{"amount":1.95,"direction":"SELL","price":3.389,"timestamp":1571698567187,"tradeId":"10041646405652799215164"},{"amount":0.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799313646"},{"amount":5.12,"direction":"SELL","price":3.3891,"timestamp":1571698567187,"tradeId":"10041646405652799296195"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"btcusdt","timestamp":1571698567253,"tradeList":[{"amount":0.002346,"direction":"SELL","price":8194.17,"timestamp":1571698567192,"tradeId":"10278100053552799314457"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"btcusdt","timestamp":1571698567283,"tradeList":[{"amount":0.017156,"direction":"BUY","price":8194.35,"timestamp":1571698567223,"tradeId":"10278100054152799322808"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"xrpusdt","timestamp":1571698567549,"tradeList":[{"amount":294.75,"direction":"BUY","price":0.29522,"timestamp":1571698567464,"tradeId":"10142550432952799324775"}]}
+2019-10-22 14:56:07 [INFO] - {"symbol":"btcusdt","timestamp":1571698567903,"tradeList":[{"amount":0.046666,"direction":"BUY","price":8194.34,"timestamp":1571698567891,"tradeId":"10278100058852799324338"}]}
+2019-10-22 14:56:08 [INFO] - {"symbol":"xrpusdt","timestamp":1571698568568,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698568518,"tradeId":"10142550437452799323578"}]}
+2019-10-22 14:56:08 [INFO] - {"symbol":"xrpusdt","timestamp":1571698568617,"tradeList":[{"amount":304.7,"direction":"SELL","price":0.29523,"timestamp":1571698568568,"tradeId":"10142550437752799326200"}]}
+2019-10-22 14:56:09 [INFO] - {"symbol":"btcusdt","timestamp":1571698569529,"tradeList":[{"amount":0.0792,"direction":"BUY","price":8194.32,"timestamp":1571698569462,"tradeId":"10278100066452799326077"}]}
+2019-10-22 14:56:09 [INFO] - {"symbol":"btcusdt","timestamp":1571698569838,"tradeList":[{"amount":0.000527,"direction":"SELL","price":8194.25,"timestamp":1571698569791,"tradeId":"10278100069352799327676"}]}
+2019-10-22 14:56:10 [INFO] - {"symbol":"eosusdt","timestamp":1571698570281,"tradeList":[{"amount":176.4633,"direction":"BUY","price":2.9291,"timestamp":1571698570251,"tradeId":"10222152764052799328276"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698571229,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29525,"timestamp":1571698571181,"tradeId":"10142550449952799328377"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698571436,"tradeList":[{"amount":52.2757,"direction":"BUY","price":2.9294,"timestamp":1571698571365,"tradeId":"10222152776452799329770"},{"amount":163.0261,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329318"},{"amount":3.739,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329372"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698571436,"tradeList":[{"amount":52.2757,"direction":"BUY","price":2.9294,"timestamp":1571698571365,"tradeId":"10222152776452799329770"},{"amount":163.0261,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329318"},{"amount":3.739,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329372"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698571436,"tradeList":[{"amount":52.2757,"direction":"BUY","price":2.9294,"timestamp":1571698571365,"tradeId":"10222152776452799329770"},{"amount":163.0261,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329318"},{"amount":3.739,"direction":"BUY","price":2.929,"timestamp":1571698571365,"tradeId":"10222152776452799329372"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698571480,"tradeList":[{"amount":0.0051,"direction":"SELL","price":8194.19,"timestamp":1571698571457,"tradeId":"10278100078252799328116"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698571536,"tradeList":[{"amount":0.064971,"direction":"BUY","price":8194.32,"timestamp":1571698571471,"tradeId":"10278100078452799326077"},{"amount":0.009829,"direction":"BUY","price":8194.19,"timestamp":1571698571471,"tradeId":"10278100078452799329955"}]}
+2019-10-22 14:56:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698571536,"tradeList":[{"amount":0.064971,"direction":"BUY","price":8194.32,"timestamp":1571698571471,"tradeId":"10278100078452799326077"},{"amount":0.009829,"direction":"BUY","price":8194.19,"timestamp":1571698571471,"tradeId":"10278100078452799329955"}]}
+2019-10-22 14:56:12 [INFO] - {"symbol":"btcusdt","timestamp":1571698572385,"tradeList":[{"amount":0.022934,"direction":"BUY","price":8194.32,"timestamp":1571698572344,"tradeId":"10278100082152799331076"}]}
+2019-10-22 14:56:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698572736,"tradeList":[{"amount":235.4,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799331581"},{"amount":40.47,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330984"},{"amount":36.66,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330975"}]}
+2019-10-22 14:56:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698572736,"tradeList":[{"amount":235.4,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799331581"},{"amount":40.47,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330984"},{"amount":36.66,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330975"}]}
+2019-10-22 14:56:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698572736,"tradeList":[{"amount":235.4,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799331581"},{"amount":40.47,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330984"},{"amount":36.66,"direction":"SELL","price":0.29517,"timestamp":1571698572696,"tradeId":"10142550457052799330975"}]}
+2019-10-22 14:56:14 [INFO] - {"symbol":"xrpusdt","timestamp":1571698574177,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698574129,"tradeId":"10142550461552799323578"}]}
+2019-10-22 14:56:14 [INFO] - {"symbol":"htusdt","timestamp":1571698574508,"tradeList":[{"amount":207.32,"direction":"SELL","price":3.3891,"timestamp":1571698574415,"tradeId":"10041646414852799333811"}]}
+2019-10-22 14:56:15 [INFO] - {"symbol":"btcusdt","timestamp":1571698575516,"tradeList":[{"amount":0.0002,"direction":"SELL","price":8194.18,"timestamp":1571698575498,"tradeId":"10278100100952799333880"}]}
+2019-10-22 14:56:15 [INFO] - {"symbol":"xrpusdt","timestamp":1571698575883,"tradeList":[{"amount":342.41,"direction":"BUY","price":0.29522,"timestamp":1571698575865,"tradeId":"10142550468752799335333"}]}
+2019-10-22 14:56:16 [INFO] - {"symbol":"btcusdt","timestamp":1571698575953,"tradeList":[{"amount":0.173764,"direction":"SELL","price":8194.18,"timestamp":1571698575940,"tradeId":"10278100103352799334229"},{"amount":0.0056,"direction":"SELL","price":8194.18,"timestamp":1571698575940,"tradeId":"10278100103352799333880"}]}
+2019-10-22 14:56:16 [INFO] - {"symbol":"btcusdt","timestamp":1571698575953,"tradeList":[{"amount":0.173764,"direction":"SELL","price":8194.18,"timestamp":1571698575940,"tradeId":"10278100103352799334229"},{"amount":0.0056,"direction":"SELL","price":8194.18,"timestamp":1571698575940,"tradeId":"10278100103352799333880"}]}
+2019-10-22 14:56:16 [INFO] - {"symbol":"btcusdt","timestamp":1571698576351,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.23,"timestamp":1571698576293,"tradeId":"10278100104452799335781"}]}
+2019-10-22 14:56:17 [INFO] - {"symbol":"xrpusdt","timestamp":1571698577031,"tradeList":[{"amount":316.41,"direction":"SELL","price":0.29521,"timestamp":1571698576982,"tradeId":"10142550471852799336821"}]}
+2019-10-22 14:56:17 [INFO] - {"symbol":"xrpusdt","timestamp":1571698577272,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29525,"timestamp":1571698577215,"tradeId":"10142550472952799335992"}]}
+2019-10-22 14:56:17 [INFO] - {"symbol":"btcusdt","timestamp":1571698577418,"tradeList":[{"amount":0.035917075060804535,"direction":"BUY","price":8194.29,"timestamp":1571698577366,"tradeId":"10278100111052799333919"}]}
+2019-10-22 14:56:17 [INFO] - {"symbol":"btcusdt","timestamp":1571698577791,"tradeList":[{"amount":0.004245075060804535,"direction":"BUY","price":8194.3,"timestamp":1571698577730,"tradeId":"10278100113052799332119"},{"amount":0.20408292493919547,"direction":"BUY","price":8194.29,"timestamp":1571698577730,"tradeId":"10278100113052799333919"}]}
+2019-10-22 14:56:17 [INFO] - {"symbol":"btcusdt","timestamp":1571698577791,"tradeList":[{"amount":0.004245075060804535,"direction":"BUY","price":8194.3,"timestamp":1571698577730,"tradeId":"10278100113052799332119"},{"amount":0.20408292493919547,"direction":"BUY","price":8194.29,"timestamp":1571698577730,"tradeId":"10278100113052799333919"}]}
+2019-10-22 14:56:19 [INFO] - {"symbol":"btcusdt","timestamp":1571698579087,"tradeList":[{"amount":0.009187,"direction":"SELL","price":8194.17,"timestamp":1571698579070,"tradeId":"10278100121352799314457"}]}
+2019-10-22 14:56:19 [INFO] - {"symbol":"btcusdt","timestamp":1571698579261,"tradeList":[{"amount":0.011912,"direction":"SELL","price":8194.17,"timestamp":1571698579241,"tradeId":"10278100122352799314457"}]}
+2019-10-22 14:56:19 [INFO] - {"symbol":"btcusdt","timestamp":1571698579276,"tradeList":[{"amount":0.04367,"direction":"BUY","price":8194.26,"timestamp":1571698579259,"tradeId":"10278100122452799339633"}]}
+2019-10-22 14:56:19 [INFO] - {"symbol":"eosusdt","timestamp":1571698579577,"tradeList":[{"amount":0.1138,"direction":"SELL","price":2.9291,"timestamp":1571698579520,"tradeId":"10222152805752799340108"}]}
+2019-10-22 14:56:19 [INFO] - {"symbol":"btcusdt","timestamp":1571698579879,"tradeList":[{"amount":0.117988,"direction":"BUY","price":8194.22,"timestamp":1571698579834,"tradeId":"10278100125852799340538"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"xrpusdt","timestamp":1571698580000,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698579931,"tradeId":"10142550485352799323578"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"btcusdt","timestamp":1571698580147,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.22,"timestamp":1571698580131,"tradeId":"10278100127152799340801"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"btcusdt","timestamp":1571698580296,"tradeList":[{"amount":0.007007,"direction":"BUY","price":8194.26,"timestamp":1571698580250,"tradeId":"10278100127352799339907"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580638,"tradeList":[{"amount":84.9153,"direction":"SELL","price":2.9283,"timestamp":1571698580576,"tradeId":"10222152809152799174754"},{"amount":13.2209,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799333437"},{"amount":11.4359,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799332332"},{"amount":1.4441,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799269301"},{"amount":0.0001,"direction":"SELL","price":2.9289,"timestamp":1571698580576,"tradeId":"10222152809152799201906"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580638,"tradeList":[{"amount":84.9153,"direction":"SELL","price":2.9283,"timestamp":1571698580576,"tradeId":"10222152809152799174754"},{"amount":13.2209,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799333437"},{"amount":11.4359,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799332332"},{"amount":1.4441,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799269301"},{"amount":0.0001,"direction":"SELL","price":2.9289,"timestamp":1571698580576,"tradeId":"10222152809152799201906"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580638,"tradeList":[{"amount":84.9153,"direction":"SELL","price":2.9283,"timestamp":1571698580576,"tradeId":"10222152809152799174754"},{"amount":13.2209,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799333437"},{"amount":11.4359,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799332332"},{"amount":1.4441,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799269301"},{"amount":0.0001,"direction":"SELL","price":2.9289,"timestamp":1571698580576,"tradeId":"10222152809152799201906"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580638,"tradeList":[{"amount":84.9153,"direction":"SELL","price":2.9283,"timestamp":1571698580576,"tradeId":"10222152809152799174754"},{"amount":13.2209,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799333437"},{"amount":11.4359,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799332332"},{"amount":1.4441,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799269301"},{"amount":0.0001,"direction":"SELL","price":2.9289,"timestamp":1571698580576,"tradeId":"10222152809152799201906"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580638,"tradeList":[{"amount":84.9153,"direction":"SELL","price":2.9283,"timestamp":1571698580576,"tradeId":"10222152809152799174754"},{"amount":13.2209,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799333437"},{"amount":11.4359,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799332332"},{"amount":1.4441,"direction":"SELL","price":2.9284,"timestamp":1571698580576,"tradeId":"10222152809152799269301"},{"amount":0.0001,"direction":"SELL","price":2.9289,"timestamp":1571698580576,"tradeId":"10222152809152799201906"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"eosusdt","timestamp":1571698580707,"tradeList":[{"amount":0.1033,"direction":"BUY","price":2.9291,"timestamp":1571698580660,"tradeId":"10222152809352799341731"}]}
+2019-10-22 14:56:20 [INFO] - {"symbol":"btcusdt","timestamp":1571698580873,"tradeList":[{"amount":0.00299,"direction":"SELL","price":8194.22,"timestamp":1571698580834,"tradeId":"10278100130452799341918"}]}
+2019-10-22 14:56:21 [INFO] - {"symbol":"htusdt","timestamp":1571698581134,"tradeList":[{"amount":10,"direction":"BUY","price":3.3893,"timestamp":1571698581088,"tradeId":"10041646421752799342167"}]}
+2019-10-22 14:56:21 [INFO] - {"symbol":"eosusdt","timestamp":1571698581550,"tradeList":[{"amount":100,"direction":"BUY","price":2.9293,"timestamp":1571698581496,"tradeId":"10222152813852799331115"}]}
+2019-10-22 14:56:21 [INFO] - {"symbol":"eosusdt","timestamp":1571698581869,"tradeList":[{"amount":254.6366,"direction":"BUY","price":2.9288,"timestamp":1571698581830,"tradeId":"10222152815652799343026"}]}
+2019-10-22 14:56:22 [INFO] - {"symbol":"btcusdt","timestamp":1571698581975,"tradeList":[{"amount":0.470526,"direction":"BUY","price":8194.25,"timestamp":1571698581933,"tradeId":"10278100136752799343094"}]}
+2019-10-22 14:56:22 [INFO] - {"symbol":"xrpusdt","timestamp":1571698581984,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698581968,"tradeId":"10142550495452799323578"}]}
+2019-10-22 14:56:22 [INFO] - {"symbol":"eosusdt","timestamp":1571698582848,"tradeList":[{"amount":0.1409,"direction":"BUY","price":2.9288,"timestamp":1571698582794,"tradeId":"10222152819752799344230"}]}
+2019-10-22 14:56:23 [INFO] - {"symbol":"eosusdt","timestamp":1571698583031,"tradeList":[{"amount":21.8832,"direction":"BUY","price":2.9293,"timestamp":1571698582996,"tradeId":"10222152820152799331115"}]}
+2019-10-22 14:56:23 [INFO] - {"symbol":"btcusdt","timestamp":1571698583138,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.23,"timestamp":1571698583075,"tradeId":"10278100143552799344568"}]}
+2019-10-22 14:56:23 [INFO] - {"symbol":"xrpusdt","timestamp":1571698583930,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29525,"timestamp":1571698583890,"tradeId":"10142550501852799344736"}]}
+2019-10-22 14:56:24 [INFO] - {"symbol":"eosusdt","timestamp":1571698583985,"tradeList":[{"amount":197.68,"direction":"BUY","price":2.9286,"timestamp":1571698583944,"tradeId":"10222152824352799345653"}]}
+2019-10-22 14:56:24 [INFO] - {"symbol":"xrpusdt","timestamp":1571698584188,"tradeList":[{"amount":198.41,"direction":"SELL","price":0.29519,"timestamp":1571698584146,"tradeId":"10142550503452799345846"}]}
+2019-10-22 14:56:24 [INFO] - {"symbol":"btcusdt","timestamp":1571698584427,"tradeList":[{"amount":0.001156,"direction":"BUY","price":8194.26,"timestamp":1571698584382,"tradeId":"10278100148852799344516"}]}
+2019-10-22 14:56:24 [INFO] - {"symbol":"btcusdt","timestamp":1571698584462,"tradeList":[{"amount":0.004042,"direction":"BUY","price":8194.26,"timestamp":1571698584419,"tradeId":"10278100149152799344516"}]}
+2019-10-22 14:56:24 [INFO] - {"symbol":"btcusdt","timestamp":1571698584758,"tradeList":[{"amount":0.00735,"direction":"BUY","price":8194.26,"timestamp":1571698584702,"tradeId":"10278100150452799344516"}]}
+2019-10-22 14:56:26 [INFO] - {"symbol":"xrpusdt","timestamp":1571698586344,"tradeList":[{"amount":292.78,"direction":"SELL","price":0.29516,"timestamp":1571698586297,"tradeId":"10142550511052799348553"}]}
+2019-10-22 14:56:26 [INFO] - {"symbol":"eosusdt","timestamp":1571698586829,"tradeList":[{"amount":12.2499,"direction":"BUY","price":2.9289,"timestamp":1571698586790,"tradeId":"10222152833052799345867"}]}
+2019-10-22 14:56:27 [INFO] - {"symbol":"xrpusdt","timestamp":1571698586982,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29526,"timestamp":1571698586938,"tradeId":"10142550514752799323578"}]}
+2019-10-22 14:56:27 [INFO] - {"symbol":"xrpusdt","timestamp":1571698587489,"tradeList":[{"amount":274.15,"direction":"SELL","price":0.29519,"timestamp":1571698587434,"tradeId":"10142550516152799350226"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588471,"tradeList":[{"amount":0.000237,"direction":"SELL","price":8194.18,"timestamp":1571698588389,"tradeId":"10278100166852799339799"},{"amount":0.0051,"direction":"SELL","price":8194.19,"timestamp":1571698588389,"tradeId":"10278100166852799351060"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588471,"tradeList":[{"amount":0.000237,"direction":"SELL","price":8194.18,"timestamp":1571698588389,"tradeId":"10278100166852799339799"},{"amount":0.0051,"direction":"SELL","price":8194.19,"timestamp":1571698588389,"tradeId":"10278100166852799351060"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588514,"tradeList":[{"amount":0.004961,"direction":"BUY","price":8194.18,"timestamp":1571698588448,"tradeId":"10278100167152799351332"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588515,"tradeList":[{"amount":0.036617,"direction":"BUY","price":8194.18,"timestamp":1571698588461,"tradeId":"10278100167252799351332"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588614,"tradeList":[{"amount":0.001261,"direction":"BUY","price":8194.22,"timestamp":1571698588557,"tradeId":"10278100168052799351534"},{"amount":0.000556,"direction":"BUY","price":8194.18,"timestamp":1571698588557,"tradeId":"10278100168052799351332"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"btcusdt","timestamp":1571698588614,"tradeList":[{"amount":0.001261,"direction":"BUY","price":8194.22,"timestamp":1571698588557,"tradeId":"10278100168052799351534"},{"amount":0.000556,"direction":"BUY","price":8194.18,"timestamp":1571698588557,"tradeId":"10278100168052799351332"}]}
+2019-10-22 14:56:28 [INFO] - {"symbol":"xrpusdt","timestamp":1571698588643,"tradeList":[{"amount":330.62,"direction":"SELL","price":0.2952,"timestamp":1571698588593,"tradeId":"10142550520552799351650"}]}
+2019-10-22 14:56:29 [INFO] - {"symbol":"xrpusdt","timestamp":1571698589215,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.2953,"timestamp":1571698589165,"tradeId":"10142550523152798830924"}]}
+2019-10-22 14:56:29 [INFO] - {"symbol":"xrpusdt","timestamp":1571698589784,"tradeList":[{"amount":229.16,"direction":"BUY","price":0.29522,"timestamp":1571698589733,"tradeId":"10142550527652799353113"}]}
+2019-10-22 14:56:30 [INFO] - {"symbol":"eosusdt","timestamp":1571698590050,"tradeList":[{"amount":19.8951,"direction":"BUY","price":2.929,"timestamp":1571698590018,"tradeId":"10222152852952799350519"}]}
+2019-10-22 14:56:30 [INFO] - {"symbol":"btcusdt","timestamp":1571698590273,"tradeList":[{"amount":0.015,"direction":"SELL","price":8194.19,"timestamp":1571698590253,"tradeId":"10278100176352799353620"}]}
+2019-10-22 14:56:30 [INFO] - {"symbol":"xrpusdt","timestamp":1571698590344,"tradeList":[{"amount":10.95,"direction":"BUY","price":0.29529,"timestamp":1571698590325,"tradeId":"10142550529652799352367"},{"amount":40.47,"direction":"BUY","price":0.29529,"timestamp":1571698590325,"tradeId":"10142550529652799352372"}]}
+2019-10-22 14:56:30 [INFO] - {"symbol":"xrpusdt","timestamp":1571698590344,"tradeList":[{"amount":10.95,"direction":"BUY","price":0.29529,"timestamp":1571698590325,"tradeId":"10142550529652799352367"},{"amount":40.47,"direction":"BUY","price":0.29529,"timestamp":1571698590325,"tradeId":"10142550529652799352372"}]}
+2019-10-22 14:56:31 [INFO] - {"symbol":"xrpusdt","timestamp":1571698590925,"tradeList":[{"amount":223.13,"direction":"SELL","price":0.29522,"timestamp":1571698590861,"tradeId":"10142550533152799354548"}]}
+2019-10-22 14:56:32 [INFO] - {"symbol":"xrpusdt","timestamp":1571698592247,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29529,"timestamp":1571698592211,"tradeId":"10142550539052799352361"}]}
+2019-10-22 14:56:32 [INFO] - {"symbol":"btcusdt","timestamp":1571698592803,"tradeList":[{"amount":0.000466,"direction":"SELL","price":8194.17,"timestamp":1571698592763,"tradeId":"10278100190352799314457"}]}
+2019-10-22 14:56:33 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:56:35 [INFO] - Starting QuantitativeCoreTradeApplication on chenjianjun with PID 31544 (/Users/chenjianjun/study/quantitative/quantitative-core-trade/target/classes started by chenjianjun in /Users/chenjianjun/study/quantitative)
+2019-10-22 14:56:35 [INFO] - No active profile set, falling back to default profiles: default
+2019-10-22 14:56:36 [INFO] - Tomcat initialized with port(s): 10086 (http)
+2019-10-22 14:56:36 [INFO] - Initializing ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:56:36 [INFO] - Starting service [Tomcat]
+2019-10-22 14:56:36 [INFO] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-22 14:56:36 [INFO] - Initializing Spring embedded WebApplicationContext
+2019-10-22 14:56:36 [INFO] - Root WebApplicationContext: initialization completed in 953 ms
+2019-10-22 14:56:37 [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-22 14:56:37 [INFO] - Starting ProtocolHandler ["http-nio-10086"]
+2019-10-22 14:56:37 [INFO] - Tomcat started on port(s): 10086 (http) with context path ''
+2019-10-22 14:56:37 [INFO] - Started QuantitativeCoreTradeApplication in 1.763 seconds (JVM running for 2.55)
+2019-10-22 14:56:37 [INFO] - [Sub] Connection [id: 0] created for Trade for [htusdt]
+2019-10-22 14:56:37 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:56:37 [INFO] - [Sub] Connection [id: 1] created for Trade for [btcusdt]
+2019-10-22 14:56:37 [INFO] - [Sub][1] Connecting...
+2019-10-22 14:56:37 [INFO] - [Sub] Connection [id: 2] created for Trade for [ethsdt]
+2019-10-22 14:56:37 [INFO] - [Sub][2] Connecting...
+2019-10-22 14:56:37 [INFO] - [Sub] Connection [id: 3] created for Trade for [xrpusdt]
+2019-10-22 14:56:37 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:56:37 [INFO] - [Sub] Connection [id: 4] created for Trade for [eosusdt]
+2019-10-22 14:56:37 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:56:38 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:56:38 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:56:38 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:56:38 [INFO] - [Sub][2] Connected to server
+2019-10-22 14:56:38 [INFO] - [Sub][1] Connected to server
+2019-10-22 14:56:38 [ERROR] - [Sub][2] bad-request: invalid symbol ethsdt
+2019-10-22 14:56:38 [ERROR] - [Sub][2] Got error from server: bad-request; invalid symbol ethsdt
+2019-10-22 14:56:38 [ERROR] - [Sub][2] Closing normally
+2019-10-22 14:56:38 [ERROR] - [Sub][2] Unexpected error: Socket closed
+2019-10-22 14:56:38 [INFO] - {"symbol":"btcusdt","timestamp":1571698597923,"tradeList":[{"amount":0.001204,"direction":"BUY","price":8194.14,"timestamp":1571698597878,"tradeId":"10278100226252799363047"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"htusdt","timestamp":1571698595550,"tradeList":[{"amount":0.18,"direction":"BUY","price":3.3893,"timestamp":1571698595530,"tradeId":"10041646441352799360537"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"xrpusdt","timestamp":1571698597033,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29529,"timestamp":1571698597020,"tradeId":"10142550563252799360251"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"eosusdt","timestamp":1571698596519,"tradeList":[{"amount":0.1325,"direction":"BUY","price":2.9285,"timestamp":1571698596470,"tradeId":"10222152884252799361716"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"btcusdt","timestamp":1571698598645,"tradeList":[{"amount":0.008792,"direction":"BUY","price":8194.98,"timestamp":1571698598609,"tradeId":"10278100233452799362873"},{"amount":0.003383,"direction":"BUY","price":8194.14,"timestamp":1571698598609,"tradeId":"10278100233452799363047"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"btcusdt","timestamp":1571698598645,"tradeList":[{"amount":0.008792,"direction":"BUY","price":8194.98,"timestamp":1571698598609,"tradeId":"10278100233452799362873"},{"amount":0.003383,"direction":"BUY","price":8194.14,"timestamp":1571698598609,"tradeId":"10278100233452799363047"}]}
+2019-10-22 14:56:38 [INFO] - {"symbol":"eosusdt","timestamp":1571698598673,"tradeList":[{"amount":0.1589,"direction":"BUY","price":2.9286,"timestamp":1571698598613,"tradeId":"10222152897152799364446"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698598971,"tradeList":[{"amount":0.001186,"direction":"BUY","price":8194.98,"timestamp":1571698598909,"tradeId":"10278100236652799362873"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"xrpusdt","timestamp":1571698599507,"tradeList":[{"amount":217.77,"direction":"SELL","price":0.29524,"timestamp":1571698599464,"tradeId":"10142550573752799365433"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599570,"tradeList":[{"amount":0.06034084877017772,"direction":"BUY","price":8195,"timestamp":1571698599492,"tradeId":"10278100242552798920156"},{"amount":0.058211151229822275,"direction":"BUY","price":8194.99,"timestamp":1571698599492,"tradeId":"10278100242552799269205"},{"amount":0.020916,"direction":"BUY","price":8194.98,"timestamp":1571698599492,"tradeId":"10278100242552799365330"},{"amount":0.002732,"direction":"BUY","price":8194.15,"timestamp":1571698599492,"tradeId":"10278100242552799365093"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599570,"tradeList":[{"amount":0.06034084877017772,"direction":"BUY","price":8195,"timestamp":1571698599492,"tradeId":"10278100242552798920156"},{"amount":0.058211151229822275,"direction":"BUY","price":8194.99,"timestamp":1571698599492,"tradeId":"10278100242552799269205"},{"amount":0.020916,"direction":"BUY","price":8194.98,"timestamp":1571698599492,"tradeId":"10278100242552799365330"},{"amount":0.002732,"direction":"BUY","price":8194.15,"timestamp":1571698599492,"tradeId":"10278100242552799365093"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599570,"tradeList":[{"amount":0.06034084877017772,"direction":"BUY","price":8195,"timestamp":1571698599492,"tradeId":"10278100242552798920156"},{"amount":0.058211151229822275,"direction":"BUY","price":8194.99,"timestamp":1571698599492,"tradeId":"10278100242552799269205"},{"amount":0.020916,"direction":"BUY","price":8194.98,"timestamp":1571698599492,"tradeId":"10278100242552799365330"},{"amount":0.002732,"direction":"BUY","price":8194.15,"timestamp":1571698599492,"tradeId":"10278100242552799365093"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599570,"tradeList":[{"amount":0.06034084877017772,"direction":"BUY","price":8195,"timestamp":1571698599492,"tradeId":"10278100242552798920156"},{"amount":0.058211151229822275,"direction":"BUY","price":8194.99,"timestamp":1571698599492,"tradeId":"10278100242552799269205"},{"amount":0.020916,"direction":"BUY","price":8194.98,"timestamp":1571698599492,"tradeId":"10278100242552799365330"},{"amount":0.002732,"direction":"BUY","price":8194.15,"timestamp":1571698599492,"tradeId":"10278100242552799365093"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599669,"tradeList":[{"amount":0.002441,"direction":"BUY","price":8195,"timestamp":1571698599651,"tradeId":"10278100243652798920156"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"btcusdt","timestamp":1571698599857,"tradeList":[{"amount":0.053004,"direction":"SELL","price":8194.18,"timestamp":1571698599812,"tradeId":"10278100244852799365787"}]}
+2019-10-22 14:56:39 [INFO] - {"symbol":"eosusdt","timestamp":1571698599920,"tradeList":[{"amount":0.1845,"direction":"BUY","price":2.9286,"timestamp":1571698599902,"tradeId":"10222152901552799365915"}]}
+2019-10-22 14:56:40 [INFO] - {"symbol":"xrpusdt","timestamp":1571698600287,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29528,"timestamp":1571698600248,"tradeId":"10142550577452799365249"}]}
+2019-10-22 14:56:40 [INFO] - {"symbol":"xrpusdt","timestamp":1571698600694,"tradeList":[{"amount":346.45,"direction":"BUY","price":0.29523,"timestamp":1571698600650,"tradeId":"10142550578752799366814"}]}
+2019-10-22 14:56:41 [INFO] - {"symbol":"btcusdt","timestamp":1571698601345,"tradeList":[{"amount":0.003793032043929225,"direction":"BUY","price":8195,"timestamp":1571698601282,"tradeId":"10278100255852798920156"},{"amount":0.000916,"direction":"BUY","price":8194.97,"timestamp":1571698601282,"tradeId":"10278100255852799365871"}]}
+2019-10-22 14:56:41 [INFO] - {"symbol":"btcusdt","timestamp":1571698601345,"tradeList":[{"amount":0.003793032043929225,"direction":"BUY","price":8195,"timestamp":1571698601282,"tradeId":"10278100255852798920156"},{"amount":0.000916,"direction":"BUY","price":8194.97,"timestamp":1571698601282,"tradeId":"10278100255852799365871"}]}
+2019-10-22 14:56:41 [INFO] - {"symbol":"btcusdt","timestamp":1571698601810,"tradeList":[{"amount":0.002006,"direction":"BUY","price":8195,"timestamp":1571698601755,"tradeId":"10278100258152798920156"},{"amount":0.000435,"direction":"BUY","price":8194.99,"timestamp":1571698601755,"tradeId":"10278100258152799368079"}]}
+2019-10-22 14:56:41 [INFO] - {"symbol":"btcusdt","timestamp":1571698601810,"tradeList":[{"amount":0.002006,"direction":"BUY","price":8195,"timestamp":1571698601755,"tradeId":"10278100258152798920156"},{"amount":0.000435,"direction":"BUY","price":8194.99,"timestamp":1571698601755,"tradeId":"10278100258152799368079"}]}
+2019-10-22 14:56:41 [INFO] - {"symbol":"xrpusdt","timestamp":1571698601844,"tradeList":[{"amount":263.77,"direction":"SELL","price":0.29523,"timestamp":1571698601793,"tradeId":"10142550582952799368186"}]}
+2019-10-22 14:56:42 [INFO] - {"symbol":"btcusdt","timestamp":1571698602436,"tradeList":[{"amount":0.8634,"direction":"SELL","price":8194.2,"timestamp":1571698602388,"tradeId":"10278100261652799367390"}]}
+2019-10-22 14:56:42 [INFO] - {"symbol":"btcusdt","timestamp":1571698602623,"tradeList":[{"amount":0.010951,"direction":"BUY","price":8195,"timestamp":1571698602572,"tradeId":"10278100263552798920156"}]}
+2019-10-22 14:56:42 [INFO] - {"symbol":"xrpusdt","timestamp":1571698602917,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29527,"timestamp":1571698602873,"tradeId":"10142550586952799366307"}]}
+2019-10-22 14:56:43 [INFO] - {"symbol":"xrpusdt","timestamp":1571698602985,"tradeList":[{"amount":364.95,"direction":"BUY","price":0.29525,"timestamp":1571698602937,"tradeId":"10142550587552799369590"}]}
+2019-10-22 14:56:43 [INFO] - {"symbol":"btcusdt","timestamp":1571698603612,"tradeList":[{"amount":0.004374,"direction":"SELL","price":8194.23,"timestamp":1571698603574,"tradeId":"10278100270452799369910"}]}
+2019-10-22 14:56:44 [INFO] - {"symbol":"eosusdt","timestamp":1571698604205,"tradeList":[{"amount":0.1541,"direction":"BUY","price":2.9286,"timestamp":1571698604163,"tradeId":"10222152923152799371057"}]}
+2019-10-22 14:56:44 [INFO] - {"symbol":"eosusdt","timestamp":1571698604352,"tradeList":[{"amount":1.58,"direction":"BUY","price":2.929,"timestamp":1571698604279,"tradeId":"10222152923652799364336"},{"amount":0.42,"direction":"BUY","price":2.9288,"timestamp":1571698604279,"tradeId":"10222152923652799359331"}]}
+2019-10-22 14:56:44 [INFO] - {"symbol":"eosusdt","timestamp":1571698604352,"tradeList":[{"amount":1.58,"direction":"BUY","price":2.929,"timestamp":1571698604279,"tradeId":"10222152923652799364336"},{"amount":0.42,"direction":"BUY","price":2.9288,"timestamp":1571698604279,"tradeId":"10222152923652799359331"}]}
+2019-10-22 14:56:45 [INFO] - {"symbol":"btcusdt","timestamp":1571698605176,"tradeList":[{"amount":0.002441,"direction":"BUY","price":8195,"timestamp":1571698605162,"tradeId":"10278100278252798920156"}]}
+2019-10-22 14:56:45 [INFO] - {"symbol":"btcusdt","timestamp":1571698605374,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.6,"timestamp":1571698605313,"tradeId":"10278100279452799372678"}]}
+2019-10-22 14:56:45 [INFO] - {"symbol":"eosusdt","timestamp":1571698605462,"tradeList":[{"amount":0.1351,"direction":"SELL","price":2.9284,"timestamp":1571698605405,"tradeId":"10222152927052799365185"}]}
+2019-10-22 14:56:45 [INFO] - {"symbol":"btcusdt","timestamp":1571698605767,"tradeList":[{"amount":0.000316,"direction":"SELL","price":8194.6,"timestamp":1571698605717,"tradeId":"10278100282752799373307"}]}
+2019-10-22 14:56:46 [INFO] - {"symbol":"xrpusdt","timestamp":1571698606129,"tradeList":[{"amount":368.8,"direction":"SELL","price":0.29523,"timestamp":1571698606054,"tradeId":"10142550600752799373817"}]}
+2019-10-22 14:56:46 [INFO] - {"symbol":"xrpusdt","timestamp":1571698606587,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29527,"timestamp":1571698606503,"tradeId":"10142550603452799366307"}]}
+2019-10-22 14:56:47 [INFO] - {"symbol":"btcusdt","timestamp":1571698607187,"tradeList":[{"amount":0.461808,"direction":"BUY","price":8194.83,"timestamp":1571698607143,"tradeId":"10278100291952799375169"}]}
+2019-10-22 14:56:47 [INFO] - {"symbol":"xrpusdt","timestamp":1571698607223,"tradeList":[{"amount":198.21,"direction":"BUY","price":0.29523,"timestamp":1571698607180,"tradeId":"10142550605652799375195"}]}
+2019-10-22 14:56:50 [INFO] - {"symbol":"xrpusdt","timestamp":1571698608306,"tradeList":[{"amount":245.61,"direction":"BUY","price":0.29523,"timestamp":1571698608269,"tradeId":"10142550611352799376578"}]}
+2019-10-22 14:56:50 [INFO] - {"symbol":"eosusdt","timestamp":1571698607600,"tradeList":[{"amount":97.8309,"direction":"SELL","price":2.9287,"timestamp":1571698607558,"tradeId":"10222152935252799375818"}]}
+2019-10-22 14:56:50 [INFO] - {"symbol":"htusdt","timestamp":1571698607690,"tradeList":[{"amount":275.7,"direction":"SELL","price":3.3896,"timestamp":1571698607644,"tradeId":"10041646456352799375862"}]}
+2019-10-22 14:56:52 [INFO] - {"symbol":"xrpusdt","timestamp":1571698609111,"tradeList":[{"amount":334.56,"direction":"BUY","price":0.29527,"timestamp":1571698609059,"tradeId":"10142550613552799366307"}]}
+2019-10-22 14:56:53 [INFO] - {"symbol":"htusdt","timestamp":1571698608802,"tradeList":[{"amount":517.04,"direction":"SELL","price":3.3893,"timestamp":1571698608758,"tradeId":"10041646457352799377118"}]}
+2019-10-22 14:56:54 [INFO] - {"symbol":"eosusdt","timestamp":1571698607838,"tradeList":[{"amount":120.60771594400819,"direction":"BUY","price":2.929,"timestamp":1571698607817,"tradeId":"10222152936552799364336"}]}
+2019-10-22 14:56:58 [INFO] - {"symbol":"xrpusdt","timestamp":1571698609750,"tradeList":[{"amount":173.29,"direction":"SELL","price":0.29511,"timestamp":1571698609696,"tradeId":"10142550615952799371455"},{"amount":20.29,"direction":"SELL","price":0.29519,"timestamp":1571698609696,"tradeId":"10142550615952799365640"},{"amount":10.95,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366226"},{"amount":40.47,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366232"}]}
+2019-10-22 14:56:58 [INFO] - {"symbol":"htusdt","timestamp":1571698612400,"tradeList":[{"amount":0.11,"direction":"SELL","price":3.389,"timestamp":1571698612366,"tradeId":"10041646461852799215164"},{"amount":33.36,"direction":"SELL","price":3.3891,"timestamp":1571698612366,"tradeId":"10041646461852799379873"}]}
+2019-10-22 14:56:58 [INFO] - {"symbol":"eosusdt","timestamp":1571698607867,"tradeList":[{"amount":243.78,"direction":"SELL","price":2.9282,"timestamp":1571698607825,"tradeId":"10222152936652799370182"},{"amount":0.1351,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799372859"},{"amount":50.6516,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799365185"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698609750,"tradeList":[{"amount":173.29,"direction":"SELL","price":0.29511,"timestamp":1571698609696,"tradeId":"10142550615952799371455"},{"amount":20.29,"direction":"SELL","price":0.29519,"timestamp":1571698609696,"tradeId":"10142550615952799365640"},{"amount":10.95,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366226"},{"amount":40.47,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366232"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"htusdt","timestamp":1571698612400,"tradeList":[{"amount":0.11,"direction":"SELL","price":3.389,"timestamp":1571698612366,"tradeId":"10041646461852799215164"},{"amount":33.36,"direction":"SELL","price":3.3891,"timestamp":1571698612366,"tradeId":"10041646461852799379873"}]}
+2019-10-22 14:59:11 [WARN] - [Sub][0] No response from server
+2019-10-22 14:59:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698607867,"tradeList":[{"amount":243.78,"direction":"SELL","price":2.9282,"timestamp":1571698607825,"tradeId":"10222152936652799370182"},{"amount":0.1351,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799372859"},{"amount":50.6516,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799365185"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698607555,"tradeList":[{"amount":0.001697,"direction":"BUY","price":8194.82,"timestamp":1571698607515,"tradeId":"10278100296552799375458"}]}
+2019-10-22 14:59:11 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698609750,"tradeList":[{"amount":173.29,"direction":"SELL","price":0.29511,"timestamp":1571698609696,"tradeId":"10142550615952799371455"},{"amount":20.29,"direction":"SELL","price":0.29519,"timestamp":1571698609696,"tradeId":"10142550615952799365640"},{"amount":10.95,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366226"},{"amount":40.47,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366232"}]}
+2019-10-22 14:59:11 [WARN] - [Sub][4] No response from server
+2019-10-22 14:59:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698607867,"tradeList":[{"amount":243.78,"direction":"SELL","price":2.9282,"timestamp":1571698607825,"tradeId":"10222152936652799370182"},{"amount":0.1351,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799372859"},{"amount":50.6516,"direction":"SELL","price":2.9284,"timestamp":1571698607825,"tradeId":"10222152936652799365185"}]}
+2019-10-22 14:59:11 [WARN] - [Sub][4] Reconnecting after 15 seconds later
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698609750,"tradeList":[{"amount":173.29,"direction":"SELL","price":0.29511,"timestamp":1571698609696,"tradeId":"10142550615952799371455"},{"amount":20.29,"direction":"SELL","price":0.29519,"timestamp":1571698609696,"tradeId":"10142550615952799365640"},{"amount":10.95,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366226"},{"amount":40.47,"direction":"SELL","price":0.2952,"timestamp":1571698609696,"tradeId":"10142550615952799366232"}]}
+2019-10-22 14:59:11 [WARN] - [Sub][3] No response from server
+2019-10-22 14:59:11 [WARN] - [Sub][3] Reconnecting after 15 seconds later
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698608261,"tradeList":[{"amount":0.015,"direction":"SELL","price":8194.61,"timestamp":1571698608199,"tradeId":"10278100300852799376390"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"htusdt","timestamp":1571698613509,"tradeList":[{"amount":33.47,"direction":"SELL","price":3.389,"timestamp":1571698613489,"tradeId":"10041646462952799215164"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"eosusdt","timestamp":1571698607901,"tradeList":[{"amount":130.7794,"direction":"BUY","price":2.9282,"timestamp":1571698607840,"tradeId":"10222152936852799376044"}]}
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698610417,"tradeList":[{"amount":342.68,"direction":"SELL","price":0.29519,"timestamp":1571698610396,"tradeId":"10142550618452799379090"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698610271,"tradeList":[{"amount":0.020377,"direction":"SELL","price":8194.27,"timestamp":1571698610224,"tradeId":"10278100313552799378541"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698610632,"tradeList":[{"amount":0.00206,"direction":"BUY","price":8194.98,"timestamp":1571698610618,"tradeId":"10278100315852799378954"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698610767,"tradeList":[{"amount":0.002441,"direction":"BUY","price":8194.98,"timestamp":1571698610756,"tradeId":"10278100316452799378954"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698611609,"tradeList":[{"amount":0.002732,"direction":"BUY","price":8194.99,"timestamp":1571698611562,"tradeId":"10278100322852799378063"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698612465,"tradeList":[{"amount":0.000258,"direction":"BUY","price":8194.98,"timestamp":1571698612424,"tradeId":"10278100327052799380676"},{"amount":0.000207,"direction":"BUY","price":8194.97,"timestamp":1571698612424,"tradeId":"10278100327052799381091"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698612465,"tradeList":[{"amount":0.000258,"direction":"BUY","price":8194.98,"timestamp":1571698612424,"tradeId":"10278100327052799380676"},{"amount":0.000207,"direction":"BUY","price":8194.97,"timestamp":1571698612424,"tradeId":"10278100327052799381091"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698612846,"tradeList":[{"amount":0.0002,"direction":"SELL","price":8194.29,"timestamp":1571698612783,"tradeId":"10278100329652799381468"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698614605,"tradeList":[{"amount":0.000467,"direction":"SELL","price":8194.29,"timestamp":1571698614549,"tradeId":"10278100341652799381468"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698615803,"tradeList":[{"amount":0.000551,"direction":"SELL","price":8194.64,"timestamp":1571698615741,"tradeId":"10278100345952799385729"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698616507,"tradeList":[{"amount":0.005076,"direction":"BUY","price":8194.43,"timestamp":1571698616454,"tradeId":"10278100350152799386465"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698617433,"tradeList":[{"amount":0.200315,"direction":"BUY","price":8194.97,"timestamp":1571698617373,"tradeId":"10278100355952799386556"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698617902,"tradeList":[{"amount":0.000702,"direction":"SELL","price":8194.3,"timestamp":1571698617864,"tradeId":"10278100357652799385287"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698618328,"tradeList":[{"amount":0.015,"direction":"BUY","price":8194.63,"timestamp":1571698618274,"tradeId":"10278100360352799388752"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - {"symbol":"btcusdt","timestamp":1571698619271,"tradeList":[{"amount":0.574788,"direction":"BUY","price":8194.62,"timestamp":1571698619230,"tradeId":"10278100367152799390008"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connecting...
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [INFO] - {"symbol":"htusdt","timestamp":1571698746864,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:11 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:11 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:11 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749926,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746759,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749953,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [ERROR] - [Sub][3] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746759,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749926,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749953,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][0] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749953,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746864,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746864,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749926,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+2019-10-22 14:59:12 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749927,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Unexpected error: Socket closed
+2019-10-22 14:59:12 [ERROR] - [Sub][4] Connection is closing due to error
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"eosusdt","timestamp":1571698749926,"tradeList":[{"amount":175.2836,"direction":"BUY","price":2.9316,"timestamp":1571698749867,"tradeId":"10222153647852799565554"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:12 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:12 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:13 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:13 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753001,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753001,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753001,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753001,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746864,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:13 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746683,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][3] Connected to server
+2019-10-22 14:59:13 [INFO] - [Sub][0] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750577,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"xrpusdt","timestamp":1571698750578,"tradeList":[{"amount":2595.95,"direction":"BUY","price":0.29573,"timestamp":1571698750557,"tradeId":"10142551348052799565418"}]}
+2019-10-22 14:59:13 [INFO] - {"symbol":"htusdt","timestamp":1571698746864,"tradeList":[{"amount":0.53,"direction":"SELL","price":3.3908,"timestamp":1571698746615,"tradeId":"10041646644452799560621"}]}
+2019-10-22 14:59:13 [INFO] - [Sub][4] Connected to server
+2019-10-22 14:59:13 [INFO] - {"symbol":"eosusdt","timestamp":1571698753002,"tradeList":[{"amount":179.7166,"direction":"SELL","price":2.9318,"timestamp":1571698752956,"tradeId":"10222153669052799570255"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754139,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754139,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754139,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754139,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:14 [INFO] - {"symbol":"eosusdt","timestamp":1571698754140,"tradeList":[{"amount":100.5942,"direction":"BUY","price":2.9317,"timestamp":1571698754094,"tradeId":"10222153676852799572092"}]}
+2019-10-22 14:59:15 [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
