@@ -36,7 +36,14 @@ public class QuantitativeController {
         return ResultBean.success(tradeData) ;
     }
 
-
+    /**
+    * @Description: 分交易对和时间间隔获取k线数据
+    * @param:   [tradePair, interval]
+    * @return:  com.china.chen.quantitativecoretrade.response.common.ResultBean<com.huobi.client.model.Candlestick>
+    * @author chenjianjun
+    * @date 10/22/19 10:33 PM
+    * @version V1.0
+    */
     @GetMapping(value = "/quantitative/data/candlestick")
     public ResultBean<Candlestick> candlestickData(
             @RequestParam(value = "tradePair") String tradePair
