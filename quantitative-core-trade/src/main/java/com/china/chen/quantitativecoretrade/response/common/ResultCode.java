@@ -12,6 +12,9 @@ public enum ResultCode {
     BAD_REQUEST(400,"请求参数错误"),
     SERVER_ERROR(500,"服务器错误"),
 
+
+    NO_STRATEGY(10000,"未找到对应的策略"),
+
 	;
 
 	private int code;

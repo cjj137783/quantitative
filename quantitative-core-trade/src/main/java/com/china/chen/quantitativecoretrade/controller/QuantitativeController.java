@@ -1,31 +1,43 @@
 package com.china.chen.quantitativecoretrade.controller;
 
 
-import com.china.chen.quantitativecoretrade.constants.KLineInteverEnum;
-import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
-import com.china.chen.quantitativecoretrade.listener.CandlestickEventListerner;
-import com.china.chen.quantitativecoretrade.listener.TradeEventListerner;
+
+import com.china.chen.quantitativecoretrade.constants.StrategyTypeEnum;
 import com.china.chen.quantitativecoretrade.response.common.ResultBean;
-import com.huobi.client.model.Candlestick;
-import com.huobi.client.model.Trade;
-import com.huobi.client.model.enums.CandlestickInterval;
+import com.china.chen.quantitativecoretrade.response.common.ResultCode;
+import com.china.chen.quantitativecoretrade.strategy.BaseStrategy;
+import com.china.chen.quantitativecoretrade.utils.ThreadPoolsUtils;
 
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.servlet.ModelAndView;
 
-import java.util.Map;
 
 @RestController
 public class QuantitativeController {
 
+    @GetMapping("/strategy/{name}")
+    public ResultBean<Boolean> strategy(@PathVariable(value = "name") String strategyName) {
 
+        StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;
+        if(strategyTypeEnum == null){
+            return ResultBean.fail(ResultCode.NO_STRATEGY.getCode(),ResultCode.NO_STRATEGY.getMsg());
+        }
 
-    @GetMapping("/hello/themeleaf")
-    public ModelAndView themaleaf(ModelAndView model) {
-        model.addObject("name", "Joshua");
-        model.setViewName("main");
-        return model;
+        ThreadPoolsUtils.STRATEGY_POOL.submit(() ->{
+            try {
+                Class clazz = Class.forName(strategyTypeEnum.getValue()) ;
+                BaseStrategy strategy = (BaseStrategy)clazz.newInstance() ;
+                strategy.start();
+            } catch (ClassNotFoundException e) {
+                e.printStackTrace();
+            } catch (IllegalAccessException e) {
+                e.printStackTrace();
+            } catch (InstantiationException e) {
+                e.printStackTrace();
+            }
+        }) ;
+
+        return ResultBean.success();
     }
 }

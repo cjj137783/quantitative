@@ -2,6 +2,7 @@ package com.china.chen.quantitativecoretrade.init;
 
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.china.chen.quantitativecoretrade.listener.CandlestickEventListerner;
+import com.china.chen.quantitativecoretrade.listener.PriceDepthListener;
 import com.china.chen.quantitativecoretrade.listener.TradeEventListerner;
 import com.huobi.client.SubscriptionClient;
 import com.huobi.client.model.enums.CandlestickInterval;
@@ -25,6 +26,8 @@ public class SubscribeTradeData implements CommandLineRunner {
             for(CandlestickInterval candlestickInterval : CandlestickInterval.values()){
                 subscriptionClient.subscribeCandlestickEvent(tradePairEnum.getKey(),candlestickInterval,new CandlestickEventListerner()) ;
             }
+            /**订阅价格深度数据*/
+            subscriptionClient.subscribePriceDepthEvent(tradePairEnum.getKey(), new PriceDepthListener());
         }
     }
 }
