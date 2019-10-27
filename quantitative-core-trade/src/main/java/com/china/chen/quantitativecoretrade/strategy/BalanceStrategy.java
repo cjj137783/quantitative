@@ -29,11 +29,11 @@ public class BalanceStrategy implements BaseStrategy{
     public volatile Boolean runningFlag ;
 
     /****************************策略参数*************************/
-    /*阀值*/
+    /**阀值*/
     private static final String PARAM_THRESHOLD = "threshold" ;
-    /*最小交易金额*/
+    /**最小交易金额*/
     private static final String PARAM_MIN_BASE_AMOUNT = "minBaseAmount" ;
-    /*最小交易币种数量*/
+    /**最小交易币种数量*/
     private static final String PARAM_MIN_TRADE_AMOUNT = "minTradeAmount" ;
 
 
@@ -100,7 +100,8 @@ public class BalanceStrategy implements BaseStrategy{
             if (sellAmount.compareTo(MinStock) < 0  || diffAsset.negate().compareTo(minAmount) < 0) {
                 return ;
             }
-            Trade.sell(tradePair,sellPrice, sellAmount); // 卖出下单
+            /*卖出下单*/
+            Trade.sell(tradePair,sellPrice, sellAmount);
             /*当前账户余额 【 balance + stock * sellProce 】*/
             BigDecimal nowAmount = Acc.balance(tradePair).add(Acc.stock(tradePair).multiply(Ticker.sell())) ;
             DingTalkUtils.sendMessage("当前账户余额【",nowAmount,"】","出售BTC-> 单价【",sellPrice,"】，数量【",sellAmount,"】") ;
