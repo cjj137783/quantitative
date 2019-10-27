@@ -68,6 +68,11 @@
             <artifactId>guava</artifactId>
             <version>25.0-jre</version>
         </dependency>
+        <dependency>
+            <groupId>com.taobao</groupId>
+            <artifactId>dingtalk</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

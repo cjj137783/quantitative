@@ -14,7 +14,7 @@ public interface BaseStrategy {
     * @date 10/26/19 9:36 PM
     * @version V1.0
     */
-    void start(TradePairEnum tradePair, String secretSeed, Map<String,Object> strategyParam) throws Exception;
+    void start(TradePairEnum tradePair, Map<String,Object> strategyParam) throws Exception;
 
     /**
     * @Description: 是否继续运行该策略

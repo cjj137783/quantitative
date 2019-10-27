@@ -2,7 +2,7 @@ package com.china.chen.quantitativecoretrade.init;
 
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.china.chen.quantitativecoretrade.listener.CandlestickEventListerner;
-import com.china.chen.quantitativecoretrade.listener.PriceDepthListener;
+import com.china.chen.quantitativecoretrade.listener.Ticker;
 import com.china.chen.quantitativecoretrade.listener.TradeEventListerner;
 import com.huobi.client.SubscriptionClient;
 import com.huobi.client.model.enums.CandlestickInterval;
@@ -11,7 +11,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 @Component
-public class SubscribeTradeData implements CommandLineRunner {
+public class MarketSubscribe implements CommandLineRunner {
 
     @Override
     public void run(String... args)  {
@@ -27,7 +27,7 @@ public class SubscribeTradeData implements CommandLineRunner {
                 subscriptionClient.subscribeCandlestickEvent(tradePairEnum.getKey(),candlestickInterval,new CandlestickEventListerner()) ;
             }
             /**订阅价格深度数据*/
-            subscriptionClient.subscribePriceDepthEvent(tradePairEnum.getKey(), new PriceDepthListener());
+            subscriptionClient.subscribePriceDepthEvent(tradePairEnum.getKey(), new Ticker());
         }
     }
 }

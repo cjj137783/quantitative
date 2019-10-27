@@ -8,20 +8,22 @@ package com.china.chen.quantitativecoretrade.constants;
 * @version V1.0
 */
 public enum TradePairEnum {
-    HT_USDT("htusdt", "买入"),
-    BTC_USDT("btcusdt", "买入"),
-    ETH_USDT("ethsdt", "买入"),
-    XRP_USDT("xrpusdt", "买入"),
-    EOS_USDT("eosusdt", "买入"),
+    HT_USDT("htusdt", "ht","usdt"),
+    BTC_USDT("btcusdt", "btc","usdt"),
+    ETH_USDT("ethsdt", "eth","usdt"),
+    XRP_USDT("xrpusdt", "xrp","usdt"),
+    EOS_USDT("eosusdt", "eos","usdt"),
 
     ;
 
     private String key;
-    private String value;
+    private String tradeCoinName;
+    private String baseCoinName;
 
-    TradePairEnum(String key, String value) {
+    TradePairEnum(String key, String tradeCoinName,String baseCoinName) {
         this.key = key;
-        this.value = value;
+        this.tradeCoinName = tradeCoinName;
+        this.baseCoinName = baseCoinName ;
     }
 
 
@@ -29,9 +31,11 @@ public enum TradePairEnum {
         return key;
     }
 
-    public String getValue() {
-        return value;
+    public String getBaseCoinName() {
+        return baseCoinName;
     }
+
+    public String getTradeCoinName(){return  tradeCoinName ;}
 
     public static TradePairEnum getEnumBykey(String key){
         for (TradePairEnum e: TradePairEnum.values()) {

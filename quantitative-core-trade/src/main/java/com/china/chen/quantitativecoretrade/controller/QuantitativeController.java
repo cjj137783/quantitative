@@ -4,10 +4,12 @@ package com.china.chen.quantitativecoretrade.controller;
 
 import com.china.chen.quantitativecoretrade.constants.StrategyTypeEnum;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
+import com.china.chen.quantitativecoretrade.init.AccountSubscribe;
 import com.china.chen.quantitativecoretrade.response.common.ResultBean;
 import com.china.chen.quantitativecoretrade.response.common.ResultCode;
 import com.china.chen.quantitativecoretrade.strategy.BaseStrategy;
 import com.china.chen.quantitativecoretrade.utils.ThreadPoolsUtils;
+import com.china.chen.quantitativecoretrade.listener.Trade;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -33,6 +35,10 @@ public class QuantitativeController {
             , @RequestParam(value = "tradePair") String tradePair
             , @RequestParam(value = "strategyParam") Map<String,Object> strategyParam) {
 
+        /**初始化运行上下文信息*/
+        initContext(secretSeed) ;
+
+
         StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;
         if(strategyTypeEnum == null){
             return ResultBean.fail(ResultCode.NO_STRATEGY.getCode(),ResultCode.NO_STRATEGY.getMsg());
@@ -45,7 +51,9 @@ public class QuantitativeController {
                 TradePairEnum tradePairEnum = TradePairEnum.getEnumBykey(tradePair) ;
 
                 while(strategy.continueRunning()){
-                    strategy.start(tradePairEnum,secretSeed,strategyParam);
+                    strategy.start(tradePairEnum,strategyParam);
+
+                    Thread.sleep(500);
                 }
             } catch (ClassNotFoundException e) {
                 e.printStackTrace();
@@ -59,6 +67,12 @@ public class QuantitativeController {
         }) ;
 
         return ResultBean.success();
+    }
+
+    private void initContext(String secretSeed) {
+        AccountSubscribe.subscribeAccount(secretSeed);
+        Trade tradeHelper = new Trade() ;
+        tradeHelper.init(secretSeed);
     }
 
 
