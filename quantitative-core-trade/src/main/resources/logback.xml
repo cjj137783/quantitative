@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration debug="false">
-    <!--为了防止进程退出时，内存中的数据丢失，请加上此选项-->
-    <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook"/>
-
-    <property name="NAME" value="service-admin" />
-    <property name="LOG_HOME" value="/quantitative/logs" />
-    <property name="PATTERN" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n" />
-    <contextName>${NAME}</contextName>
-
+    <appender name="ROLLING-APPENDER" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>quantitative_log.txt</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>quantitative-%d{yyyy-MM-dd}.%i.txt</fileNamePattern>
+            <maxFileSize>100MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>500MB</totalSizeCap>
+            </rollingPolicy>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender" >
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
-            <pattern>${PATTERN}</pattern>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n</pattern>
         </encoder>
     </appender>
 
-    <root level="INFO" >
-        <appender-ref ref="${LOGBACK_REF}"/>
-        <appender-ref ref="STDOUT"/>
+    <root level="INFO">
+        <appender-ref ref="ROLLING-APPENDER" />
+        <appender-ref ref="STDOUT" />
     </root>
 </configuration>

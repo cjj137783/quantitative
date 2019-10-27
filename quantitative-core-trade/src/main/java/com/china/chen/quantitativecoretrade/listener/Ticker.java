@@ -1,6 +1,7 @@
 package com.china.chen.quantitativecoretrade.listener;
 
 
+import com.alibaba.fastjson.JSON;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.huobi.client.SubscriptionListener;
 import com.huobi.client.model.Candlestick;
