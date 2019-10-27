@@ -2,6 +2,7 @@ package com.china.chen.quantitativecoretrade.controller;
 
 
 
+import com.alibaba.fastjson.JSONObject;
 import com.china.chen.quantitativecoretrade.constants.StrategyTypeEnum;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.china.chen.quantitativecoretrade.init.AccountSubscribe;
@@ -29,14 +30,17 @@ public class QuantitativeController {
     * @date 10/26/19 9:43 PM
     * @version V1.0
     */
-    @GetMapping("/start-strategy/{name}")
-    public ResultBean<Boolean> startStrategy(@PathVariable(value = "name") String strategyName
+    @GetMapping("/start-strategy")
+    public ResultBean<Boolean> startStrategy(
+            @RequestParam(value = "strategyName") String strategyName
             , @RequestParam(value = "secretSeed") String secretSeed
             , @RequestParam(value = "tradePair") String tradePair
-            , @RequestParam(value = "strategyParam") Map<String,Object> strategyParam) {
+            , @RequestParam(value = "strategyParam") String strategyParam) {
 
+        Map<String,Object> params = JSONObject.parseObject(strategyParam,Map.class);
         /**初始化运行上下文信息*/
         initContext(secretSeed) ;
+
 
 
         StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;
@@ -51,7 +55,7 @@ public class QuantitativeController {
                 TradePairEnum tradePairEnum = TradePairEnum.getEnumBykey(tradePair) ;
 
                 while(strategy.continueRunning()){
-                    strategy.start(tradePairEnum,strategyParam);
+                    strategy.start(tradePairEnum,params);
 
                     Thread.sleep(500);
                 }
