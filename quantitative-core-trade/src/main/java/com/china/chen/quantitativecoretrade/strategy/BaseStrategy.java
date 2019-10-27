@@ -35,4 +35,6 @@ public interface BaseStrategy {
     * @version V1.0
     */
     void stopRunning() ;
+
+    void startRunning() ;
 }

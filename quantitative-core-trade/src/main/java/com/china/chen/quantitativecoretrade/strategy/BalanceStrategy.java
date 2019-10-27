@@ -62,9 +62,9 @@ public class BalanceStrategy implements BaseStrategy{
         BigDecimal minAmount = new BigDecimal(strategyParam.get(PARAM_MIN_BASE_AMOUNT)+"") ;
 
         /*买卖超额*/
-        BigDecimal spread = Ticker.sell().subtract(Ticker.buy()) ;
+        BigDecimal spread = Ticker.sell(tradePair).subtract(Ticker.buy(tradePair)) ;
         /*账户余额与当前持仓价值的差值的 0.5倍*/
-        BigDecimal diffAsset = (Acc.balance(tradePair).subtract(Acc.stock(tradePair).multiply(Ticker.sell())))
+        BigDecimal diffAsset = (Acc.balance(tradePair).subtract(Acc.stock(tradePair).multiply(Ticker.sell(tradePair))))
                 .divide(new BigDecimal(2)) ;
 
         BigDecimal ratio = diffAsset.divide(Acc.balance(tradePair),6,RoundingMode.DOWN) ;
@@ -77,7 +77,7 @@ public class BalanceStrategy implements BaseStrategy{
         /*如果 ratio大于 0*/
         if (ratio.compareTo(BigDecimal.ZERO) > 0) {
             /*计算下单价格*/
-            BigDecimal buyPrice = Ticker.sell().add(spread).setScale(CoreConstants.BASE_COIN_PRECISION,RoundingMode.DOWN);
+            BigDecimal buyPrice = Ticker.sell(tradePair).add(spread).setScale(CoreConstants.BASE_COIN_PRECISION,RoundingMode.DOWN);
             /*计算下单量*/
             BigDecimal buyAmount = diffAsset.divide(buyPrice,CoreConstants.QUOTE_COIN_PRECISION,RoundingMode.DOWN) ;
             /*如果下单量小于最小交易量*/
@@ -87,11 +87,11 @@ public class BalanceStrategy implements BaseStrategy{
             /*买入下单*/
             Trade.buy(tradePair,buyPrice, buyAmount);
             /*【 balance + (stock) * sellPrice 】*/
-            BigDecimal nowAmount = Acc.balance(tradePair).add(Acc.stock(tradePair).multiply(Ticker.sell())) ;
+            BigDecimal nowAmount = Acc.balance(tradePair).add(Acc.stock(tradePair).multiply(Ticker.sell(tradePair))) ;
             DingTalkUtils.sendMessage("当前账户余额【", nowAmount, "】", "购买BTC-> 单价【", buyPrice, "】，数量【", buyAmount, "】");
         } else {
             /*计算下单价格*/
-            BigDecimal sellPrice = Ticker.buy().subtract(spread)
+            BigDecimal sellPrice = Ticker.buy(tradePair).subtract(spread)
                     .setScale(CoreConstants.BASE_COIN_PRECISION,RoundingMode.DOWN);
             /*计算下单量*/
             BigDecimal sellAmount = diffAsset.negate().divide(sellPrice,CoreConstants.QUOTE_COIN_PRECISION,RoundingMode.DOWN);
@@ -103,7 +103,7 @@ public class BalanceStrategy implements BaseStrategy{
             /*卖出下单*/
             Trade.sell(tradePair,sellPrice, sellAmount);
             /*当前账户余额 【 balance + stock * sellProce 】*/
-            BigDecimal nowAmount = Acc.balance(tradePair).add(Acc.stock(tradePair).multiply(Ticker.sell())) ;
+            BigDecimal nowAmount = Acc.balance(tradePair).add(Acc.stock(tradePair).multiply(Ticker.sell(tradePair))) ;
             DingTalkUtils.sendMessage("当前账户余额【",nowAmount,"】","出售BTC-> 单价【",sellPrice,"】，数量【",sellAmount,"】") ;
         }
         return ;
@@ -114,8 +114,15 @@ public class BalanceStrategy implements BaseStrategy{
         return runningFlag;
     }
 
+
+
     @Override
     public void stopRunning() {
         runningFlag = false ;
+    }
+
+    @Override
+    public void startRunning() {
+        runningFlag = true ;
     }
 }

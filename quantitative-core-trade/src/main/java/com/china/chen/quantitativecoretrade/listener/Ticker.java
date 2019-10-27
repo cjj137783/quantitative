@@ -29,22 +29,17 @@ public class Ticker implements SubscriptionListener<PriceDepthEvent> {
 
     public static Map<TradePairEnum,PriceDepth> PRICE_DEPTH_CACHE = new HashMap<>() ;
 
-    private static BigDecimal buy ;
-    private static BigDecimal sell ;
-
     @Override
     public void onReceive(PriceDepthEvent priceDepthEvent) {
         PRICE_DEPTH_CACHE.put(TradePairEnum.getEnumBykey(priceDepthEvent.getSymbol()),priceDepthEvent.getData()) ;
-        buy = priceDepthEvent.getData().getBids().get(0).getPrice() ;
-        sell = priceDepthEvent.getData().getAsks().get(0).getPrice() ;
     }
 
 
-    public static BigDecimal buy(){
-        return buy ;
+    public static BigDecimal buy(TradePairEnum tradePairEnum){
+        return PRICE_DEPTH_CACHE.get(tradePairEnum).getBids().get(0).getPrice() ;
     }
 
-    public static BigDecimal sell(){
-        return sell ;
+    public static BigDecimal sell(TradePairEnum tradePairEnum){
+        return PRICE_DEPTH_CACHE.get(tradePairEnum).getAsks().get(0).getPrice() ;
     }
 }

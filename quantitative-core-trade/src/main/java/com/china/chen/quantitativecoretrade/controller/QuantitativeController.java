@@ -19,8 +19,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
+import lombok.extern.slf4j.Slf4j;
+
 
 @RestController
+@Slf4j
 public class QuantitativeController {
 
     /**
@@ -53,20 +56,20 @@ public class QuantitativeController {
                 Class clazz = Class.forName(strategyTypeEnum.getValue()) ;
                 BaseStrategy strategy = (BaseStrategy)clazz.newInstance() ;
                 TradePairEnum tradePairEnum = TradePairEnum.getEnumBykey(tradePair) ;
-
+                strategy.startRunning();
                 while(strategy.continueRunning()){
                     strategy.start(tradePairEnum,params);
 
                     Thread.sleep(500);
                 }
             } catch (ClassNotFoundException e) {
-                e.printStackTrace();
+                log.error("",e);
             } catch (IllegalAccessException e) {
-                e.printStackTrace();
+                log.error("",e);
             } catch (InstantiationException e) {
-                e.printStackTrace();
+                log.error("",e);
             } catch (Exception e) {
-                e.printStackTrace();
+                log.error("",e);
             }
         }) ;
 
