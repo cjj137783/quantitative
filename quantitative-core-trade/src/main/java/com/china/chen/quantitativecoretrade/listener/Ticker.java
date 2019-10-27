@@ -10,6 +10,8 @@ import com.huobi.client.model.enums.CandlestickInterval;
 import com.huobi.client.model.event.CandlestickEvent;
 import com.huobi.client.model.event.PriceDepthEvent;
 
+import org.apache.commons.lang.StringUtils;
+
 import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.LinkedList;

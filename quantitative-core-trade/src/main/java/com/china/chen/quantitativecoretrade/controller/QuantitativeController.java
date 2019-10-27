@@ -5,13 +5,15 @@ package com.china.chen.quantitativecoretrade.controller;
 import com.alibaba.fastjson.JSONObject;
 import com.china.chen.quantitativecoretrade.constants.StrategyTypeEnum;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
-import com.china.chen.quantitativecoretrade.init.AccountSubscribe;
+import com.china.chen.quantitativecoretrade.init.RequestClientInit;
+import com.china.chen.quantitativecoretrade.init.SubscribeClientInit;
 import com.china.chen.quantitativecoretrade.response.common.ResultBean;
 import com.china.chen.quantitativecoretrade.response.common.ResultCode;
 import com.china.chen.quantitativecoretrade.strategy.BaseStrategy;
 import com.china.chen.quantitativecoretrade.utils.ThreadPoolsUtils;
 import com.china.chen.quantitativecoretrade.listener.Trade;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -25,6 +27,12 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @Slf4j
 public class QuantitativeController {
+
+
+    @Autowired
+    private RequestClientInit requestClientInit ;
+    @Autowired
+    private SubscribeClientInit subscribeClientInit ;
 
     /**
     * @class_name: QuantitativeController
@@ -59,7 +67,6 @@ public class QuantitativeController {
                 strategy.startRunning();
                 while(strategy.continueRunning()){
                     strategy.start(tradePairEnum,params);
-
                     Thread.sleep(500);
                 }
             } catch (ClassNotFoundException e) {
@@ -77,9 +84,11 @@ public class QuantitativeController {
     }
 
     private void initContext(String secretSeed) {
-        AccountSubscribe.subscribeAccount(secretSeed);
-        Trade tradeHelper = new Trade() ;
-        tradeHelper.init(secretSeed);
+        subscribeClientInit.init(secretSeed);
+        requestClientInit.init(secretSeed);
+
+        subscribeClientInit.subscribeAccountChange();
+
     }
 
 
@@ -92,7 +101,7 @@ public class QuantitativeController {
     * @version V1.0
     */
     @GetMapping("/stop-strategy/{name}")
-    public ResultBean<Boolean> startStrategy(
+    public ResultBean<Boolean> stopStrategy(
             @PathVariable(value = "name") String strategyName) {
 
         StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;

@@ -10,7 +10,7 @@ package com.china.chen.quantitativecoretrade.constants;
 public enum TradePairEnum {
     HT_USDT("htusdt", "ht","usdt"),
     BTC_USDT("btcusdt", "btc","usdt"),
-    ETH_USDT("ethsdt", "eth","usdt"),
+    ETH_USDT("ethusdt", "eth","usdt"),
     XRP_USDT("xrpusdt", "xrp","usdt"),
     EOS_USDT("eosusdt", "eos","usdt"),
 

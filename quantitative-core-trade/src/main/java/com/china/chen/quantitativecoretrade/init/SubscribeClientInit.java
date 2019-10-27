@@ -7,9 +7,12 @@ import com.huobi.client.SubscriptionClient;
 import com.huobi.client.SubscriptionOptions;
 import com.huobi.client.model.enums.BalanceMode;
 
+import org.springframework.stereotype.Service;
+
 import cn.hutool.crypto.Mode;
 import cn.hutool.crypto.Padding;
 import cn.hutool.crypto.symmetric.DES;
+import lombok.extern.slf4j.Slf4j;
 
 
 /**
@@ -19,12 +22,14 @@ import cn.hutool.crypto.symmetric.DES;
 * @date 10/27/19 2:22 PM
 * @version V1.0
 */
-public class AccountSubscribe {
 
-    private static SubscriptionClient subscriptionClient ;
+@Slf4j
+@Service
+public class SubscribeClientInit {
 
-   public static void subscribeAccount(String secretSeed){
+   private static SubscriptionClient subscriptionClient ;
 
+    public void init(String secretSeed){
        if(subscriptionClient == null){
            SubscriptionOptions options = new SubscriptionOptions();
            options.setUri(CoreConstants.URL);
@@ -35,10 +40,15 @@ public class AccountSubscribe {
 
            subscriptionClient = SubscriptionClient.create(
                    realApiKey, realSecretKey, options);
-
-
-           subscriptionClient.subscribeAccountEvent(BalanceMode.AVAILABLE, new Acc());
        }
+   }
 
+
+   public void subscribeAccountChange(){
+       subscriptionClient.subscribeAccountEvent(BalanceMode.AVAILABLE, new Acc());
+   }
+
+   public SubscriptionClient getClient(){
+        return subscriptionClient ;
    }
 }
