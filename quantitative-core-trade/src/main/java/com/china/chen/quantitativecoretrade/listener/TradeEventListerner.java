@@ -39,7 +39,12 @@ public class TradeEventListerner implements SubscriptionListener<TradeEvent> {
                 TRADE_RECORD_CACHE.put(key,list) ;
             }
             if(statisticsInfo == null){
-                statisticsInfo = new TradeStatisticsInfo() ;
+                statisticsInfo = TradeStatisticsInfo.builder()
+                        .averagePrice(BigDecimal.ZERO)
+                        .buySumAmount(BigDecimal.ZERO)
+                        .buySumQuantity(BigDecimal.ZERO)
+                        .sellSumAmount(BigDecimal.ZERO)
+                        .sellSumQuantity(BigDecimal.ZERO).build() ;
                 STATISTICS_INFO_MAP.put(key,statisticsInfo) ;
             }
 
