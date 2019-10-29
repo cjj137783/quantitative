@@ -9,5 +9,9 @@ public class CoreConstants {
     public static final Integer QUOTE_COIN_PRECISION = 6 ;
     /**钉钉报警的webhook*/
     public static final String HOOK = "https://oapi.dingtalk.com/robot/send?access_token=e93d3076f9b6a981c15603ecb8328278d0831b9b3b34ca94d6da89105ac65332" ;
+    /**币世界爬虫初始地址*/
+    public static final String BI_SHI_JIE_URL = "https://www.bishijie.com/kuaixun" ;
 
+    /**钉钉机器人关键字*/
+    public  static final String KEYWORD = "▶信息◀" ;
 }
