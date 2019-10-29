@@ -67,9 +67,9 @@ public class BiShijieNewsProcessor implements PageProcessor {
 				/**如果不是第一次启动爬取并且缓存中也没有该新闻*/
 				if(!isStartedFlag && noticeMap.get(notice) == null){
 					if(!importantFlag){
-						DingTalkUtils.sendMessage(CoreConstants.KEYWORD,"【"+notice+"】" + url);
+						DingTalkUtils.sendMessage("【"+notice+"】" + url);
 					}else{
-						DingTalkUtils.sendMessage(CoreConstants.KEYWORD,"【⭐️"+notice+"⭐️】" + url);
+						DingTalkUtils.sendMessage("【⭐️"+notice+"⭐️】" + url);
 					}
 				}
 				noticeMap.put(notice,url) ;

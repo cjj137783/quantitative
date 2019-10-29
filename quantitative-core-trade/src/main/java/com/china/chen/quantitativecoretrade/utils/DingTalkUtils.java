@@ -14,7 +14,7 @@ public class DingTalkUtils {
 
     private static DingTalkClient client ;
 
-    public static void sendMessage(String keyword,Object... messages) {
+    public static void sendMessage(Object... messages) {
         try{
             if(client == null){
                 client = new DefaultDingTalkClient(CoreConstants.HOOK);
@@ -24,7 +24,7 @@ public class DingTalkUtils {
             OapiRobotSendRequest.Text text = new OapiRobotSendRequest.Text();
 
             StringBuffer msg = new StringBuffer() ;
-            msg.append(keyword) ;
+            msg.append(CoreConstants.KEYWORD) ;
             for(Object message : messages){
                 msg.append(message) ;
             }
