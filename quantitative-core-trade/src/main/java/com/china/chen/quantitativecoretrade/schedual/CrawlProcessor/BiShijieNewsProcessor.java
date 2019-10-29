@@ -46,6 +46,7 @@ public class BiShijieNewsProcessor implements PageProcessor {
         Spider.create(new BiShijieNewsProcessor()).addUrl(CoreConstants.BI_SHI_JIE_URL).thread(1).run();
     }
 
+
     @Override
     public void process(Page page) {
 
