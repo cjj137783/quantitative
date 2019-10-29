@@ -66,10 +66,8 @@ public class BiShijieNewsProcessor implements PageProcessor {
 				String url = CoreConstants.BI_SHI_JIE_URL+node.xpath("//a/@href").get() ;
 				/**如果不是第一次启动爬取并且缓存中也没有该新闻*/
 				if(!isStartedFlag && noticeMap.get(notice) == null){
-					if(!importantFlag){
-						DingTalkUtils.sendMessage("【"+notice+"】" + url);
-					}else{
-						DingTalkUtils.sendMessage("【⭐️"+notice+"⭐️】" + url);
+					if(importantFlag){
+                        DingTalkUtils.sendMarkDown("新闻推送","【⭐️"+notice+"⭐️】" + url);
 					}
 				}
 				noticeMap.put(notice,url) ;
