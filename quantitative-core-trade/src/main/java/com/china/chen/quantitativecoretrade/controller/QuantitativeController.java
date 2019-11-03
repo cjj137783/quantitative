@@ -7,12 +7,14 @@ import com.china.chen.quantitativecoretrade.constants.StrategyTypeEnum;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.china.chen.quantitativecoretrade.init.RequestClientInit;
 import com.china.chen.quantitativecoretrade.init.SubscribeClientInit;
+import com.china.chen.quantitativecoretrade.response.common.MessageException;
 import com.china.chen.quantitativecoretrade.response.common.ResultBean;
 import com.china.chen.quantitativecoretrade.response.common.ResultCode;
 import com.china.chen.quantitativecoretrade.strategy.BaseStrategy;
 import com.china.chen.quantitativecoretrade.utils.ThreadPoolsUtils;
 import com.china.chen.quantitativecoretrade.listener.Trade;
 
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -49,15 +51,13 @@ public class QuantitativeController {
             , @RequestParam(value = "strategyParam") String strategyParam) {
 
         Map<String,Object> params = JSONObject.parseObject(strategyParam,Map.class);
+
+        /**参数校验*/
+        validParam(strategyName,secretSeed,tradePair) ;
         /**初始化运行上下文信息*/
         initContext(secretSeed) ;
 
-
-
         StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;
-        if(strategyTypeEnum == null){
-            return ResultBean.fail(ResultCode.NO_STRATEGY.getCode(),ResultCode.NO_STRATEGY.getMsg());
-        }
 
         ThreadPoolsUtils.STRATEGY_POOL.submit(() ->{
             try {
@@ -81,6 +81,22 @@ public class QuantitativeController {
         }) ;
 
         return ResultBean.success();
+    }
+
+    private void validParam(String strategyName, String secretSeed, String tradePair) {
+        StrategyTypeEnum strategyTypeEnum =  StrategyTypeEnum.getEnumBykey(strategyName) ;
+        if(strategyTypeEnum == null){
+            throw new MessageException(ResultCode.BAD_REQUEST.getCode(),"未找到对应的策略名称");
+        }
+
+        if(StringUtils.isEmpty(secretSeed)){
+            throw new MessageException(ResultCode.BAD_REQUEST.getCode(),"未传递秘钥seed");
+        }
+
+        TradePairEnum tradePairEnum =  TradePairEnum.getEnumBykey(tradePair) ;
+        if(tradePairEnum == null){
+            throw new MessageException(ResultCode.BAD_REQUEST.getCode(),"未找到对应的交易对信息");
+        }
     }
 
     private void initContext(String secretSeed) {

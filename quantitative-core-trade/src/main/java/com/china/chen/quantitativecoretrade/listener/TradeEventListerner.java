@@ -60,21 +60,9 @@ public class TradeEventListerner implements SubscriptionListener<TradeEvent> {
                 statisticsInfo.setSellSumQuantity(statisticsInfo.getSellSumQuantity().add(trade.getAmount()));
             }
 
-            tradeAlert(key,trade) ;
-
             list.addLast(trade);
 
         });
     }
 
-    private void tradeAlert(TradePairEnum key,Trade trade) {
-        /**如果出现单笔交易额大于10000usd的订单，则报警*/
-        BigDecimal usdtAmount = trade.getAmount().multiply(trade.getPrice()) ;
-        if(usdtAmount.compareTo(new BigDecimal(BIG_TRADE_AMOUNT)) > 0){
-            DingTalkUtils.sendMarkDown("大额交易"
-                    ,"交易对："+key
-                    ,"交易方向："+trade.getDirection().toString()
-                    ,"金额："+usdtAmount + " USDT");
-        }
-    }
 }
