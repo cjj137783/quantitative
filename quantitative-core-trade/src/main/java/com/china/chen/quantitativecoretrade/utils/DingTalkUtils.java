@@ -46,9 +46,11 @@ public class DingTalkUtils {
             markdown.setTitle(title);
 
             StringBuffer msg = new StringBuffer() ;
+            msg.append("## "+title+"\n\n") ;
             for(Object message : messages){
-                msg.append("####"+message+"####\n") ;
+                msg.append("> #### "+message+"\n") ;
             }
+            msg.append("![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1572966146&di=2fcfcf36388fe364fa5434d1e282e41f&imgtype=jpg&er=1&src=http%3A%2F%2Ftx.haiqq.com%2Fuploads%2Fallimg%2F170510%2F0416204158-7.jpg)") ;
             markdown.setText(msg.toString());
             request.setMarkdown(markdown);
             client.execute(request);

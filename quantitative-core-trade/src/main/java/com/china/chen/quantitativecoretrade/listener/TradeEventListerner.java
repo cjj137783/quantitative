@@ -21,7 +21,7 @@ public class TradeEventListerner implements SubscriptionListener<TradeEvent> {
     /**每个交易对的成交数量容量*/
     private static final Integer TRADE_CAPACITY = 100 ;
     /**大交易金额*/
-    private static final Integer BIG_TRADE_AMOUNT = 10000 ;
+    private static final Integer BIG_TRADE_AMOUNT = 100000 ;
 
     public static final Map<TradePairEnum,LinkedList<Trade>> TRADE_RECORD_CACHE = new HashMap() ;
 
