@@ -30,11 +30,15 @@ public class BalanceStrategy implements BaseStrategy{
 
     /****************************策略参数*************************/
     /**阀值*/
-    private static final String PARAM_THRESHOLD = "threshold" ;
+    public static final String PARAM_THRESHOLD = "threshold" ;
     /**最小交易金额*/
-    private static final String PARAM_MIN_BASE_AMOUNT = "minBaseAmount" ;
+    public static final String PARAM_MIN_BASE_AMOUNT = "minBaseAmount" ;
     /**最小交易币种数量*/
-    private static final String PARAM_MIN_TRADE_AMOUNT = "minTradeAmount" ;
+    public static final String PARAM_MIN_TRADE_AMOUNT = "minTradeAmount" ;
+    /**最小基础币种精度*/
+    public static final String PARAM_MIN_BASE_PRECISION = "minBasePrecision" ;
+    /**最小交易币种精度*/
+    public static final String PARAM_MIN_TRADE_PRECISION = "minTradePrecision" ;
 
 
     /**
@@ -60,6 +64,14 @@ public class BalanceStrategy implements BaseStrategy{
         BigDecimal MinStock = new BigDecimal(strategyParam.get(PARAM_MIN_TRADE_AMOUNT)+"") ;
         /**最小交易金额*/
         BigDecimal minAmount = new BigDecimal(strategyParam.get(PARAM_MIN_BASE_AMOUNT)+"") ;
+        /**基础币种精度*/
+        Integer baseCoinPrecision = strategyParam.get(PARAM_MIN_BASE_PRECISION) == null
+                ? CoreConstants.DEFAULT_BASE_COIN_PRECISION : Integer.parseInt(strategyParam.get(PARAM_MIN_BASE_PRECISION)+"") ;
+        /**交易币种精度*/
+        Integer tradeCoinPrecision = strategyParam.get(PARAM_MIN_TRADE_PRECISION) == null
+                ? CoreConstants.DEFAULT_TRADE_COIN_PRECISION : Integer.parseInt(strategyParam.get(PARAM_MIN_TRADE_PRECISION)+"") ;
+
+
 
         /*买卖超额*/
         BigDecimal spread = Ticker.sell(tradePair).subtract(Ticker.buy(tradePair)) ;
@@ -77,9 +89,9 @@ public class BalanceStrategy implements BaseStrategy{
         /*如果 ratio大于 0*/
         if (ratio.compareTo(BigDecimal.ZERO) > 0) {
             /*计算下单价格*/
-            BigDecimal buyPrice = Ticker.sell(tradePair).add(spread).setScale(CoreConstants.BASE_COIN_PRECISION,RoundingMode.DOWN);
+            BigDecimal buyPrice = Ticker.sell(tradePair).add(spread).setScale(baseCoinPrecision,RoundingMode.DOWN);
             /*计算下单量*/
-            BigDecimal buyAmount = diffAsset.divide(buyPrice,CoreConstants.QUOTE_COIN_PRECISION,RoundingMode.DOWN) ;
+            BigDecimal buyAmount = diffAsset.divide(buyPrice,tradeCoinPrecision,RoundingMode.DOWN) ;
             /*如果下单量小于最小交易量*/
             if (buyAmount.compareTo(MinStock) < 0 || diffAsset.compareTo(minAmount) < 0) {
                 return ;
@@ -92,9 +104,9 @@ public class BalanceStrategy implements BaseStrategy{
         } else {
             /*计算下单价格*/
             BigDecimal sellPrice = Ticker.buy(tradePair).subtract(spread)
-                    .setScale(CoreConstants.BASE_COIN_PRECISION,RoundingMode.DOWN);
+                    .setScale(baseCoinPrecision,RoundingMode.DOWN);
             /*计算下单量*/
-            BigDecimal sellAmount = diffAsset.negate().divide(sellPrice,CoreConstants.QUOTE_COIN_PRECISION,RoundingMode.DOWN);
+            BigDecimal sellAmount = diffAsset.negate().divide(sellPrice,tradeCoinPrecision,RoundingMode.DOWN);
 
             /*如果下单量小于最小交易量*/
             if (sellAmount.compareTo(MinStock) < 0  || diffAsset.negate().compareTo(minAmount) < 0) {
