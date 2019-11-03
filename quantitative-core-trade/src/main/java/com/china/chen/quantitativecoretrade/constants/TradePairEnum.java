@@ -13,7 +13,7 @@ public enum TradePairEnum {
     ETH_USDT("ethusdt", "eth","usdt"),
     XRP_USDT("xrpusdt", "xrp","usdt"),
     EOS_USDT("eosusdt", "eos","usdt"),
-    BCD_BTC("eosusdt", "eos","usdt"),
+    BCD_BTC("bcdbtc", "bcd","btc"),
 
     ;
 
