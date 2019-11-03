@@ -8,8 +8,8 @@ package com.china.chen.quantitativecoretrade.constants;
 * @version V1.0
 */
 public enum ApiKeyEnum {
-    API_KEY("778160d56298647127d8274eb2f72b44349182c2280c025ff53147a9c478c7f6b54c", "api key"),
-    SECRET_KEY("ba617d3918c30291053a6e1843b8e76e32075755d69d03f242f0c345c2ef0326", "secret key"),
+    API_KEY("1fb7acb2a0b7cc9601f77e37ffe7cfc186af2e23682b6592509974b47cbb0418b54b0c1458bd0f04", "api key"),
+    SECRET_KEY("9e40c171c09d71ebe2b9117c11bac0c792720b3eee31229827e8f729b24e68f9417bcd5d6dfba70b", "secret key"),
     IV("22910321", "加密向量"),
 
     ;
