@@ -2,6 +2,8 @@ package com.china.chen.quantitativecoretrade.schedual.CrawlProcessor;
 
 import com.china.chen.quantitativecoretrade.constants.CoreConstants;
 import com.china.chen.quantitativecoretrade.utils.DingTalkUtils;
+
+import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Component;
 
 import java.text.SimpleDateFormat;
@@ -50,27 +52,19 @@ public class BiShijieNewsProcessor implements PageProcessor {
     @Override
     public void process(Page page) {
 
-    	Date nowDate = new Date() ;
-		SimpleDateFormat sdf = new SimpleDateFormat("YYYY-MM-dd") ;
-		String nowDateStr = sdf.format(nowDate) ;
-
-		String newsDateClass = "live livetop " + nowDateStr ;
-
-		List<Selectable> nodes = page.getHtml().xpath("//section[@class=content]/div[@class=news]/div[@class=kuaixun_list]/div[@class='"+newsDateClass+"']/ul").nodes() ;
+		List<Selectable> nodes = page.getHtml().xpath("//div[@class=content-wrap]/ul/li").nodes() ;
 		if(nodes != null && nodes.size() > 0){
 			for(Selectable node : nodes){
-				Selectable liColorNode  = node.xpath("//li[@class='lh32 orange']") ;
-				Boolean importantFlag = liColorNode.all().get(0).contains("color:#ff0000") ;
-
-				String notice = node.xpath("//li/h2/a/text()").toString() ;
-				String url = CoreConstants.BI_SHI_JIE_URL+node.xpath("//a/@href").get() ;
+				String notice = node.xpath("//h3[@style=color:#FF6C47;]/text()").toString() ;
+				String url = CoreConstants.BI_SHI_JIE_ROOT_URL+node.xpath("//a/@href").get() ;
 				/**如果不是第一次启动爬取并且缓存中也没有该新闻*/
-				if(!isStartedFlag && noticeMap.get(notice) == null){
-					if(importantFlag){
-                        DingTalkUtils.sendMarkDown("新闻推送","【⭐️"+notice+"⭐️】" + url);
+				if(StringUtils.isNotEmpty(notice) && noticeMap.get(notice) == null){
+					if(!isStartedFlag){
+						DingTalkUtils.sendMarkDown("新闻推送","【⭐️"+notice+"⭐️】" + url);
 					}
+					noticeMap.put(notice,url) ;
 				}
-				noticeMap.put(notice,url) ;
+
 			}
 			isStartedFlag = false ;
 		}

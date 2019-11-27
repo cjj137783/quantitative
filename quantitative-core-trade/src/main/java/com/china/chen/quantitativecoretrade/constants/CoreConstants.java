@@ -12,6 +12,6 @@ public class CoreConstants {
     /**币世界爬虫初始地址*/
     public static final String BI_SHI_JIE_URL = "https://www.bishijie.com/kuaixun" ;
 
-    /**钉钉机器人关键字*/
-    public  static final String KEYWORD = "▶信息◀" ;
+    /**币世界跟目录*/
+    public static final String BI_SHI_JIE_ROOT_URL = "https://www.bishijie.com" ;
 }
