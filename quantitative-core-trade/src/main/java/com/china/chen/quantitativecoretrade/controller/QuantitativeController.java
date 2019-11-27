@@ -18,9 +18,11 @@ import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.math.BigDecimal;
 import java.util.Map;
 
 import lombok.extern.slf4j.Slf4j;
@@ -136,6 +138,51 @@ public class QuantitativeController {
             e.printStackTrace();
         } catch (InstantiationException e) {
             e.printStackTrace();
+        }
+
+
+        return ResultBean.success();
+    }
+
+
+
+    /**
+     * @Description: 循环下单，知道下单成功，在交易所出现问题的时候可以使用
+     * @param:   [strategyName]
+     * @return:  com.china.chen.quantitativecoretrade.response.common.ResultBean<java.lang.Boolean>
+     * @author chenjianjun
+     * @date 10/26/19 9:44 PM
+     * @version V1.0
+     */
+    @PostMapping("/loopTrade")
+    public ResultBean<Boolean> loopTrade(
+            @RequestParam(value = "secretSeed") String secretSeed
+            ,@RequestParam(value = "tradePair") String tradePair
+            ,@RequestParam(value = "direction") String direction
+            ,@RequestParam(value = "price") BigDecimal price
+            ,@RequestParam(value = "amount") BigDecimal amount) {
+        /**初始化运行上下文信息*/
+        initContext(secretSeed) ;
+        TradePairEnum tradePairEnum = TradePairEnum.getEnumBykey(tradePair) ;
+
+        while(true){
+
+            Long orderId = -1L ;
+
+            try {
+                if(StringUtils.equals(direction,"sell")){
+                    orderId = Trade.sell(tradePairEnum,price, amount);
+                }else if(StringUtils.equals(direction,"buy")){
+                    orderId = Trade.buy(tradePairEnum,price, amount);
+                }
+
+                if(orderId != -1){
+                    break ;
+                }
+               Thread.sleep(1000);
+            } catch (InterruptedException e) {
+               e.printStackTrace();
+            }
         }
 
 

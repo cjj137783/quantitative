@@ -1,10 +1,7 @@
 package com.china.chen.quantitativecoretrade.listener;
 
-import com.china.chen.quantitativecoretrade.constants.ApiKeyEnum;
 import com.china.chen.quantitativecoretrade.constants.TradePairEnum;
 import com.china.chen.quantitativecoretrade.init.RequestClientInit;
-import com.huobi.client.SyncRequestClient;
-import com.huobi.client.impl.SyncRequestImpl;
 import com.huobi.client.model.BatchCancelResult;
 import com.huobi.client.model.enums.AccountType;
 import com.huobi.client.model.enums.OrderType;
@@ -12,6 +9,7 @@ import com.huobi.client.model.request.CancelOpenOrderRequest;
 import com.huobi.client.model.request.NewOrderRequest;
 
 import java.math.BigDecimal;
+
 import lombok.extern.slf4j.Slf4j;
 
 /**
@@ -56,16 +54,28 @@ public class Trade {
     }
 
 
-    public static void buy(TradePairEnum tradePair,BigDecimal price,BigDecimal amount){
-        NewOrderRequest request = new NewOrderRequest(
-                tradePair.getKey(), AccountType.SPOT, OrderType.BUY_LIMIT, amount, price);
-        RequestClientInit.getClient().createOrder(request);
+    public static Long buy(TradePairEnum tradePair,BigDecimal price,BigDecimal amount){
+        try{
+            NewOrderRequest request = new NewOrderRequest(
+                    tradePair.getKey(), AccountType.SPOT, OrderType.BUY_LIMIT, amount, price);
+            return RequestClientInit.getClient().createOrder(request);
+        }catch (Exception e){
+            log.error("", e.toString());
+        }
+
+        return -1L ;
     }
 
 
-    public static void sell(TradePairEnum tradePair,BigDecimal price,BigDecimal amount){
-        NewOrderRequest request = new NewOrderRequest(
-                tradePair.getKey(), AccountType.SPOT, OrderType.SELL_LIMIT, amount, price);
-        RequestClientInit.getClient().createOrder(request);
+    public static Long sell(TradePairEnum tradePair,BigDecimal price,BigDecimal amount){
+        try{
+            NewOrderRequest request = new NewOrderRequest(
+                    tradePair.getKey(), AccountType.SPOT, OrderType.SELL_LIMIT, amount, price);
+            return RequestClientInit.getClient().createOrder(request);
+        }catch (Exception e){
+            log.error("", e.toString());
+        }
+
+        return -1L ;
     }
 }
