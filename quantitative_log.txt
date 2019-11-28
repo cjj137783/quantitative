@@ -2705,3 +2705,397 @@ java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
 [Sub][4] Connection is closing due to error
 [Sub][11] Unexpected error: timeout
 [Sub][11] Connection is closing due to error
+[Sub][4] Unexpected error: connect timed out
+[Sub][22] Unexpected error: connect timed out
+[Sub][19] Unexpected error: connect timed out
+[Sub][13] Unexpected error: connect timed out
+[Sub][23] Unexpected error: connect timed out
+[Sub][27] Unexpected error: connect timed out
+[Sub][36] Unexpected error: connect timed out
+[Sub][32] Unexpected error: connect timed out
+[Sub][26] Unexpected error: connect timed out
+[Sub][11] Unexpected error: connect timed out
+[Sub][38] Unexpected error: connect timed out
+[Sub][41] Unexpected error: connect timed out
+[Sub][22] Connection is closing due to error
+[Sub][39] Unexpected error: connect timed out
+[Sub][32] Connection is closing due to error
+[Sub][16] Unexpected error: connect timed out
+[Sub][44] Unexpected error: connect timed out
+[Sub][8] Unexpected error: connect timed out
+[Sub][44] Connection is closing due to error
+[Sub][16] Connection is closing due to error
+[Sub][63] Unexpected error: connect timed out
+[Sub][45] Unexpected error: connect timed out
+[Sub][63] Connection is closing due to error
+[Sub][0] Unexpected error: connect timed out
+[Sub][17] Unexpected error: connect timed out
+[Sub][12] Unexpected error: connect timed out
+[Sub][17] Connection is closing due to error
+[Sub][40] Unexpected error: connect timed out
+[Sub][12] Connection is closing due to error
+[Sub][29] Unexpected error: connect timed out
+[Sub][43] Unexpected error: connect timed out
+[Sub][40] Connection is closing due to error
+[Sub][61] Unexpected error: connect timed out
+[Sub][43] Connection is closing due to error
+[Sub][25] Unexpected error: connect timed out
+[Sub][31] Unexpected error: connect timed out
+[Sub][6] Unexpected error: connect timed out
+[Sub][21] Unexpected error: connect timed out
+[Sub][20] Unexpected error: connect timed out
+[Sub][6] Connection is closing due to error
+[Sub][30] Unexpected error: connect timed out
+[Sub][31] Connection is closing due to error
+[Sub][25] Connection is closing due to error
+[Sub][60] Unexpected error: connect timed out
+[Sub][28] Unexpected error: connect timed out
+[Sub][30] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][35] Unexpected error: connect timed out
+[Sub][37] Unexpected error: connect timed out
+[Sub][1] Unexpected error: connect timed out
+[Sub][28] Connection is closing due to error
+[Sub][18] Unexpected error: connect timed out
+[Sub][59] Unexpected error: connect timed out
+[Sub][34] Unexpected error: connect timed out
+[Sub][20] Connection is closing due to error
+[Sub][15] Unexpected error: connect timed out
+[Sub][59] Connection is closing due to error
+[Sub][3] Unexpected error: connect timed out
+[Sub][15] Connection is closing due to error
+[Sub][9] Unexpected error: connect timed out
+[Sub][7] Unexpected error: connect timed out
+[Sub][33] Unexpected error: connect timed out
+[Sub][24] Unexpected error: connect timed out
+[Sub][42] Unexpected error: connect timed out
+[Sub][54] Unexpected error: connect timed out
+[Sub][4] Connection is closing due to error
+[Sub][13] Connection is closing due to error
+[Sub][9] Connection is closing due to error
+[Sub][23] Connection is closing due to error
+[Sub][10] Unexpected error: connect timed out
+[Sub][36] Connection is closing due to error
+[Sub][2] Unexpected error: connect timed out
+[Sub][19] Connection is closing due to error
+[Sub][10] Connection is closing due to error
+[Sub][26] Connection is closing due to error
+[Sub][5] Unexpected error: connect timed out
+[Sub][38] Connection is closing due to error
+[Sub][14] Unexpected error: connect timed out
+[Sub][34] Connection is closing due to error
+[Sub][27] Connection is closing due to error
+[Sub][41] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][39] Connection is closing due to error
+[Sub][52] Unexpected error: connect timed out
+[Sub][45] Connection is closing due to error
+[Sub][55] Unexpected error: connect timed out
+[Sub][57] Unexpected error: connect timed out
+[Sub][1] Connection is closing due to error
+[Sub][8] Connection is closing due to error
+[Sub][46] Unexpected error: connect timed out
+[Sub][0] Connection is closing due to error
+[Sub][29] Connection is closing due to error
+[Sub][61] Connection is closing due to error
+[Sub][35] Connection is closing due to error
+[Sub][3] Connection is closing due to error
+[Sub][21] Connection is closing due to error
+[Sub][24] Connection is closing due to error
+[Sub][5] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][18] Connection is closing due to error
+[Sub][56] Unexpected error: connect timed out
+[Sub][52] Connection is closing due to error
+[Sub][53] Unexpected error: connect timed out
+[Sub][37] Connection is closing due to error
+[Sub][55] Connection is closing due to error
+[Sub][53] Connection is closing due to error
+[Sub][57] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][2] Connection is closing due to error
+[Sub][54] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][46] Connection is closing due to error
+[Sub][62] Unexpected error: connect timed out
+[Sub][50] Unexpected error: connect timed out
+[Sub][51] Unexpected error: connect timed out
+[Sub][50] Connection is closing due to error
+[Sub][49] Unexpected error: connect timed out
+[Sub][48] Unexpected error: connect timed out
+[Sub][62] Connection is closing due to error
+[Sub][48] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][49] Connection is closing due to error
+[Sub][58] Unexpected error: connect timed out
+[Sub][58] Connection is closing due to error
+[Sub][47] Unexpected error: connect timed out
+[Sub][47] Connection is closing due to error
+[Sub][52] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][52] Connection is closing due to error
+[Sub][46] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][46] Connection is closing due to error
+[Sub][40] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][40] Connection is closing due to error
+[Sub][0] Unexpected error: Broken pipe (Write failed)
+[Sub][0] Connection is closing due to error
+[Sub][38] Unexpected error: Broken pipe (Write failed)
+[Sub][7] Unexpected error: Broken pipe (Write failed)
+[Sub][38] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][26] Unexpected error: Connection reset
+[Sub][26] Connection is closing due to error
+[Sub][47] Unexpected error: Broken pipe (Write failed)
+[Sub][47] Connection is closing due to error
+[Sub][17] Unexpected error: Broken pipe (Write failed)
+[Sub][44] Unexpected error: Broken pipe (Write failed)
+[Sub][62] Unexpected error: Broken pipe (Write failed)
+[Sub][17] Connection is closing due to error
+[Sub][19] Unexpected error: Broken pipe (Write failed)
+[Sub][19] Connection is closing due to error
+[Sub][62] Connection is closing due to error
+[Sub][30] Unexpected error: Connection reset
+[Sub][30] Connection is closing due to error
+[Sub][27] Unexpected error: Connection reset
+[Sub][27] Connection is closing due to error
+[Sub][15] Unexpected error: Connection reset
+[Sub][15] Connection is closing due to error
+[Sub][32] Unexpected error: Connection reset
+[Sub][11] Unexpected error: Broken pipe (Write failed)
+[Sub][54] Unexpected error: Broken pipe (Write failed)
+[Sub][32] Connection is closing due to error
+[Sub][54] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][14] Unexpected error: Broken pipe (Write failed)
+[Sub][64] Unexpected error: Broken pipe (Write failed)
+[Sub][14] Connection is closing due to error
+[Sub][65] Unexpected error: Broken pipe (Write failed)
+[Sub][44] Connection is closing due to error
+[Sub][64] Connection is closing due to error
+[Sub][2] Unexpected error: Broken pipe (Write failed)
+[Sub][61] Unexpected error: Connection reset
+[Sub][61] Connection is closing due to error
+[Sub][58] Unexpected error: Connection reset
+[Sub][57] Unexpected error: Connection reset
+[Sub][57] Connection is closing due to error
+[Sub][58] Connection is closing due to error
+[Sub][55] Unexpected error: Connection reset
+[Sub][65] Connection is closing due to error
+[Sub][55] Connection is closing due to error
+[Sub][49] Unexpected error: Connection reset
+[Sub][48] Unexpected error: Connection reset
+[Sub][42] Unexpected error: Connection reset
+[Sub][48] Connection is closing due to error
+[Sub][29] Unexpected error: Connection reset
+[Sub][25] Unexpected error: Connection reset
+[Sub][23] Unexpected error: Connection reset
+[Sub][29] Connection is closing due to error
+[Sub][22] Unexpected error: Connection reset
+[Sub][18] Unexpected error: Connection reset
+[Sub][13] Unexpected error: Connection reset
+[Sub][18] Connection is closing due to error
+[Sub][23] Connection is closing due to error
+[Sub][13] Connection is closing due to error
+[Sub][9] Unexpected error: Connection reset
+[Sub][8] Unexpected error: Connection reset
+[Sub][5] Unexpected error: Connection reset
+[Sub][6] Unexpected error: Connection reset
+[Sub][9] Connection is closing due to error
+[Sub][8] Connection is closing due to error
+[Sub][5] Connection is closing due to error
+[Sub][3] Unexpected error: Connection reset
+[Sub][4] Unexpected error: Connection reset
+[Sub][3] Connection is closing due to error
+[Sub][1] Unexpected error: Connection reset
+[Sub][1] Connection is closing due to error
+[Sub][63] Unexpected error: Connection reset
+[Sub][4] Connection is closing due to error
+[Sub][43] Unexpected error: Connection reset
+[Sub][51] Unexpected error: Broken pipe (Write failed)
+[Sub][59] Unexpected error: Broken pipe (Write failed)
+[Sub][43] Connection is closing due to error
+[Sub][59] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][41] Unexpected error: unexpected end of stream on https://api.huobi.pro/...
+[Sub][41] Connection is closing due to error
+[Sub][36] Unexpected error: Connection reset
+[Sub][31] Unexpected error: Connection reset
+[Sub][33] Unexpected error: Connection reset
+[Sub][33] Connection is closing due to error
+[Sub][31] Connection is closing due to error
+[Sub][39] Unexpected error: unexpected end of stream on https://api.huobi.pro/...
+[Sub][36] Connection is closing due to error
+[Sub][21] Unexpected error: Broken pipe (Write failed)
+[Sub][39] Connection is closing due to error
+[Sub][21] Connection is closing due to error
+[Sub][2] Connection is closing due to error
+[Sub][49] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][22] Connection is closing due to error
+[Sub][25] Connection is closing due to error
+[Sub][6] Connection is closing due to error
+[Sub][63] Connection is closing due to error
+[Sub][10] Unexpected error: Broken pipe (Write failed)
+[Sub][10] Connection is closing due to error
+[Sub][35] Unexpected error: Broken pipe (Write failed)
+[Sub][56] Unexpected error: Broken pipe (Write failed)
+[Sub][35] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][34] Unexpected error: Broken pipe (Write failed)
+[Sub][34] Connection is closing due to error
+[Sub][28] Unexpected error: Broken pipe (Write failed)
+[Sub][28] Connection is closing due to error
+[Sub][45] Unexpected error: Broken pipe (Write failed)
+[Sub][45] Connection is closing due to error
+[Sub][50] Unexpected error: Broken pipe (Write failed)
+[Sub][53] Unexpected error: Broken pipe (Write failed)
+[Sub][50] Connection is closing due to error
+[Sub][60] Unexpected error: Broken pipe (Write failed)
+[Sub][53] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][37] Unexpected error: Broken pipe (Write failed)
+[Sub][37] Connection is closing due to error
+[Sub][24] Unexpected error: Broken pipe (Write failed)
+[Sub][24] Connection is closing due to error
+[Sub][16] Unexpected error: Broken pipe (Write failed)
+[Sub][16] Connection is closing due to error
+[Sub][12] Unexpected error: Broken pipe (Write failed)
+[Sub][12] Connection is closing due to error
+[Sub][20] Unexpected error: Broken pipe (Write failed)
+[Sub][20] Connection is closing due to error
+[Sub][26] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][26] Connection is closing due to error
+[Sub][46] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][44] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][40] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][46] Connection is closing due to error
+[Sub][32] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][32] Connection is closing due to error
+[Sub][29] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][24] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][17] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][17] Connection is closing due to error
+[Sub][44] Connection is closing due to error
+[Sub][40] Connection is closing due to error
+[Sub][29] Connection is closing due to error
+[Sub][24] Connection is closing due to error
+[Sub][2] Unexpected error: Expected HTTP 101 response but was '429 Too Many Requests'
+[Sub][2] Connection is closing due to error
+[Sub][8] Unexpected error: Broken pipe (Write failed)
+[Sub][53] Unexpected error: Broken pipe (Write failed)
+[Sub][22] Unexpected error: Broken pipe (Write failed)
+[Sub][59] Unexpected error: Broken pipe (Write failed)
+[Sub][5] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][45] Unexpected error: Broken pipe (Write failed)
+[Sub][9] Unexpected error: Broken pipe (Write failed)
+[Sub][53] Connection is closing due to error
+[Sub][34] Unexpected error: Broken pipe (Write failed)
+[Sub][28] Unexpected error: Data received in non-data state: 6
+[Sub][62] Unexpected error: Broken pipe (Write failed)
+[Sub][38] Unexpected error: Broken pipe (Write failed)
+[Sub][27] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][14] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][51] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][11] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][8] Connection is closing due to error
+[Sub][4] Unexpected error: Socket closed
+[Sub][20] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][0] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][12] Unexpected error: timeout
+[Sub][13] Unexpected error: Data received in non-data state: 6
+[Sub][39] Unexpected error: Socket closed
+[Sub][16] Unexpected error: Connection has been shutdown: javax.net.ssl.SSLException: java.net.SocketException: Broken pipe (Write failed)
+[Sub][50] Unexpected error: Broken pipe (Write failed)
+[Sub][37] Unexpected error: Broken pipe (Write failed)
+[Sub][41] Unexpected error: Broken pipe (Write failed)
+[Sub][54] Unexpected error: Broken pipe (Write failed)
+[Sub][23] Unexpected error: Broken pipe (Write failed)
+[Sub][31] Unexpected error: Broken pipe (Write failed)
+[Sub][48] Unexpected error: Broken pipe (Write failed)
+[Sub][36] Unexpected error: Broken pipe (Write failed)
+[Sub][33] Unexpected error: Broken pipe (Write failed)
+[Sub][43] Unexpected error: Broken pipe (Write failed)
+[Sub][21] Unexpected error: Broken pipe (Write failed)
+[Sub][35] Unexpected error: Broken pipe (Write failed)
+[Sub][25] Unexpected error: Broken pipe (Write failed)
+[Sub][7] Unexpected error: Broken pipe (Write failed)
+[Sub][13] Connection is closing due to error
+[Sub][55] Unexpected error: Broken pipe (Write failed)
+[Sub][55] Connection is closing due to error
+[Sub][15] Unexpected error: Broken pipe (Write failed)
+[Sub][15] Connection is closing due to error
+[Sub][12] Connection is closing due to error
+[Sub][0] Connection is closing due to error
+[Sub][19] Unexpected error: Broken pipe (Write failed)
+[Sub][56] Unexpected error: Broken pipe (Write failed)
+[Sub][19] Connection is closing due to error
+[Sub][1] Unexpected error: Broken pipe (Write failed)
+[Sub][1] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][3] Unexpected error: Broken pipe (Write failed)
+[Sub][3] Connection is closing due to error
+[Sub][63] Unexpected error: Broken pipe (Write failed)
+[Sub][36] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][21] Connection is closing due to error
+[Sub][25] Connection is closing due to error
+[Sub][63] Connection is closing due to error
+[Sub][6] Unexpected error: Broken pipe (Write failed)
+[Sub][61] Unexpected error: Broken pipe (Write failed)
+[Sub][20] Connection is closing due to error
+[Sub][60] Unexpected error: Broken pipe (Write failed)
+[Sub][64] Unexpected error: Broken pipe (Write failed)
+[Sub][39] Connection is closing due to error
+[Sub][57] Unexpected error: Broken pipe (Write failed)
+[Sub][16] Connection is closing due to error
+[Sub][43] Connection is closing due to error
+[Sub][42] Unexpected error: Broken pipe (Write failed)
+[Sub][47] Unexpected error: Broken pipe (Write failed)
+[Sub][39] Unexpected error: Canceled
+[Sub][58] Unexpected error: Broken pipe (Write failed)
+[Sub][50] Connection is closing due to error
+[Sub][30] Unexpected error: Broken pipe (Write failed)
+[Sub][58] Connection is closing due to error
+[Sub][30] Connection is closing due to error
+[Sub][52] Unexpected error: Broken pipe (Write failed)
+[Sub][48] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][49] Unexpected error: Broken pipe (Write failed)
+[Sub][31] Connection is closing due to error
+[Sub][18] Unexpected error: Broken pipe (Write failed)
+[Sub][35] Connection is closing due to error
+[Sub][23] Connection is closing due to error
+[Sub][57] Connection is closing due to error
+[Sub][54] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][34] Connection is closing due to error
+[Sub][41] Connection is closing due to error
+[Sub][47] Connection is closing due to error
+[Sub][28] Connection is closing due to error
+[Sub][39] Connection is closing due to error
+[Sub][9] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][52] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][49] Connection is closing due to error
+[Sub][27] Connection is closing due to error
+[Sub][18] Connection is closing due to error
+[Sub][38] Connection is closing due to error
+[Sub][37] Connection is closing due to error
+[Sub][62] Connection is closing due to error
+[Sub][4] Unexpected error: Canceled
+[Sub][45] Connection is closing due to error
+[Sub][5] Connection is closing due to error
+[Sub][59] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][22] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][64] Connection is closing due to error
+[Sub][61] Connection is closing due to error
+[Sub][6] Connection is closing due to error
+[Sub][10] Unexpected error: Broken pipe (Write failed)
+[Sub][10] Connection is closing due to error
