@@ -60,7 +60,7 @@ public class BiShijieNewsProcessor implements PageProcessor {
 				/**如果不是第一次启动爬取并且缓存中也没有该新闻*/
 				if(StringUtils.isNotEmpty(notice) && noticeMap.get(notice) == null){
 					if(!isStartedFlag){
-						DingTalkUtils.sendMarkDown("新闻推送","【⭐️"+notice+"⭐️】" + url);
+						DingTalkUtils.sendMarkDown("新闻推送","【"+notice+"】" + url);
 					}
 					noticeMap.put(notice,url) ;
 				}
