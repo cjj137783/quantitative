@@ -1,0 +1,984 @@
+[Sub][54] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][57] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][16] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][51] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][26] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][60] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][29] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][61] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][1] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][5] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][9] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][54] Connection is closing due to error
+[Sub][16] Connection is closing due to error
+[Sub][39] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][43] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][33] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][21] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][58] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][38] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][13] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][62] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][42] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][21] Connection is closing due to error
+[Sub][28] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][52] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][28] Connection is closing due to error
+[Sub][59] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][17] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][1] Connection is closing due to error
+[Sub][32] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][27] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][22] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][32] Connection is closing due to error
+[Sub][56] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][10] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][24] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][56] Connection is closing due to error
+[Sub][10] Connection is closing due to error
+[Sub][6] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][23] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][24] Connection is closing due to error
+[Sub][44] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][53] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][41] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][44] Connection is closing due to error
+[Sub][20] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][41] Connection is closing due to error
+[Sub][36] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][50] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][15] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][49] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][50] Connection is closing due to error
+[Sub][47] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][19] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][7] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][47] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][40] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][14] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][48] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][55] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][60] Connection is closing due to error
+[Sub][57] Connection is closing due to error
+[Sub][5] Connection is closing due to error
+[Sub][9] Connection is closing due to error
+[Sub][61] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][12] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][29] Connection is closing due to error
+[Sub][30] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][37] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][12] Connection is closing due to error
+[Sub][37] Connection is closing due to error
+[Sub][26] Connection is closing due to error
+[Sub][30] Connection is closing due to error
+[Sub][35] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][35] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][3] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][33] Connection is closing due to error
+[Sub][58] Connection is closing due to error
+[Sub][18] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][2] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][0] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][34] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][62] Connection is closing due to error
+[Sub][34] Connection is closing due to error
+[Sub][46] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][43] Connection is closing due to error
+[Sub][11] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][39] Connection is closing due to error
+[Sub][31] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][45] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][4] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][59] Connection is closing due to error
+[Sub][45] Connection is closing due to error
+[Sub][55] Connection is closing due to error
+[Sub][27] Connection is closing due to error
+[Sub][63] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][22] Connection is closing due to error
+[Sub][25] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][8] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][6] Connection is closing due to error
+[Sub][63] Connection is closing due to error
+[Sub][20] Connection is closing due to error
+[Sub][25] Connection is closing due to error
+[Sub][52] Connection is closing due to error
+[Sub][38] Connection is closing due to error
+[Sub][49] Connection is closing due to error
+[Sub][48] Connection is closing due to error
+[Sub][13] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][40] Connection is closing due to error
+[Sub][19] Connection is closing due to error
+[Sub][15] Connection is closing due to error
+[Sub][36] Connection is closing due to error
+[Sub][53] Connection is closing due to error
+[Sub][23] Connection is closing due to error
+[Sub][17] Connection is closing due to error
+[Sub][8] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][31] Connection is closing due to error
+[Sub][46] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][0] Connection is closing due to error
+[Sub][2] Connection is closing due to error
+[Sub][18] Connection is closing due to error
+[Sub][3] Connection is closing due to error
+[Sub][64] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][65] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][65] Connection is closing due to error
+[Sub][64] Connection is closing due to error
+[Sub][16] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][56] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][40] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][58] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][27] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][31] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][27] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][31] Connection is closing due to error
+[Sub][34] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][50] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][16] Connection is closing due to error
+[Sub][20] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][26] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][26] Connection is closing due to error
+[Sub][53] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][53] Connection is closing due to error
+[Sub][9] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][9] Connection is closing due to error
+[Sub][58] Connection is closing due to error
+[Sub][50] Connection is closing due to error
+[Sub][62] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][43] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][62] Connection is closing due to error
+[Sub][43] Connection is closing due to error
+[Sub][6] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][6] Connection is closing due to error
+[Sub][36] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][59] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][63] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][57] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][24] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][57] Connection is closing due to error
+[Sub][24] Connection is closing due to error
+[Sub][19] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][19] Connection is closing due to error
+[Sub][61] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][55] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][40] Connection is closing due to error
+[Sub][37] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][63] Connection is closing due to error
+[Sub][55] Connection is closing due to error
+[Sub][5] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][54] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][7] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][34] Connection is closing due to error
+[Sub][35] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][7] Connection is closing due to error
+[Sub][51] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][28] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][4] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][25] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][49] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][38] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][48] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][42] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][10] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][23] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][49] Connection is closing due to error
+[Sub][38] Connection is closing due to error
+[Sub][41] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][17] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][41] Connection is closing due to error
+[Sub][18] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][0] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][0] Connection is closing due to error
+[Sub][17] Connection is closing due to error
+[Sub][36] Connection is closing due to error
+[Sub][47] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][2] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][60] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][33] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][22] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][30] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][59] Connection is closing due to error
+[Sub][2] Connection is closing due to error
+[Sub][8] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][22] Connection is closing due to error
+[Sub][52] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][61] Connection is closing due to error
+[Sub][3] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][39] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][14] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][29] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][45] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][48] Connection is closing due to error
+[Sub][20] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][54] Connection is closing due to error
+[Sub][5] Connection is closing due to error
+[Sub][35] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][28] Connection is closing due to error
+[Sub][32] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][15] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][25] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][37] Connection is closing due to error
+[Sub][44] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][10] Connection is closing due to error
+[Sub][13] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][42] Connection is closing due to error
+[Sub][46] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][21] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][1] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][23] Connection is closing due to error
+[Sub][30] Connection is closing due to error
+[Sub][11] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][32] Connection is closing due to error
+[Sub][13] Connection is closing due to error
+[Sub][45] Connection is closing due to error
+[Sub][1] Connection is closing due to error
+[Sub][29] Connection is closing due to error
+[Sub][3] Connection is closing due to error
+[Sub][39] Connection is closing due to error
+[Sub][12] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][52] Connection is closing due to error
+[Sub][8] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][47] Connection is closing due to error
+[Sub][18] Connection is closing due to error
+[Sub][12] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][21] Connection is closing due to error
+[Sub][46] Connection is closing due to error
+[Sub][44] Connection is closing due to error
+[Sub][15] Connection is closing due to error
+[Sub][65] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][65] Connection is closing due to error
+[Sub][64] Unexpected error: Failed to connect to api.huobi.pro/2400:cb00:2048:1:0:0:6814:224e:443
+[Sub][64] Connection is closing due to error
+[Sub][12] Unexpected error: connect timed out
+[Sub][25] Unexpected error: connect timed out
+[Sub][51] Unexpected error: connect timed out
+[Sub][23] Unexpected error: connect timed out
+[Sub][52] Unexpected error: connect timed out
+[Sub][29] Unexpected error: connect timed out
+[Sub][26] Unexpected error: connect timed out
+[Sub][14] Unexpected error: connect timed out
+[Sub][24] Unexpected error: connect timed out
+[Sub][29] Connection is closing due to error
+[Sub][11] Unexpected error: connect timed out
+[Sub][26] Connection is closing due to error
+[Sub][50] Unexpected error: connect timed out
+[Sub][28] Unexpected error: connect timed out
+[Sub][22] Unexpected error: connect timed out
+[Sub][50] Connection is closing due to error
+[Sub][17] Unexpected error: connect timed out
+[Sub][49] Unexpected error: connect timed out
+[Sub][13] Unexpected error: connect timed out
+[Sub][18] Unexpected error: connect timed out
+[Sub][48] Unexpected error: connect timed out
+[Sub][19] Unexpected error: connect timed out
+[Sub][30] Unexpected error: connect timed out
+[Sub][18] Connection is closing due to error
+[Sub][53] Unexpected error: connect timed out
+[Sub][54] Unexpected error: connect timed out
+[Sub][35] Unexpected error: connect timed out
+[Sub][13] Connection is closing due to error
+[Sub][15] Unexpected error: connect timed out
+[Sub][54] Connection is closing due to error
+[Sub][15] Connection is closing due to error
+[Sub][27] Unexpected error: connect timed out
+[Sub][44] Unexpected error: connect timed out
+[Sub][31] Unexpected error: connect timed out
+[Sub][58] Unexpected error: connect timed out
+[Sub][21] Unexpected error: connect timed out
+[Sub][31] Connection is closing due to error
+[Sub][16] Unexpected error: connect timed out
+[Sub][58] Connection is closing due to error
+[Sub][21] Connection is closing due to error
+[Sub][20] Unexpected error: connect timed out
+[Sub][16] Connection is closing due to error
+[Sub][61] Unexpected error: connect timed out
+[Sub][12] Connection is closing due to error
+[Sub][20] Connection is closing due to error
+[Sub][51] Connection is closing due to error
+[Sub][23] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][24] Connection is closing due to error
+[Sub][11] Connection is closing due to error
+[Sub][28] Connection is closing due to error
+[Sub][61] Connection is closing due to error
+[Sub][22] Connection is closing due to error
+[Sub][25] Connection is closing due to error
+[Sub][49] Connection is closing due to error
+[Sub][52] Connection is closing due to error
+[Sub][19] Connection is closing due to error
+[Sub][48] Connection is closing due to error
+[Sub][47] Unexpected error: connect timed out
+[Sub][17] Connection is closing due to error
+[Sub][46] Unexpected error: connect timed out
+[Sub][53] Connection is closing due to error
+[Sub][47] Connection is closing due to error
+[Sub][43] Unexpected error: connect timed out
+[Sub][27] Connection is closing due to error
+[Sub][46] Connection is closing due to error
+[Sub][45] Unexpected error: connect timed out
+[Sub][30] Connection is closing due to error
+[Sub][44] Connection is closing due to error
+[Sub][36] Unexpected error: connect timed out
+[Sub][35] Connection is closing due to error
+[Sub][43] Connection is closing due to error
+[Sub][45] Connection is closing due to error
+[Sub][36] Connection is closing due to error
+[Sub][39] Unexpected error: connect timed out
+[Sub][38] Unexpected error: connect timed out
+[Sub][42] Unexpected error: connect timed out
+[Sub][37] Unexpected error: connect timed out
+[Sub][63] Unexpected error: connect timed out
+[Sub][39] Connection is closing due to error
+[Sub][37] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][38] Connection is closing due to error
+[Sub][63] Connection is closing due to error
+[Sub][32] Unexpected error: connect timed out
+[Sub][34] Unexpected error: connect timed out
+[Sub][41] Unexpected error: connect timed out
+[Sub][33] Unexpected error: connect timed out
+[Sub][32] Connection is closing due to error
+[Sub][34] Connection is closing due to error
+[Sub][41] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][40] Unexpected error: connect timed out
+[Sub][55] Unexpected error: connect timed out
+[Sub][40] Connection is closing due to error
+[Sub][55] Connection is closing due to error
+[Sub][10] Unexpected error: connect timed out
+[Sub][7] Unexpected error: connect timed out
+[Sub][62] Unexpected error: connect timed out
+[Sub][8] Unexpected error: connect timed out
+[Sub][9] Unexpected error: connect timed out
+[Sub][8] Connection is closing due to error
+[Sub][10] Connection is closing due to error
+[Sub][9] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][62] Connection is closing due to error
+[Sub][6] Unexpected error: connect timed out
+[Sub][6] Connection is closing due to error
+[Sub][5] Unexpected error: connect timed out
+[Sub][5] Connection is closing due to error
+[Sub][2] Unexpected error: connect timed out
+[Sub][57] Unexpected error: connect timed out
+[Sub][4] Unexpected error: connect timed out
+[Sub][3] Unexpected error: connect timed out
+[Sub][1] Unexpected error: connect timed out
+[Sub][2] Connection is closing due to error
+[Sub][1] Connection is closing due to error
+[Sub][57] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][3] Connection is closing due to error
+[Sub][0] Unexpected error: connect timed out
+[Sub][56] Unexpected error: connect timed out
+[Sub][59] Unexpected error: connect timed out
+[Sub][60] Unexpected error: connect timed out
+[Sub][0] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][59] Connection is closing due to error
+[Sub][65] Unexpected error: connect timed out
+[Sub][64] Unexpected error: connect timed out
+[Sub][64] Connection is closing due to error
+[Sub][65] Connection is closing due to error
+[Sub][48] Unexpected error: connect timed out
+[Sub][47] Unexpected error: connect timed out
+[Sub][41] Unexpected error: connect timed out
+[Sub][42] Unexpected error: connect timed out
+[Sub][33] Unexpected error: connect timed out
+[Sub][40] Unexpected error: connect timed out
+[Sub][43] Unexpected error: connect timed out
+[Sub][48] Connection is closing due to error
+[Sub][47] Connection is closing due to error
+[Sub][43] Connection is closing due to error
+[Sub][42] Connection is closing due to error
+[Sub][40] Connection is closing due to error
+[Sub][41] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][37] Unexpected error: connect timed out
+[Sub][37] Connection is closing due to error
+[Sub][38] Unexpected error: connect timed out
+[Sub][38] Connection is closing due to error
+[Sub][36] Unexpected error: connect timed out
+[Sub][36] Connection is closing due to error
+[Sub][32] Unexpected error: connect timed out
+[Sub][32] Connection is closing due to error
+[Sub][31] Unexpected error: connect timed out
+[Sub][31] Connection is closing due to error
+[Sub][44] Unexpected error: connect timed out
+[Sub][44] Connection is closing due to error
+[Sub][30] Unexpected error: connect timed out
+[Sub][30] Connection is closing due to error
+[Sub][26] Unexpected error: connect timed out
+[Sub][26] Connection is closing due to error
+[Sub][23] Unexpected error: connect timed out
+[Sub][23] Connection is closing due to error
+[Sub][28] Unexpected error: connect timed out
+[Sub][28] Connection is closing due to error
+[Sub][29] Unexpected error: connect timed out
+[Sub][29] Connection is closing due to error
+[Sub][45] Unexpected error: connect timed out
+[Sub][45] Connection is closing due to error
+[Sub][27] Unexpected error: connect timed out
+[Sub][27] Connection is closing due to error
+[Sub][25] Unexpected error: connect timed out
+[Sub][25] Connection is closing due to error
+[Sub][24] Unexpected error: connect timed out
+[Sub][24] Connection is closing due to error
+[Sub][22] Unexpected error: connect timed out
+[Sub][22] Connection is closing due to error
+[Sub][39] Unexpected error: connect timed out
+[Sub][39] Connection is closing due to error
+[Sub][20] Unexpected error: connect timed out
+[Sub][20] Connection is closing due to error
+[Sub][21] Unexpected error: connect timed out
+[Sub][21] Connection is closing due to error
+[Sub][19] Unexpected error: connect timed out
+[Sub][19] Connection is closing due to error
+[Sub][46] Unexpected error: connect timed out
+[Sub][46] Connection is closing due to error
+[Sub][17] Unexpected error: connect timed out
+[Sub][17] Connection is closing due to error
+[Sub][16] Unexpected error: connect timed out
+[Sub][16] Connection is closing due to error
+[Sub][18] Unexpected error: connect timed out
+[Sub][18] Connection is closing due to error
+[Sub][34] Unexpected error: connect timed out
+[Sub][34] Connection is closing due to error
+[Sub][15] Unexpected error: connect timed out
+[Sub][15] Connection is closing due to error
+[Sub][14] Unexpected error: connect timed out
+[Sub][14] Connection is closing due to error
+[Sub][11] Unexpected error: connect timed out
+[Sub][11] Connection is closing due to error
+[Sub][13] Unexpected error: connect timed out
+[Sub][13] Connection is closing due to error
+[Sub][12] Unexpected error: connect timed out
+[Sub][12] Connection is closing due to error
+[Sub][10] Unexpected error: connect timed out
+[Sub][10] Connection is closing due to error
+[Sub][54] Unexpected error: connect timed out
+[Sub][54] Connection is closing due to error
+[Sub][52] Unexpected error: connect timed out
+[Sub][52] Connection is closing due to error
+[Sub][57] Unexpected error: connect timed out
+[Sub][57] Connection is closing due to error
+[Sub][35] Unexpected error: connect timed out
+[Sub][35] Connection is closing due to error
+[Sub][9] Unexpected error: connect timed out
+[Sub][9] Connection is closing due to error
+[Sub][8] Unexpected error: connect timed out
+[Sub][8] Connection is closing due to error
+[Sub][53] Unexpected error: connect timed out
+[Sub][53] Connection is closing due to error
+[Sub][2] Unexpected error: connect timed out
+[Sub][2] Connection is closing due to error
+[Sub][6] Unexpected error: connect timed out
+[Sub][6] Connection is closing due to error
+[Sub][56] Unexpected error: connect timed out
+[Sub][56] Connection is closing due to error
+[Sub][49] Unexpected error: connect timed out
+[Sub][49] Connection is closing due to error
+[Sub][58] Unexpected error: connect timed out
+[Sub][58] Connection is closing due to error
+[Sub][55] Unexpected error: connect timed out
+[Sub][55] Connection is closing due to error
+[Sub][1] Unexpected error: connect timed out
+[Sub][1] Connection is closing due to error
+[Sub][0] Unexpected error: connect timed out
+[Sub][0] Connection is closing due to error
+[Sub][3] Unexpected error: connect timed out
+[Sub][3] Connection is closing due to error
+[Sub][7] Unexpected error: connect timed out
+[Sub][7] Connection is closing due to error
+[Sub][51] Unexpected error: connect timed out
+[Sub][51] Connection is closing due to error
+[Sub][5] Unexpected error: connect timed out
+[Sub][5] Connection is closing due to error
+[Sub][61] Unexpected error: connect timed out
+[Sub][61] Connection is closing due to error
+[Sub][63] Unexpected error: connect timed out
+[Sub][63] Connection is closing due to error
+[Sub][62] Unexpected error: connect timed out
+[Sub][62] Connection is closing due to error
+[Sub][4] Unexpected error: connect timed out
+[Sub][4] Connection is closing due to error
+[Sub][60] Unexpected error: connect timed out
+[Sub][60] Connection is closing due to error
+[Sub][50] Unexpected error: connect timed out
+[Sub][50] Connection is closing due to error
+[Sub][59] Unexpected error: connect timed out
+[Sub][59] Connection is closing due to error
+[Sub][64] Unexpected error: connect timed out
+[Sub][65] Unexpected error: connect timed out
+[Sub][64] Connection is closing due to error
+[Sub][65] Connection is closing due to error
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8f832246] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+No active profile set, falling back to default profiles: default
+BeanFactory id=6c00ec49-2952-3a3c-93be-ae8930782b2d
+Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8f832246] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 10086 (http)
+Initializing ProtocolHandler ["http-nio-10086"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.27]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1380 ms
+No URLs will be polled as dynamic configuration sources.
+To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+No URLs will be polled as dynamic configuration sources.
+To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Initializing ExecutorService 'taskScheduler'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-10086"]
+Tomcat started on port(s): 10086 (http) with context path ''
+Started QuantitativeCoreTradeApplication in 2.986 seconds (JVM running for 4.197)
+[Sub] Connection [id: 0] created for Trade for [htusdt]
+[Sub][0] Connecting...
+[Sub] Connection [id: 1] created for Candlestick for [htusdt]
+[Sub][1] Connecting...
+[Sub] Connection [id: 2] created for Candlestick for [htusdt]
+[Sub][2] Connecting...
+[Sub] Connection [id: 3] created for Candlestick for [htusdt]
+[Sub][3] Connecting...
+[Sub] Connection [id: 4] created for Candlestick for [htusdt]
+[Sub][4] Connecting...
+[Sub] Connection [id: 5] created for Candlestick for [htusdt]
+[Sub][5] Connecting...
+[Sub] Connection [id: 6] created for Candlestick for [htusdt]
+[Sub][6] Connecting...
+[Sub] Connection [id: 7] created for Candlestick for [htusdt]
+[Sub][7] Connecting...
+[Sub] Connection [id: 8] created for Candlestick for [htusdt]
+[Sub][8] Connecting...
+[Sub] Connection [id: 9] created for Candlestick for [htusdt]
+[Sub][9] Connecting...
+[Sub] Connection [id: 10] created for PriceDepth for [htusdt]
+[Sub][10] Connecting...
+[Sub] Connection [id: 11] created for Trade for [btcusdt]
+[Sub][11] Connecting...
+[Sub] Connection [id: 12] created for Candlestick for [btcusdt]
+[Sub][12] Connecting...
+[Sub] Connection [id: 13] created for Candlestick for [btcusdt]
+[Sub][13] Connecting...
+[Sub] Connection [id: 14] created for Candlestick for [btcusdt]
+[Sub][14] Connecting...
+[Sub] Connection [id: 15] created for Candlestick for [btcusdt]
+[Sub][15] Connecting...
+[Sub] Connection [id: 16] created for Candlestick for [btcusdt]
+[Sub][16] Connecting...
+[Sub] Connection [id: 17] created for Candlestick for [btcusdt]
+[Sub][17] Connecting...
+[Sub] Connection [id: 18] created for Candlestick for [btcusdt]
+[Sub][18] Connecting...
+[Sub] Connection [id: 19] created for Candlestick for [btcusdt]
+[Sub][19] Connecting...
+[Sub] Connection [id: 20] created for Candlestick for [btcusdt]
+[Sub][20] Connecting...
+[Sub] Connection [id: 21] created for PriceDepth for [btcusdt]
+[Sub][21] Connecting...
+[Sub] Connection [id: 22] created for Trade for [ethusdt]
+[Sub][22] Connecting...
+[Sub] Connection [id: 23] created for Candlestick for [ethusdt]
+[Sub][23] Connecting...
+[Sub] Connection [id: 24] created for Candlestick for [ethusdt]
+[Sub][24] Connecting...
+[Sub] Connection [id: 25] created for Candlestick for [ethusdt]
+[Sub][25] Connecting...
+[Sub] Connection [id: 26] created for Candlestick for [ethusdt]
+[Sub][26] Connecting...
+[Sub] Connection [id: 27] created for Candlestick for [ethusdt]
+[Sub][27] Connecting...
+[Sub] Connection [id: 28] created for Candlestick for [ethusdt]
+[Sub][28] Connecting...
+[Sub] Connection [id: 29] created for Candlestick for [ethusdt]
+[Sub][29] Connecting...
+[Sub] Connection [id: 30] created for Candlestick for [ethusdt]
+[Sub][30] Connecting...
+[Sub] Connection [id: 31] created for Candlestick for [ethusdt]
+[Sub][31] Connecting...
+[Sub] Connection [id: 32] created for PriceDepth for [ethusdt]
+[Sub][32] Connecting...
+[Sub] Connection [id: 33] created for Trade for [xrpusdt]
+[Sub][33] Connecting...
+[Sub] Connection [id: 34] created for Candlestick for [xrpusdt]
+[Sub][34] Connecting...
+[Sub] Connection [id: 35] created for Candlestick for [xrpusdt]
+[Sub][35] Connecting...
+[Sub] Connection [id: 36] created for Candlestick for [xrpusdt]
+[Sub][36] Connecting...
+[Sub] Connection [id: 37] created for Candlestick for [xrpusdt]
+[Sub][37] Connecting...
+[Sub] Connection [id: 38] created for Candlestick for [xrpusdt]
+[Sub][38] Connecting...
+[Sub] Connection [id: 39] created for Candlestick for [xrpusdt]
+[Sub][39] Connecting...
+[Sub] Connection [id: 40] created for Candlestick for [xrpusdt]
+[Sub][40] Connecting...
+[Sub] Connection [id: 41] created for Candlestick for [xrpusdt]
+[Sub][41] Connecting...
+[Sub] Connection [id: 42] created for Candlestick for [xrpusdt]
+[Sub][42] Connecting...
+[Sub] Connection [id: 43] created for PriceDepth for [xrpusdt]
+[Sub][43] Connecting...
+[Sub] Connection [id: 44] created for Trade for [eosusdt]
+[Sub][44] Connecting...
+[Sub] Connection [id: 45] created for Candlestick for [eosusdt]
+[Sub][45] Connecting...
+[Sub] Connection [id: 46] created for Candlestick for [eosusdt]
+[Sub][46] Connecting...
+[Sub] Connection [id: 47] created for Candlestick for [eosusdt]
+[Sub][47] Connecting...
+[Sub] Connection [id: 48] created for Candlestick for [eosusdt]
+[Sub][48] Connecting...
+[Sub] Connection [id: 49] created for Candlestick for [eosusdt]
+[Sub][49] Connecting...
+[Sub] Connection [id: 50] created for Candlestick for [eosusdt]
+[Sub][50] Connecting...
+[Sub] Connection [id: 51] created for Candlestick for [eosusdt]
+[Sub][51] Connecting...
+[Sub] Connection [id: 52] created for Candlestick for [eosusdt]
+[Sub][52] Connecting...
+[Sub] Connection [id: 53] created for Candlestick for [eosusdt]
+[Sub][53] Connecting...
+[Sub] Connection [id: 54] created for PriceDepth for [eosusdt]
+[Sub][54] Connecting...
+[Sub] Connection [id: 55] created for Trade for [bcdbtc]
+[Sub][55] Connecting...
+[Sub] Connection [id: 56] created for Candlestick for [bcdbtc]
+[Sub][56] Connecting...
+[Sub] Connection [id: 57] created for Candlestick for [bcdbtc]
+[Sub][57] Connecting...
+[Sub] Connection [id: 58] created for Candlestick for [bcdbtc]
+[Sub][58] Connecting...
+[Sub] Connection [id: 59] created for Candlestick for [bcdbtc]
+[Sub][59] Connecting...
+[Sub] Connection [id: 60] created for Candlestick for [bcdbtc]
+[Sub][60] Connecting...
+[Sub] Connection [id: 61] created for Candlestick for [bcdbtc]
+[Sub][61] Connecting...
+[Sub] Connection [id: 62] created for Candlestick for [bcdbtc]
+[Sub][62] Connecting...
+[Sub] Connection [id: 63] created for Candlestick for [bcdbtc]
+[Sub][63] Connecting...
+[Sub] Connection [id: 64] created for Candlestick for [bcdbtc]
+[Sub][64] Connecting...
+[Sub] Connection [id: 65] created for PriceDepth for [bcdbtc]
+[Sub][65] Connecting...
+Spider www.bishijie.com started!
+downloading page success https://www.bishijie.com/kuaixun
+Spider www.bishijie.com closed! 1 pages downloaded.
+Spider hytapi.cd120.com started!
+downloading page success https://hytapi.cd120.com/hxgyAppV2/appointment/deptDoctorsList
+*****
+Spider hytapi.cd120.com closed! 1 pages downloaded.
+Shutting down ExecutorService 'taskScheduler'
+Shutting down ExecutorService 'applicationTaskExecutor'
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$42fda406] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+No active profile set, falling back to default profiles: default
+BeanFactory id=6c00ec49-2952-3a3c-93be-ae8930782b2d
+Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$42fda406] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 10086 (http)
+Initializing ProtocolHandler ["http-nio-10086"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.27]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1205 ms
+No URLs will be polled as dynamic configuration sources.
+To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+No URLs will be polled as dynamic configuration sources.
+To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Initializing ExecutorService 'taskScheduler'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-10086"]
+Tomcat started on port(s): 10086 (http) with context path ''
+Started QuantitativeCoreTradeApplication in 2.866 seconds (JVM running for 3.931)
+[Sub] Connection [id: 0] created for Trade for [htusdt]
+[Sub][0] Connecting...
+[Sub] Connection [id: 1] created for Candlestick for [htusdt]
+[Sub][1] Connecting...
+[Sub] Connection [id: 2] created for Candlestick for [htusdt]
+[Sub][2] Connecting...
+[Sub] Connection [id: 3] created for Candlestick for [htusdt]
+[Sub][3] Connecting...
+[Sub] Connection [id: 4] created for Candlestick for [htusdt]
+[Sub][4] Connecting...
+[Sub] Connection [id: 5] created for Candlestick for [htusdt]
+[Sub][5] Connecting...
+[Sub] Connection [id: 6] created for Candlestick for [htusdt]
+[Sub][6] Connecting...
+[Sub] Connection [id: 7] created for Candlestick for [htusdt]
+[Sub][7] Connecting...
+[Sub] Connection [id: 8] created for Candlestick for [htusdt]
+[Sub][8] Connecting...
+[Sub] Connection [id: 9] created for Candlestick for [htusdt]
+[Sub][9] Connecting...
+[Sub] Connection [id: 10] created for PriceDepth for [htusdt]
+[Sub][10] Connecting...
+[Sub] Connection [id: 11] created for Trade for [btcusdt]
+[Sub][11] Connecting...
+[Sub] Connection [id: 12] created for Candlestick for [btcusdt]
+[Sub][12] Connecting...
+[Sub] Connection [id: 13] created for Candlestick for [btcusdt]
+[Sub][13] Connecting...
+[Sub] Connection [id: 14] created for Candlestick for [btcusdt]
+[Sub][14] Connecting...
+[Sub] Connection [id: 15] created for Candlestick for [btcusdt]
+[Sub][15] Connecting...
+[Sub] Connection [id: 16] created for Candlestick for [btcusdt]
+[Sub][16] Connecting...
+[Sub] Connection [id: 17] created for Candlestick for [btcusdt]
+[Sub][17] Connecting...
+[Sub] Connection [id: 18] created for Candlestick for [btcusdt]
+[Sub][18] Connecting...
+[Sub] Connection [id: 19] created for Candlestick for [btcusdt]
+[Sub][19] Connecting...
+[Sub] Connection [id: 20] created for Candlestick for [btcusdt]
+[Sub][20] Connecting...
+[Sub] Connection [id: 21] created for PriceDepth for [btcusdt]
+[Sub][21] Connecting...
+[Sub] Connection [id: 22] created for Trade for [ethusdt]
+[Sub][22] Connecting...
+[Sub] Connection [id: 23] created for Candlestick for [ethusdt]
+[Sub][23] Connecting...
+[Sub] Connection [id: 24] created for Candlestick for [ethusdt]
+[Sub][24] Connecting...
+[Sub] Connection [id: 25] created for Candlestick for [ethusdt]
+[Sub][25] Connecting...
+[Sub] Connection [id: 26] created for Candlestick for [ethusdt]
+[Sub][26] Connecting...
+[Sub] Connection [id: 27] created for Candlestick for [ethusdt]
+[Sub][27] Connecting...
+[Sub] Connection [id: 28] created for Candlestick for [ethusdt]
+[Sub][28] Connecting...
+[Sub] Connection [id: 29] created for Candlestick for [ethusdt]
+[Sub][29] Connecting...
+[Sub] Connection [id: 30] created for Candlestick for [ethusdt]
+[Sub][30] Connecting...
+[Sub] Connection [id: 31] created for Candlestick for [ethusdt]
+[Sub][31] Connecting...
+[Sub] Connection [id: 32] created for PriceDepth for [ethusdt]
+[Sub][32] Connecting...
+[Sub] Connection [id: 33] created for Trade for [xrpusdt]
+[Sub][33] Connecting...
+[Sub] Connection [id: 34] created for Candlestick for [xrpusdt]
+[Sub][34] Connecting...
+[Sub] Connection [id: 35] created for Candlestick for [xrpusdt]
+[Sub][35] Connecting...
+[Sub] Connection [id: 36] created for Candlestick for [xrpusdt]
+[Sub][36] Connecting...
+[Sub] Connection [id: 37] created for Candlestick for [xrpusdt]
+[Sub][37] Connecting...
+[Sub] Connection [id: 38] created for Candlestick for [xrpusdt]
+[Sub][38] Connecting...
+[Sub] Connection [id: 39] created for Candlestick for [xrpusdt]
+[Sub][39] Connecting...
+[Sub] Connection [id: 40] created for Candlestick for [xrpusdt]
+[Sub][40] Connecting...
+[Sub] Connection [id: 41] created for Candlestick for [xrpusdt]
+[Sub][41] Connecting...
+[Sub] Connection [id: 42] created for Candlestick for [xrpusdt]
+[Sub][42] Connecting...
+[Sub] Connection [id: 43] created for PriceDepth for [xrpusdt]
+[Sub][43] Connecting...
+[Sub] Connection [id: 44] created for Trade for [eosusdt]
+[Sub][44] Connecting...
+[Sub] Connection [id: 45] created for Candlestick for [eosusdt]
+[Sub][45] Connecting...
+[Sub] Connection [id: 46] created for Candlestick for [eosusdt]
+[Sub][46] Connecting...
+[Sub] Connection [id: 47] created for Candlestick for [eosusdt]
+[Sub][47] Connecting...
+[Sub] Connection [id: 48] created for Candlestick for [eosusdt]
+[Sub][48] Connecting...
+[Sub] Connection [id: 49] created for Candlestick for [eosusdt]
+[Sub][49] Connecting...
+[Sub] Connection [id: 50] created for Candlestick for [eosusdt]
+[Sub][50] Connecting...
+[Sub] Connection [id: 51] created for Candlestick for [eosusdt]
+[Sub][51] Connecting...
+[Sub] Connection [id: 52] created for Candlestick for [eosusdt]
+[Sub][52] Connecting...
+[Sub] Connection [id: 53] created for Candlestick for [eosusdt]
+[Sub][53] Connecting...
+[Sub] Connection [id: 54] created for PriceDepth for [eosusdt]
+[Sub][54] Connecting...
+[Sub] Connection [id: 55] created for Trade for [bcdbtc]
+[Sub][55] Connecting...
+[Sub] Connection [id: 56] created for Candlestick for [bcdbtc]
+[Sub][56] Connecting...
+[Sub] Connection [id: 57] created for Candlestick for [bcdbtc]
+[Sub][57] Connecting...
+[Sub] Connection [id: 58] created for Candlestick for [bcdbtc]
+[Sub][58] Connecting...
+[Sub] Connection [id: 59] created for Candlestick for [bcdbtc]
+[Sub][59] Connecting...
+[Sub] Connection [id: 60] created for Candlestick for [bcdbtc]
+[Sub][60] Connecting...
+[Sub] Connection [id: 61] created for Candlestick for [bcdbtc]
+[Sub][61] Connecting...
+[Sub] Connection [id: 62] created for Candlestick for [bcdbtc]
+[Sub][62] Connecting...
+[Sub] Connection [id: 63] created for Candlestick for [bcdbtc]
+[Sub][63] Connecting...
+[Sub] Connection [id: 64] created for Candlestick for [bcdbtc]
+[Sub][64] Connecting...
+[Sub] Connection [id: 65] created for PriceDepth for [bcdbtc]
+[Sub][65] Connecting...
+Spider www.bishijie.com started!
+downloading page success https://www.bishijie.com/kuaixun
+Spider www.bishijie.com closed! 1 pages downloaded.
+Spider hytapi.cd120.com started!
+downloading page success https://hytapi.cd120.com/hxgyAppV2/appointment/deptDoctorsList
+{"code":"1","msg":"获取科室医生列表成功","doctorsList":[{"deptCode":"3000-JH","departmentName":"结核专科门诊","doctorCode":"0405","doctorName":"陈雪融","title":"一级专家","introduction":null,"score":null,"proImg":"http://portal.cd120.info/attaches/doctors/HID0101/HID0101-0405-head.png","titleOrderCode":"04","hospitalName":null,"isAvailable":"0","clinicGroupID":"246","clinicName":"结核","profession":"从事结核与呼吸临床工作二十余年，擅长疑难结核病的诊断与鉴别诊断、耐药结核、重症结核等难治性结核的治疗、抗结核药不良反应的处理，长期致力于结核病的精准医学、循证医学、免疫学的研究。近年涉足巴林特小组等医学人文实践。","hospitalArea":"","hisCode":null,"showOrder":"999"},{"deptCode":"3000-JH","departmentName":"结核专科门诊","doctorCode":"0086","doctorName":"段荫乔","title":"一级专家","introduction":null,"score":null,"proImg":"http://portal.cd120.info/attaches/doctors/HID0101/HID0101-0086-head.png","titleOrderCode":"04","hospitalName":null,"isAvailable":"0","clinicGroupID":"246","clinicName":"结核","profession":null,"hospitalArea":"","hisCode":null,"showOrder":"999"},{"deptCode":"3000-JH","departmentName":"结核专科门诊","doctorCode":"11021","doctorName":"贺建清","title":"一级专家","introduction":null,"score":null,"proImg":"http://portal.cd120.info/attaches/doctors/HID0101/HID0101-11021-head.png","titleOrderCode":"04","hospitalName":null,"isAvailable":"0","clinicGroupID":"246","clinicName":"结核","profession":"擅长耐多药肺结核及肺外结核病的诊治，尤其擅长抗结核药物所致肝功能损害的诊治。","hospitalArea":"","hisCode":null,"showOrder":"999"},{"deptCode":"3000-JH","departmentName":"结核专科门诊","doctorCode":"0430","doctorName":"唐小燕","title":"一级专家","introduction":null,"score":null,"proImg":"http://portal.cd120.info/attaches/doctors/HID0101/HID0101-0430-head.png","titleOrderCode":"04","hospitalName":null,"isAvailable":"0","clinicGroupID":"246","clinicName":"结核","profession":null,"hospitalArea":"","hisCode":null,"showOrder":"999"}]}
+Spider hytapi.cd120.com closed! 1 pages downloaded.
+[Sub][0] Unexpected error: connect timed out
+[Sub][0] Connection is closing due to error
+[Sub][4] Unexpected error: connect timed out
+[Sub][1] Unexpected error: connect timed out
+[Sub][3] Unexpected error: connect timed out
+[Sub][6] Unexpected error: connect timed out
+[Sub][2] Unexpected error: connect timed out
+[Sub][1] Connection is closing due to error
+[Sub][4] Connection is closing due to error
+[Sub][2] Connection is closing due to error
+[Sub][3] Connection is closing due to error
+[Sub][6] Connection is closing due to error
+[Sub][5] Unexpected error: connect timed out
+[Sub][7] Unexpected error: connect timed out
+[Sub][5] Connection is closing due to error
+[Sub][7] Connection is closing due to error
+[Sub][8] Unexpected error: connect timed out
+[Sub][9] Unexpected error: connect timed out
+[Sub][8] Connection is closing due to error
+[Sub][9] Connection is closing due to error
+[Sub][11] Unexpected error: connect timed out
+[Sub][12] Unexpected error: connect timed out
+[Sub][10] Unexpected error: connect timed out
+[Sub][11] Connection is closing due to error
+[Sub][13] Unexpected error: connect timed out
+[Sub][12] Connection is closing due to error
+[Sub][13] Connection is closing due to error
+[Sub][10] Connection is closing due to error
+[Sub][15] Unexpected error: connect timed out
+[Sub][14] Unexpected error: connect timed out
+[Sub][15] Connection is closing due to error
+[Sub][14] Connection is closing due to error
+[Sub][17] Unexpected error: connect timed out
+[Sub][16] Unexpected error: connect timed out
+[Sub][17] Connection is closing due to error
+[Sub][16] Connection is closing due to error
+[Sub][21] Unexpected error: connect timed out
+[Sub][19] Unexpected error: connect timed out
+[Sub][18] Unexpected error: connect timed out
+[Sub][22] Unexpected error: connect timed out
+[Sub][18] Connection is closing due to error
+[Sub][20] Unexpected error: connect timed out
+[Sub][21] Connection is closing due to error
+[Sub][20] Connection is closing due to error
+[Sub][19] Connection is closing due to error
+[Sub][22] Connection is closing due to error
+[Sub][26] Unexpected error: connect timed out
+[Sub][27] Unexpected error: connect timed out
+[Sub][25] Unexpected error: connect timed out
+[Sub][23] Unexpected error: connect timed out
+[Sub][25] Connection is closing due to error
+[Sub][26] Connection is closing due to error
+[Sub][31] Unexpected error: connect timed out
+[Sub][33] Unexpected error: connect timed out
+[Sub][24] Unexpected error: connect timed out
+[Sub][27] Connection is closing due to error
+[Sub][29] Unexpected error: connect timed out
+[Sub][30] Unexpected error: connect timed out
+[Sub][28] Unexpected error: connect timed out
+[Sub][32] Unexpected error: connect timed out
+[Sub][28] Connection is closing due to error
+[Sub][35] Unexpected error: connect timed out
+[Sub][23] Connection is closing due to error
+[Sub][34] Unexpected error: connect timed out
+[Sub][31] Connection is closing due to error
+[Sub][33] Connection is closing due to error
+[Sub][24] Connection is closing due to error
+[Sub][36] Unexpected error: connect timed out
+[Sub][29] Connection is closing due to error
+[Sub][36] Connection is closing due to error
+[Sub][30] Connection is closing due to error
+[Sub][32] Connection is closing due to error
+[Sub][35] Connection is closing due to error
+[Sub][34] Connection is closing due to error
+[Sub][39] Unexpected error: connect timed out
+[Sub][38] Unexpected error: connect timed out
+[Sub][37] Unexpected error: connect timed out
+[Sub][39] Connection is closing due to error
+[Sub][38] Connection is closing due to error
+[Sub][37] Connection is closing due to error
+[Sub][41] Unexpected error: connect timed out
+[Sub][40] Unexpected error: connect timed out
+[Sub][41] Connection is closing due to error
+[Sub][40] Connection is closing due to error
+[Sub][42] Unexpected error: connect timed out
+[Sub][42] Connection is closing due to error
+[Sub][47] Unexpected error: connect timed out
+[Sub][43] Unexpected error: connect timed out
+[Sub][44] Unexpected error: connect timed out
+[Sub][43] Connection is closing due to error
+[Sub][45] Unexpected error: connect timed out
+[Sub][44] Connection is closing due to error
+[Sub][46] Unexpected error: connect timed out
+[Sub][47] Connection is closing due to error
+[Sub][45] Connection is closing due to error
+[Sub][46] Connection is closing due to error
+[Sub][49] Unexpected error: connect timed out
+[Sub][48] Unexpected error: connect timed out
+[Sub][49] Connection is closing due to error
+[Sub][48] Connection is closing due to error
+[Sub][52] Unexpected error: connect timed out
+[Sub][51] Unexpected error: connect timed out
+[Sub][50] Unexpected error: connect timed out
+[Sub][51] Connection is closing due to error
+[Sub][52] Connection is closing due to error
+[Sub][50] Connection is closing due to error
+[Sub][53] Unexpected error: connect timed out
+[Sub][54] Unexpected error: connect timed out
+[Sub][53] Connection is closing due to error
+[Sub][54] Connection is closing due to error
+[Sub][55] Unexpected error: connect timed out
+[Sub][55] Connection is closing due to error
+[Sub][58] Unexpected error: connect timed out
+[Sub][57] Unexpected error: connect timed out
+[Sub][59] Unexpected error: connect timed out
+[Sub][57] Connection is closing due to error
+[Sub][56] Unexpected error: connect timed out
+[Sub][61] Unexpected error: connect timed out
+[Sub][60] Unexpected error: connect timed out
+[Sub][61] Connection is closing due to error
+[Sub][58] Connection is closing due to error
+[Sub][59] Connection is closing due to error
+[Sub][56] Connection is closing due to error
+[Sub][60] Connection is closing due to error
+[Sub][63] Unexpected error: connect timed out
+[Sub][62] Unexpected error: connect timed out
+[Sub][62] Connection is closing due to error
+[Sub][63] Connection is closing due to error
+Shutting down ExecutorService 'taskScheduler'
+Shutting down ExecutorService 'applicationTaskExecutor'
